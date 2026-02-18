@@ -1,0 +1,486 @@
+tier1_focus =
+{
+	promote_aristocrats =
+	{
+		aristocrats = 0.2 #20% more likeley to become artisans
+		icon = 5
+		outliner_show_as_percent = yes
+	}
+
+	promote_artisans =
+	{
+		artisans = 0.20 #20% more likeley to become this type
+		icon = 6
+		outliner_show_as_percent = yes
+	}
+
+	promote_bureaucrats =
+	{
+		bureaucrats = 0.2 #20% more likeley to become this type
+		icon = 7
+		outliner_show_as_percent = yes
+	}
+
+	promote_capitalists =
+	{
+		capitalists = 0.2 #20% more likeley to become this type
+		icon = 8
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+	}
+	
+	promote_clergymen =
+	{
+		clergymen = 0.2 #20% more likeley to become this type
+		icon = 9
+		outliner_show_as_percent = yes
+	}
+
+	promote_clerks =
+	{
+		clerks = 0.2 #20% more likeley to become this type
+		icon = 10
+		outliner_show_as_percent = yes
+	}
+
+	promote_craftsmen =
+	{
+		craftsmen = 0.2 #20% more likeley to become this type
+		icon = 11
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+			NOT = {
+				AND = {
+					tag = CHI
+					state_scope = {craftsmen = 0.21}
+				}
+				AND = {
+					tag = HND
+					state_scope = {craftsmen = 0.25}
+				}
+			}
+		}
+	}
+
+	promote_farmers =
+	{
+		farmers = 0.2 #20% more likeley to become this type
+		icon = 12
+		outliner_show_as_percent = yes
+	}
+	
+	promote_labourers =
+	{
+		labourers = 0.2 #20% more likeley to become this type
+		icon = 13
+		outliner_show_as_percent = yes
+	}
+
+	promote_officers =
+	{
+		officers = 0.2 #20% more likeley to become this type
+		icon = 14
+		outliner_show_as_percent = yes
+	}
+
+	promote_soldiers = {
+        soldiers = 0.2 #20% more likely to become this type
+        icon = 15
+        outliner_show_as_percent = yes
+        limit = {
+            NOT = {
+				AND = {
+					tag = CHI
+					state_scope = {soldiers = 0.02}
+				}
+				AND = {
+					tag = HND
+					state_scope = {soldiers = 0.02}
+				}
+				AND = {
+					state_scope = {is_colonial = yes}
+					state_scope = {soldiers = 0.02}
+				}
+			}
+        }
+    }
+}
+
+tier2_focus =
+{
+	internal_migration =
+	{
+		immigrant_attract = 10000
+		immigrant_push = -10000
+		icon = 3
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	assimilation_bonus1 =
+	{
+		assimilation_rate = 1
+		icon = 2
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	ship_focus =
+	{
+		local_repair = 0.5 #1
+		icon = 19
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	militancy_and_reform_focus =
+	{
+		pop_militancy_modifier = 0.3
+		political_reform_desire = 0.5
+		social_reform_desire = 0.5
+		icon = 4
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	factory_input_bonus =
+	{
+		local_factory_input = -0.125 #-0.5
+		icon = 22
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	factory_output_bonus =
+	{
+		local_factory_output = 0.2 #1
+		icon = 23
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	mining_bonus =
+	{
+		mine_rgo_eff = 0.5 #1
+		icon = 43
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+	
+	farming_bonus =
+	{
+		farm_rgo_eff = 0.5 #1
+		icon = 42
+		limit = {
+			owner = { 
+				has_country_flag = tier_2
+			}
+		}
+	}
+}
+
+tier3_focus =
+{
+	promote_capitalists_4 =
+	{
+		capitalists = 0.30
+		icon = 33
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+
+	}
+
+	promote_clergymen_4 =
+	{
+		clergymen = 0.30
+		icon = 34
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	promote_officers_4 =
+	{
+		officers = 0.30
+		icon = 37
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	assimilation_bonus2 =
+	{
+		assimilation_rate = 2
+		icon = 16
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+	}
+	
+	craftsmen_assimilation_bonus =
+	{
+		craftsmen = 0.20
+		assimilation_rate = 1.5
+		outliner_show_as_percent = yes
+		icon = 18
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+	}
+	
+	soldier_assimilation_bonus =
+	{
+		soldiers = 0.20
+		assimilation_rate = 1.5
+		outliner_show_as_percent = yes
+		icon = 20
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+	}
+	
+	bureaucrat_migration_bonus =
+	{
+		bureaucrats = 0.20
+		immigrant_attract = 10000
+		immigrant_push = -10000
+		outliner_show_as_percent = yes
+		icon = 21
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+	}
+	factory_input_output_bonus =
+	{
+		local_factory_input = -0.125 #-0.25
+		local_factory_output = 0.15 #0.25 #0.5
+		icon = 24
+		limit = {
+			owner = { 
+				has_country_flag = tier_3
+			}
+		}
+	}
+}
+
+tier4_focus =
+{
+	promote_bureaucrats_4 =
+	{
+		bureaucrats = 0.30
+		icon = 32
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	promote_clerks_4 =
+	{
+		clerks = 0.30
+		icon = 35
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+	}
+	promote_craftsmen_4 =
+	{
+		craftsmen = 0.30
+		icon = 36
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+		outliner_show_as_percent = yes
+		limit = { 
+			civilized = yes
+		}
+	}
+
+	promote_soldiers_4 =
+	{
+		soldiers = 0.30
+		icon = 38
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+			NOT = {
+				AND = {
+					state_scope = {is_colonial = yes}
+					state_scope = {soldiers = 0.02}
+				}
+			}
+		}
+		outliner_show_as_percent = yes
+	}
+	
+	assimilation_bonus3 =
+	{
+		assimilation_rate = 3
+		icon = 17
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+	}
+	input_output_craftsmen =
+	{
+		craftsmen = 0.20
+		local_factory_input = -0.062 #-0.125
+		local_factory_output = 0.125 #0.25
+		outliner_show_as_percent = yes
+		icon = 39
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+	}
+	
+	input_output_clerks =
+	{
+		clerks = 0.20
+		local_factory_input = -0.062 #-0.125
+		local_factory_output = 0.125 #0.25
+		outliner_show_as_percent = yes
+		icon = 40
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+	}
+	
+	input_output_soldiers =
+	{
+		soldiers = 0.20
+		local_factory_input = -0.062 #-0.125
+		local_factory_output = 0.125 #0.25
+		outliner_show_as_percent = yes
+		icon = 41
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+	}
+	
+	input_output_rgos =
+	{
+		local_factory_input = -0.062 #-0.125
+		local_factory_output = 0.125 #0.25
+		mine_rgo_eff = 0.2 #0.25
+		farm_rgo_eff = 0.2 #0.25
+		icon = 44
+		limit = {
+			owner = { 
+				has_country_flag = tier_4
+			}
+		}
+	}
+}
+
+party_loyalty_focus =
+{
+	fascist_focus =
+	{
+		ideology = fascist
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 25
+	}
+	
+	reactionary_focus =
+	{
+		ideology = reactionary
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 26
+	}
+	
+	conservative_focus =
+	{
+		ideology = conservative
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 27
+	}
+	
+	socialist_focus =
+	{
+		ideology = socialist
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 28
+	}
+	
+	communist_focus =
+	{
+		ideology = communist
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 29
+	}
+	
+	liberal_focus =
+	{
+		ideology = liberal
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 30
+	}
+	
+	anarcho_liberal_focus =
+	{
+		ideology = anarcho_liberal
+		loyalty_value = 0.1 # By that much pops will be more loyal
+		icon = 31
+	}
+}

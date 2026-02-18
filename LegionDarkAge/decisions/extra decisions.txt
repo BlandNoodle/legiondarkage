@@ -1,0 +1,218 @@
+political_decisions = {
+
+	extra_funding_on = {
+		alert = yes
+		picture = national_value
+		potential = {
+			NOT = {	has_country_flag = extra_funding }
+			date = 534
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			NOT = {	has_country_modifier = bad_debter }
+			civilized = yes
+			NOT = { num_of_revolts = 1 }
+			revolution_n_counterrevolution = 1 
+			investment_banks = 1 
+		}
+		
+		effect = { set_country_flag = extra_funding }
+		
+		ai_will_do = { 
+			factor = 0
+			
+			modifier = {
+				factor = 0
+				OR = {
+					is_culture_group = east_asian
+					substate_of = CHI
+				}
+			}
+		}
+	}
+
+	extra_funding_off = {
+		alert = no
+		picture = national_value
+		potential = {
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = { }
+		
+		effect = { clr_country_flag = extra_funding }
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	extra_police = {
+		picture = extra_police
+		potential = {
+			NOT = { has_country_modifier = extra_police }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = extra_police
+				duration = 360
+			}
+			any_pop = {
+				scaled_militancy = {
+					ideology = reactionary
+					factor = -3
+				}
+				scaled_militancy = {
+					ideology = conservative
+					factor = -1
+				}
+				scaled_militancy = {
+					ideology = liberal
+					factor = 3
+				}
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	war_welfare = {
+		picture = war_welfare
+		potential = {
+			NOT = { has_country_modifier = war_welfare }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			war = yes
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = war_welfare
+				duration = 360
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+
+	rgo_fund = {
+		picture = rgo_fund
+		potential = {
+			NOT = { has_country_modifier = rgo_fund }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = rgo_fund
+				duration = 360
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	input_fund = {
+		picture = input_fund
+		potential = {
+			NOT = { has_country_modifier = input_fund }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = input_fund
+				duration = 360
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	output_fund = {
+		picture = output_fund
+		potential = {
+			NOT = { has_country_modifier = output_fund }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = output_fund
+				duration = 360
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+
+	influence_fund = {
+		potential = {
+			NOT = { has_country_modifier = influence_fund }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = extra_funding
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			NOT = { has_country_modifier = bad_debter}
+			money = 1100000
+		}
+		
+		effect = {
+			#set_country_flag = switched_nv
+			add_country_modifier = {
+				name = influence_fund
+				duration = 360
+			}
+			money = -1000000
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+}

@@ -1,0 +1,324 @@
+political_decisions={
+
+form_north_india ={
+potential = {
+primary_culture = indo_aryan
+NOT = { exists = HND
+} 
+}
+allow ={
+NOT = { has_country_modifier = indian_woes}
+NOT = { has_country_modifier = overburdened_admin}
+primary_culture = indo_aryan
+
+			PAN_1227 = { 
+				owned_by = THIS
+			}
+			ENG_1275 = { 
+				owned_by = THIS
+			}
+			ENG_1236 = { 
+				owned_by = THIS
+			} 
+			ENG_1264 = { 
+				owned_by = THIS
+			}
+			ENG_1251 = { 
+				owned_by = THIS
+			} 
+			ENG_1261 = { 
+				owned_by = THIS
+			} 
+			NAG_1277 = { 
+				owned_by = THIS
+			} 
+			HNS = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+						OR = { 
+						vassal_of = THIS
+						vassal_of = THIS
+						HNS = { exists = NO }  
+						}
+			}
+			}
+			}
+			}
+			GUP = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+						GUP = { exists = NO }  
+					}
+				}
+			}
+			}
+			}
+			VAK = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+						VAK = { exists = NO }  
+					}
+				}
+			}
+			}
+			}
+			GUJ = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+						GUJ = { exists = NO }  
+					}
+				}
+			}
+			}
+			}
+}
+effect = {
+
+prestige = 30
+change_tag = HND
+	any_country = {
+				limit = {
+					NOT = {
+						has_country_flag = new_world_nation
+						is_greater_power = yes
+					primary_culture = indo
+					}
+					OR = {
+						in_sphere = THIS
+						overlord = {
+							tag = THIS
+						}
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+primary_culture = indo_aryan
+HNS = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+SIN = { all_core = { add_core = THIS } }
+GUJ = { all_core = { add_core = THIS } }
+GUP = { all_core = { add_core = THIS } }
+KAM = { all_core = { add_core = THIS } }
+HNS = { all_core = { remove_core = HNS } }
+VAK = { all_core = { remove_core = VAK } }
+SIN = { all_core = { remove_core = SIN } }
+GUJ = { all_core = { remove_core = GUJ } }
+GUP = { all_core = { remove_core = GUP } }
+KAM = { all_core = { remove_core = KAM } }
+country_event = 7770950
+}}
+
+march_madurai = { 
+	potential = {
+		tag = HND
+		NOT = { has_country_flag = southern_march }
+		NOT = { has_country_modifier = overburdened_admin}
+	}
+	allow = {
+	HND = { all_core = { owned_by = THIS } }
+	}
+	effect = {
+	badboy = 25
+	KAD = { all_core = { add_core = THIS } }
+	VAK = { all_core = { add_core = THIS } }
+	GAN = { all_core = { add_core = THIS } }
+	KAL = { all_core = { add_core = THIS } }
+	PAL = { all_core = { add_core = THIS } }
+	NLA = { all_core = { add_core = THIS } }	
+	KLA = { all_core = { add_core = THIS } }	
+	set_country_flag = southern_march 
+	KLA = { country_event = { id=11104 days=0 }
+	}
+}
+}
+
+form_south_india ={
+potential = {
+NOT = { has_country_flag = south_india_formed }
+primary_culture = dravidian
+NOT = { has_country_modifier = indian_woes}
+}
+allow ={
+
+OR = {
+primary_culture = dravidian}
+owns = 1309
+owns = 1323
+owns = 1317
+owns = 1313
+owns = 1306
+owns = 1297
+owns = 1283
+
+}
+
+effect = {
+set_country_flag = south_india_formed
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = KAD
+		tag = VAK
+		tag = GAN
+		tag = KLA
+		tag = PAL
+		tag = NLA
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+change_tag = DRA
+primary_culture = dravidian
+KAD = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+GAN = { all_core = { add_core = THIS } }
+KAL = { all_core = { add_core = THIS } }
+PAL = { all_core = { add_core = THIS } }
+NLA = { all_core = { add_core = THIS } }
+}
+}
+
+
+form_hunas_indian_empire ={
+potential = {
+NOT = { exists = HND }
+tag = HNS
+OR = {
+primary_culture = turkic
+}
+}
+allow ={
+
+OR = {
+primary_culture = turkic}
+
+HNS = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+VAK = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+
+SIN = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+GUJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+GUP = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+KAM = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			}
+
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = HNS
+		tag = VAK
+		tag = SIN
+		tag = GUJ
+		tag = GUP
+		tag = KAM
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+	}
+change_tag = HND
+primary_culture = turkic
+add_accepted_culture = indo_aryan
+HNS = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+SIN = { all_core = { add_core = THIS } }
+GUJ = { all_core = { add_core = THIS } }
+GUP = { all_core = { add_core = THIS } }
+KAM = { all_core = { add_core = THIS } }
+		}
+	}
+	
+	indiafix1 = { 
+	potential = { 
+	has_country_modifier = overburdened_admin
+	NOT = { has_country_modifier = fixingindia }
+	NOT = { has_country_flag = indiamoment3 }
+	}
+	
+	allow = { 
+	money = 110000
+	private_bank_money_bill_printing = 1 
+	}
+	
+	effect = {
+	add_country_modifier = { name = fixingindia duration = 720 }
+	set_country_flag = indiafix2 
+	set_country_flag = indiamoment3 
+	money = -100000
+	bureaucrats = {
+		money = 5000
+		}
+	}
+}
+
+	indiafix2 = { 
+	potential = { 
+	has_country_modifier = overburdened_admin
+	has_country_flag = indiafix2
+	NOT = { has_country_modifier = fixingindia }
+	}
+	
+	allow = { 
+	money = 11000	
+	state_n_government = 1 
+	}
+	
+	effect = {
+	remove_country_modifier = overburdened_admin
+	clr_country_flag = indiafix2 
+	money = -10000
+	bureaucrats = {
+		money = 500
+		}
+	}
+}
+
+}

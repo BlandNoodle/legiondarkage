@@ -1,0 +1,7 @@
+owner = FRA
+controller = KAD
+add_core = KAD
+trade_goods = iron
+life_rating = 45
+colonial = 1
+set_province_flag = mine

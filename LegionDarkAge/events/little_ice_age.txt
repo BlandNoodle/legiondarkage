@@ -1,0 +1,292 @@
+
+#### PLAUGE OF JUSTINIAN ####
+
+country_event = {
+	id = 536002
+	title = "Plague Ravages Nation"
+	desc = "A plague has been spreading throughout our nation, its destruction leaves no one untouched. Millions will die."
+	picture = "plauge"
+
+trigger = {
+year = 541
+NOT = { has_country_flag = pluage_jst}
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+mean_time_to_happen = { 
+months = 3}
+
+
+option = {
+name = "This is bad"
+set_country_flag = pluage_jst
+add_country_modifier = { name = pluage_jst duration = -1 }
+}
+}
+
+country_event = {
+	id = 536061
+	title = "Urgent Plague Measures"
+	desc = "We need to contain the spread of the disease!"
+	picture = "port"
+
+trigger = {
+has_country_flag = pluage_jst
+NOT = { has_country_flag = plague_measures}
+NOT = { has_country_flag = had_pluage_jst }
+THIS = {
+	any_owned_province = {
+			has_building = naval_base 
+	}
+	}
+}
+
+mean_time_to_happen = { 
+months = 0.25}
+
+
+option = {
+name = "Close the Ports!"
+set_country_flag = plague_measures
+	political_reform = first_past_the_post
+	any_owned = {
+		limit = {
+			has_building = naval_base 
+		} 
+			add_province_modifier = { name = closed_port duration = 360 }
+	}
+	add_country_modifier = { name = mitigated_plague duration = 360 }
+	militancy = 3 
+}
+
+option = {
+name = "This will all blow over"
+	set_country_flag = plague_measures
+	prestige = -15
+consciousness = 3 
+}
+
+}
+
+country_event = {
+	id = 536062
+	title = "Recession!"
+	desc = "As a result of trade disruptions brought on by efforts to slow the plague our economy has taken a significant hit"
+	picture = "mining"
+
+trigger = {
+has_country_flag = plague_measures
+NOT = { has_country_flag = recession}
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+mean_time_to_happen = { 
+months = 0.25}
+
+option = {
+name = "This is just not our year"
+	set_country_flag = recession
+	consciousness = 1 
+	militancy = 1
+	add_country_modifier = { name = collapse_of_commerce duration = 360 }
+}
+}
+
+country_event = {
+	id = 536063
+	title = "Pandemonium"
+	desc = "In addition to widespread famine from the ice age, the new plague has caused widespread disorder"
+	picture = "outbreakannouncement"
+
+trigger = {
+has_country_flag = pluage_jst
+NOT = { has_country_flag = plague_chaos}
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+mean_time_to_happen = { 
+months = 0.25}
+
+
+option = {
+name = "Trust the science!"
+set_country_flag = plague_chaos
+research_points = 100 
+add_country_modifier = { name = plague_panic duration = 360 }
+}
+
+option = {
+name = "Trust the plan!"
+militancy = -1 
+set_country_flag = plague_chaos
+add_country_modifier = { name = plague_panic duration = 360 }
+}
+
+}
+
+country_event = {
+	id = 536064
+	title = "Justinian's Embarassment"
+	desc = "Cold, hungry, ill, and desperate, our population blames us for the crisis"
+	picture = "justinian"
+
+trigger = {
+tag = BYZ 
+has_country_flag = plague_chaos
+has_country_flag = recession
+NOT = { has_country_flag = plague_byz}
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+mean_time_to_happen = { 
+months = 0.5}
+
+
+option = {
+name = "Are you serious?"
+prestige = -5
+set_country_flag = plague_byz
+add_country_modifier = { name = jsn_retard duration = -1 }
+}
+}
+
+country_event = {
+	id = 536003
+	title = "Plague Calms Down"
+	desc = "A plague has been spreading throughout our nation, it has now receeded and lives are begining to be normal once more. Our population will finally begin to grow."
+	picture = "plauge"
+
+trigger = {
+year = 548
+has_country_flag = pluage_jst
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+
+mean_time_to_happen = { 
+months = 4.5}
+
+
+option = {
+name = "This is good"
+remove_country_modifier = pluage_jst
+remove_country_modifier = jsn_retard
+set_country_flag = had_pluage_jst 
+}
+
+}
+
+
+
+
+##### LITTLE ICE AGE #####
+
+country_event = {
+	id = 536004
+	title = "The Little Ice Age"
+	desc = "EVTDESC536004"
+	picture = "iceage"
+
+trigger = {
+year = 536
+NOT = { primary_culture = bedouin}
+NOT = { primary_culture = afro_asiatic}
+NOT = { has_country_flag = iceage_1}
+NOT = { has_country_flag = had_iceage_1 }
+has_global_flag = krakatoa_explodes
+}
+
+mean_time_to_happen = { 
+months = 3}
+
+
+option = {
+name = "This is bad"
+set_country_flag = iceage_1
+add_country_modifier = { name = iceage_1 duration = -1 }
+}
+}
+
+country_event = {
+	id = 536005
+	title = "The Little Ice Age is Ending"
+	desc = "The climate begins to normalize."
+	picture = "iceage"
+
+trigger = {
+year = 560
+NOT = { primary_culture = bedouin}
+NOT = { primary_culture = afro_asiatic}
+has_country_flag = iceage_1
+NOT = { has_country_flag = had_iceage_1 }
+}
+
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_modifier = iceage_1
+set_country_flag = had_iceage_1 
+}
+
+}
+
+country_event = {
+	id = 536006
+	title = "The Little Ice Age - Arabian Penninsula"
+	desc = "EVTDESC536006"
+	picture = "iceage"
+
+trigger = {
+has_global_flag = krakatoa_explodes
+year = 536
+OR = {
+primary_culture = bedouin
+primary_culture = afro_asiatic}
+
+NOT = { has_country_flag = iceage_arab}
+NOT = { has_country_flag = had_iceage_arab }
+}
+
+mean_time_to_happen = { 
+months = 3}
+
+
+option = {
+name = "This is excellent"
+set_country_flag = iceage_arab
+add_country_modifier = { name = iceage_arab duration = -1 }
+}
+}
+
+country_event = {
+	id = 536007
+	title = "Ice Age Ends - Arabian Penninsula"
+	desc = "The climate begins to normalize. Unfortunately."
+	picture = "iceage"
+
+trigger = {
+year = 560
+OR = {
+primary_culture = bedouin
+primary_culture = afro_asiatic}
+has_country_flag = iceage_arab
+NOT = { has_country_flag = had_iceage_arab }
+}
+
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "It was fun while it lasted"
+remove_country_modifier = iceage_arab
+set_country_flag = had_iceage_arab 
+}
+
+}
+

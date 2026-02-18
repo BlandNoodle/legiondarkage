@@ -1,0 +1,27 @@
+political_decisions = {
+	
+	switch_to_traditional_academic = {
+		alert = no
+		potential = {
+			NOT = {
+				has_country_modifier = academic_confusion
+			}
+			has_country_flag = inteyes
+		}
+		
+		allow = {
+			
+		}
+		effect = {
+			THIS = {country_event = {id = 19000190 days = 0}}
+			add_country_modifier = {
+				name = academic_confusion
+				duration = 7300
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+
+	}
+}

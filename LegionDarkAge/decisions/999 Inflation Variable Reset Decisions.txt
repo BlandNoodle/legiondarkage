@@ -1,0 +1,501 @@
+political_decisions = {    
+    Inflation_save_0_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 1839 NOT = { year = 1840 } }
+            AND = { year = 1849 NOT = { year = 1850 } }
+            AND = { year = 1859 NOT = { year = 1860 } }
+            AND = { year = 1869 NOT = { year = 1870 } }
+            AND = { year = 1879 NOT = { year = 1880 } }
+            AND = { year = 1889 NOT = { year = 1890 } }
+            AND = { year = 1899 NOT = { year = 1900 } }
+            AND = { year = 1909 NOT = { year = 1910 } }
+            AND = { year = 1919 NOT = { year = 1920 } }
+            AND = { year = 1929 NOT = { year = 1930 } }
+            AND = { year = 1939 NOT = { year = 1940 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 1839 NOT = { year = 1840 } }
+            AND = { year = 1849 NOT = { year = 1850 } }
+            AND = { year = 1859 NOT = { year = 1860 } }
+            AND = { year = 1869 NOT = { year = 1870 } }
+            AND = { year = 1879 NOT = { year = 1880 } }
+            AND = { year = 1889 NOT = { year = 1890 } }
+            AND = { year = 1899 NOT = { year = 1900 } }
+            AND = { year = 1909 NOT = { year = 1910 } }
+            AND = { year = 1919 NOT = { year = 1920 } }
+            AND = { year = 1929 NOT = { year = 1930 } }
+            AND = { year = 1939 NOT = { year = 1940 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_9 value = -0.001 }
+                set_variable = { which = inflation_save_0 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_1_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 504 NOT = { year = 505 } }
+            AND = { year = 514 NOT = { year = 515 } }
+            AND = { year = 524 NOT = { year = 525 } }
+            AND = { year = 534 NOT = { year = 535 } }
+            AND = { year = 544 NOT = { year = 545 } }
+            AND = { year = 554 NOT = { year = 555 } }
+            AND = { year = 564 NOT = { year = 565 } }
+            AND = { year = 574 NOT = { year = 575 } }
+            AND = { year = 584 NOT = { year = 585 } }
+            AND = { year = 594 NOT = { year = 595 } }
+            AND = { year = 604 NOT = { year = 605 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 504 NOT = { year = 505 } }
+            AND = { year = 514 NOT = { year = 515 } }
+            AND = { year = 524 NOT = { year = 525 } }
+            AND = { year = 534 NOT = { year = 535 } }
+            AND = { year = 544 NOT = { year = 545 } }
+            AND = { year = 554 NOT = { year = 555 } }
+            AND = { year = 564 NOT = { year = 565 } }
+            AND = { year = 574 NOT = { year = 575 } }
+            AND = { year = 584 NOT = { year = 585 } }
+            AND = { year = 594 NOT = { year = 595 } }
+            AND = { year = 604 NOT = { year = 605 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_0 value = -0.001 }
+                set_variable = { which = inflation_save_1 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_2_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 505 NOT = { year = 506 } }
+            AND = { year = 515 NOT = { year = 516 } }
+            AND = { year = 525 NOT = { year = 526 } }
+            AND = { year = 535 NOT = { year = 536 } }
+            AND = { year = 545 NOT = { year = 546 } }
+            AND = { year = 555 NOT = { year = 556 } }
+            AND = { year = 565 NOT = { year = 566 } }
+            AND = { year = 575 NOT = { year = 576 } }
+            AND = { year = 585 NOT = { year = 586 } }
+            AND = { year = 595 NOT = { year = 596 } }
+            AND = { year = 605 NOT = { year = 606 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 505 NOT = { year = 506 } }
+            AND = { year = 515 NOT = { year = 516 } }
+            AND = { year = 525 NOT = { year = 526 } }
+            AND = { year = 535 NOT = { year = 536 } }
+            AND = { year = 545 NOT = { year = 546 } }
+            AND = { year = 555 NOT = { year = 556 } }
+            AND = { year = 565 NOT = { year = 566 } }
+            AND = { year = 575 NOT = { year = 576 } }
+            AND = { year = 585 NOT = { year = 586 } }
+            AND = { year = 595 NOT = { year = 596 } }
+            AND = { year = 605 NOT = { year = 606 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_1 value = -0.001 }
+                set_variable = { which = inflation_save_2 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_3_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 506 NOT = { year = 507 } }
+            AND = { year = 516 NOT = { year = 517 } }
+            AND = { year = 526 NOT = { year = 527 } }
+            AND = { year = 536 NOT = { year = 537 } }
+            AND = { year = 546 NOT = { year = 547 } }
+            AND = { year = 556 NOT = { year = 557 } }
+            AND = { year = 566 NOT = { year = 567 } }
+            AND = { year = 576 NOT = { year = 577 } }
+            AND = { year = 586 NOT = { year = 587 } }
+            AND = { year = 596 NOT = { year = 597 } }
+            AND = { year = 606 NOT = { year = 607 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 506 NOT = { year = 507 } }
+            AND = { year = 516 NOT = { year = 517 } }
+            AND = { year = 526 NOT = { year = 527 } }
+            AND = { year = 536 NOT = { year = 537 } }
+            AND = { year = 546 NOT = { year = 547 } }
+            AND = { year = 556 NOT = { year = 557 } }
+            AND = { year = 566 NOT = { year = 567 } }
+            AND = { year = 576 NOT = { year = 577 } }
+            AND = { year = 586 NOT = { year = 587 } }
+            AND = { year = 596 NOT = { year = 597 } }
+            AND = { year = 606 NOT = { year = 607 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_2 value = -0.001 }
+                set_variable = { which = inflation_save_3 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_4_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 507 NOT = { year = 508 } }
+            AND = { year = 517 NOT = { year = 518 } }
+            AND = { year = 527 NOT = { year = 528 } }
+            AND = { year = 537 NOT = { year = 538 } }
+            AND = { year = 547 NOT = { year = 548 } }
+            AND = { year = 557 NOT = { year = 558 } }
+            AND = { year = 567 NOT = { year = 568 } }
+            AND = { year = 577 NOT = { year = 578 } }
+            AND = { year = 587 NOT = { year = 588 } }
+            AND = { year = 597 NOT = { year = 598 } }
+            AND = { year = 607 NOT = { year = 608 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 507 NOT = { year = 508 } }
+            AND = { year = 517 NOT = { year = 518 } }
+            AND = { year = 527 NOT = { year = 528 } }
+            AND = { year = 537 NOT = { year = 538 } }
+            AND = { year = 547 NOT = { year = 548 } }
+            AND = { year = 557 NOT = { year = 558 } }
+            AND = { year = 567 NOT = { year = 568 } }
+            AND = { year = 577 NOT = { year = 578 } }
+            AND = { year = 587 NOT = { year = 588 } }
+            AND = { year = 597 NOT = { year = 598 } }
+            AND = { year = 607 NOT = { year = 608 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_3 value = -0.001 }
+                set_variable = { which = inflation_save_4 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_5_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 508 NOT = { year = 509 } }
+            AND = { year = 518 NOT = { year = 519 } }
+            AND = { year = 528 NOT = { year = 529 } }
+            AND = { year = 538 NOT = { year = 539 } }
+            AND = { year = 548 NOT = { year = 549 } }
+            AND = { year = 558 NOT = { year = 559 } }
+            AND = { year = 568 NOT = { year = 569 } }
+            AND = { year = 578 NOT = { year = 579 } }
+            AND = { year = 588 NOT = { year = 589 } }
+            AND = { year = 598 NOT = { year = 599 } }
+            AND = { year = 608 NOT = { year = 609 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 508 NOT = { year = 509 } }
+            AND = { year = 518 NOT = { year = 519 } }
+            AND = { year = 528 NOT = { year = 529 } }
+            AND = { year = 538 NOT = { year = 539 } }
+            AND = { year = 548 NOT = { year = 549 } }
+            AND = { year = 558 NOT = { year = 559 } }
+            AND = { year = 568 NOT = { year = 569 } }
+            AND = { year = 578 NOT = { year = 579 } }
+            AND = { year = 588 NOT = { year = 589 } }
+            AND = { year = 598 NOT = { year = 599 } }
+            AND = { year = 608 NOT = { year = 609 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_4 value = -0.001 }
+                set_variable = { which = inflation_save_5 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_6_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+           AND = { year = 509 NOT = { year = 510 } }
+            AND = { year = 519 NOT = { year = 520 } }
+            AND = { year = 529 NOT = { year = 530 } }
+            AND = { year = 539 NOT = { year = 540 } }
+            AND = { year = 549 NOT = { year = 550 } }
+            AND = { year = 559 NOT = { year = 560 } }
+            AND = { year = 569 NOT = { year = 570 } }
+            AND = { year = 579 NOT = { year = 580 } }
+            AND = { year = 589 NOT = { year = 590 } }
+            AND = { year = 599 NOT = { year = 600 } }
+            AND = { year = 609 NOT = { year = 610 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 509 NOT = { year = 510 } }
+            AND = { year = 519 NOT = { year = 520 } }
+            AND = { year = 529 NOT = { year = 530 } }
+            AND = { year = 539 NOT = { year = 540 } }
+            AND = { year = 549 NOT = { year = 550 } }
+            AND = { year = 559 NOT = { year = 560 } }
+            AND = { year = 569 NOT = { year = 570 } }
+            AND = { year = 579 NOT = { year = 580 } }
+            AND = { year = 589 NOT = { year = 590 } }
+            AND = { year = 599 NOT = { year = 600 } }
+            AND = { year = 609 NOT = { year = 610 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_5 value = -0.001 }
+                set_variable = { which = inflation_save_6 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_7_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            tag = GHO
+        OR = {
+            AND = { year = 500 NOT = { year = 501 } }
+            AND = { year = 510 NOT = { year = 511 } }
+            AND = { year = 520 NOT = { year = 521 } }
+            AND = { year = 530 NOT = { year = 531 } }
+            AND = { year = 540 NOT = { year = 541 } }
+            AND = { year = 550 NOT = { year = 551 } }
+            AND = { year = 560 NOT = { year = 561 } }
+            AND = { year = 570 NOT = { year = 571 } }
+            AND = { year = 580 NOT = { year = 581 } }
+            AND = { year = 590 NOT = { year = 591 } }
+            AND = { year = 600 NOT = { year = 601 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 500 NOT = { year = 501 } }
+            AND = { year = 510 NOT = { year = 511 } }
+            AND = { year = 520 NOT = { year = 521 } }
+            AND = { year = 530 NOT = { year = 531 } }
+            AND = { year = 540 NOT = { year = 541 } }
+            AND = { year = 550 NOT = { year = 551 } }
+            AND = { year = 560 NOT = { year = 561 } }
+            AND = { year = 570 NOT = { year = 571 } }
+            AND = { year = 580 NOT = { year = 581 } }
+            AND = { year = 590 NOT = { year = 591 } }
+            AND = { year = 600 NOT = { year = 601 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_6 value = -0.001 }
+                set_variable = { which = inflation_save_7 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_8_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 501 NOT = { year = 502 } }
+            AND = { year = 511 NOT = { year = 512 } }
+            AND = { year = 521 NOT = { year = 522 } }
+            AND = { year = 531 NOT = { year = 532 } }
+            AND = { year = 541 NOT = { year = 542 } }
+            AND = { year = 551 NOT = { year = 552 } }
+            AND = { year = 561 NOT = { year = 562 } }
+            AND = { year = 571 NOT = { year = 572 } }
+            AND = { year = 581 NOT = { year = 582 } }
+            AND = { year = 591 NOT = { year = 592 } }
+            AND = { year = 601 NOT = { year = 602 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 501 NOT = { year = 502 } }
+            AND = { year = 511 NOT = { year = 512 } }
+            AND = { year = 521 NOT = { year = 522 } }
+            AND = { year = 531 NOT = { year = 532 } }
+            AND = { year = 541 NOT = { year = 542 } }
+            AND = { year = 551 NOT = { year = 552 } }
+            AND = { year = 561 NOT = { year = 562 } }
+            AND = { year = 571 NOT = { year = 572 } }
+            AND = { year = 581 NOT = { year = 582 } }
+            AND = { year = 591 NOT = { year = 592 } }
+            AND = { year = 601 NOT = { year = 602 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_7 value = -0.001 }
+                set_variable = { which = inflation_save_8 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+    Inflation_save_9_reset = {
+        picture = unite_the_principalities
+
+        potential = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 502 NOT = { year = 503 } }
+            AND = { year = 512 NOT = { year = 513 } }
+            AND = { year = 522 NOT = { year = 523 } }
+            AND = { year = 532 NOT = { year = 533 } }
+            AND = { year = 542 NOT = { year = 543 } }
+            AND = { year = 552 NOT = { year = 553 } }
+            AND = { year = 562 NOT = { year = 563 } }
+            AND = { year = 572 NOT = { year = 573 } }
+            AND = { year = 582 NOT = { year = 583 } }
+            AND = { year = 592 NOT = { year = 593 } }
+            AND = { year = 602 NOT = { year = 603 } }
+        }
+        }
+
+        allow = {
+            Month = 11
+            tag = GHO
+        OR = {
+            AND = { year = 502 NOT = { year = 503 } }
+            AND = { year = 512 NOT = { year = 513 } }
+            AND = { year = 522 NOT = { year = 523 } }
+            AND = { year = 532 NOT = { year = 533 } }
+            AND = { year = 542 NOT = { year = 543 } }
+            AND = { year = 552 NOT = { year = 553 } }
+            AND = { year = 562 NOT = { year = 563 } }
+            AND = { year = 572 NOT = { year = 573 } }
+            AND = { year = 582 NOT = { year = 583 } }
+            AND = { year = 592 NOT = { year = 593 } }
+            AND = { year = 602 NOT = { year = 603 } }
+        }
+        }
+
+        effect = {
+            LIC = {
+                change_variable = { which = inflation_save_8 value = -0.001 }
+                set_variable = { which = inflation_save_9 value = 0.001 } 
+            }
+        }
+
+        ai_will_do = {
+            factor = 100
+        }
+    }
+}

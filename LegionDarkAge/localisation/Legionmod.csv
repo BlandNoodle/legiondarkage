@@ -1,0 +1,1655 @@
+;;;;;;;;;;;;;;x
+exploit_kiruna_iron_mine_title;Exploit the Kiruna Iron Mine;;;;;;;;;;;;;;x
+exploit_kiruna_iron_mine_desc;With new technological advances, the giant iron reserves in Kiruna are finally ready for full exploitation.;;;;;;;;;;;;;;x
+expand_kiruna_iron_mine_title;Expand Kiruna Iron Mine;;;;;;;;;;;;;;x
+expand_kiruna_iron_mine_desc;Thanks to new explosive Nitroglycerin, we can expand our mining operations even further.;;;;;;;;;;;;;;x
+establish_mining_colony_title;Establish Mining Colony;;;;;;;;;;;;;;x
+establish_mining_colony_desc;Our mining operations are now in full swing and the reserves will not be depleted for centuries. By improving living conditions in the arctic climate for our miners, we can increase our yield for generations to come!;;;;;;;;;;;;;;x
+intensify_mining_kiruna_iron_mine_title;Further intensify Mining;;;;;;;;;;;;;;x
+intensify_mining_kiruna_iron_mine_desc;With new rail technology, we can expand our operation even further!;;;;;;;;;;;;;;x
+kiruna_mine;Kiruna Mine;;;;;;;;;;x
+expanded_kiruna_mine;Kiruna Mine;;;;;;;;;;;;;;x
+intensify_kiruna_mine;Kiruna Mine;;;;;;;;;;;;;;x
+kiruna_mining_colony;Well-Run Mining Colony;;;;;;;;;;;;;;x
+EVTNAME9990001;New Iron Ore Deposit discovered;;;;;;;;;;;;;;x
+EVTDESC9990001;Our miners have hit a new rich deposit of iron ore in our Kiruna Iron Mine. We have not yet explored it fully, but are certain of a huge increase of iron production.;;;;;;;;;;;;;;x
+EVTOPTA9990001;Let's see what we got!;;;;;;;;;;;;;;x
+chop_down_amazon_rainforest_title;Use the Amazon Rainforest;;;;;;;;;;;;;;x
+chop_down_amazon_rainforest_desc;Our rainforest is the largest on Earth. Many beautiful and, most importantly, expensive types of timber can be found here. We should make full use of our resources.;;;;;;;;;;;;;;x
+charcoal_burner;Charcoal Burner;;;;;;;;;;;;;;x
+charcoal_burner_desc;Timber is heated into charcoal for further industrial applications;;;;;;;;;;;;;;x
+woolfabric_factory;Wool Fabric Mill;;;;;;;;;;;;x
+woolfabric_factory_desc;Wool is woven into fabric and dyed here;;;;;;;;;;;;;x
+release_vasall_title;Release Vassals;;;;;;;;;;;;;;x
+release_vasall_desc;We will release all our vassals that are currently NOT in our sphere;;;;;;;;;;;;;;x
+offer_grants_title;Offer grants;;;;;;;;;;;;;;x
+offer_grants_desc;Allow other nations to ask us for grants;;;;;;;;;;;;;;x
+discontinue_offer_grants_title;Stop offering grants;;;;;;;;;;;;;;x
+discontinue_offer_grants_desc;Stop allowing other nations to ask us for grants;;;;;;;;;;;;;;x
+request_grants_title;Ask for grants;;;;;;;;;;;;;;x
+request_grants_desc;Asks all nations who are currently offering grants for financial aid. Check first if other nations are offering grants!;;;;;;;;;;;;;;x
+EVTNAME999999901;Tractors;;;;;;x
+EVTDESC999999901;mayo drive tractor,plant soybean, make money!;;;;;;x
+EVTOPTA999999901;go mayo go!;;;;;;x
+EVTNAME999999902;Electricity!;;;;;;x
+EVTDESC999999902;the wisest wizards have learned how to automate their spells so they can read their grimoire's late into the night without a candle!;;;;;;;x
+EVTOPTA999999902;so wise. . . ;;;;;;;x
+EVTNAME999999903;Nitroglycerin!;;;;;;x
+EVTDESC999999903;demoman put himself to good use in the mines!;;;;;;x
+EVTOPTA999999903;they'll have to glue him back together. . . ;;;;;;x
+EVTNAME999999904;TEMU;;;;;;x
+EVTDESC999999904;advances in commercial business practices have enabled corporations such as TEMU to operate at a larger, international level.;;;;;;x
+EVTOPTA999999904;shop like a billionaire!;;;;;;;;x
+EVTNAME999999905;Machine Tools;;;;;;x
+EVTDESC999999905;HOI4 industry tech but in 1800's, hitler couldnt get it right so they have to research it all over again for some reason.;;;;;;x
+EVTOPTA999999905;SCARLET FEVER YOURSELF, NOW!;;;;;;;;x
+EVTNAME19000087;The Strongest Creature on Earth;;;;;;;;;;x
+EVTDESC19000087;If someone is born a male, at least once in his life he'll dream of becoming the strongest man alive. Grappler, the martial artist who aims to become the strongest in the world!;;;;;;;x
+EVTOPTA19000087;. . .;;;;;;;;x
+EVTNAME19000088;Baldi's Basics in Nation Building;;;;;;;x
+EVTDESC19000088;You Picked Sardinia Piedmont! Big winning now.;;;;;;;;;;x
+EVTOPTA19000088;I wish you the best, too;;;;;;;x
+EVTOPTB19000088;Peace be upon you and your people;;;;;;;;;x
+EVTNAME19000089;Crimea;;;;;;;x
+EVTDESC19000089;We are dominant in the Black Sea!;;;;;;;;x
+EVTOPTA19000089;Doesn't matter, we go mid-game Russia;;;;;;;;;x
+EVTNAME19000090;You Lost;;;;;;;;;x
+EVTDESC19000090;RIP bozo;;;;;;;x
+EVTOPTA19000090;packwatch#1888;;;;;;;;x
+crimea;Crimean Port;;;;;;;;x
+crimea_desc;Crimea gives us vital control over the Black Sea;;;;;;;x
+help_ai;AI Crutch;;;;;;x
+help_ai_desc;this is some bullshit for ai to be viable;;;;;;;;;;x
+sweep;Cleaners;;;;;;;x
+sweep_desc;This modifier dont even do anything anymore;;;;;;;;x
+baldieffect;Baldi;;;;;;;;x
+baldieffect_desc;How did you end up like this, assuming you aren't AI rn. Bro you are FUCKED, F-U-C-K-E-D!;;;;;;;x
+fredbear;The King;;;;;;;;;x
+fredbear_desc;§RThe King§W is here. . . .;;;;;;;x
+russian_tech_school;Westernizer vs Slavophile;;;;;;;;x
+PROV3249;Bardeneccio;;;;;;;x
+wakanda_buff;Wakanda;;;;;;;;;x
+wakanda_buff_desc;I WILL NOT YIELD;;;;;;x
+HYP_liberal;Cold Harbor Capitalists;;;;;;x
+HYP_liberal_2;Frozen Way Shipments;;;;;;x
+HYP_liberal_3;Permafrost Economics;;;;;;x
+HYP_anarcho_liberal;Creatures;;;;;;x
+HYP_conservative;Hollow Earth Expedition;;;;;;x
+HYP_conservative_2;Hollow Earth Colony;;;;;;x
+HYP_conservative_3;Hollow Earth Society;;;;;;x
+HYP_socialist;Fishermen Rights;;;;;;x
+HYP_socialist_2;Ice Steel Union;;;;;;x
+HYP_socialist_3;Northern Thaw;;;;;;x
+HYP_fascist;Hitler;;;;;;x
+HYP_communist;Stalin;;;;;;x
+HYP_reactionary;Run It Back;;;;;;x
+EVTNAME19000091;LEGION!;;;;;;x
+EVTDESC19000091;The Fuhrer calls!;;;;;;x
+EVTOPTA19000091;Welcome him with open arms;;;;;;;x
+EVTOPTB19000091;ragequit;;;;;;;;x
+hollow_earth_title;Hollow Earth Settlement;;;;;;;x
+hollow_earth_desc;Refugees from Germany flood to the north, to seek refuge amongst our Scandinavian allies. The permafrost and Baltic Sea shall be our shield against the enemies legions!;;;;;;;;x
+form_hyperborea_title;Form Hyperborea;;;;;;x
+form_hyperborea_desc;Escape;;;;;;;x
+HYP;Hyperborea;;;;;;;;x
+HYP_ADJ;Hyperborean;;;;;;x
+hollowearthp_desc;The foundations have been laid;;;;;;x
+EVTNAME19000092;Quest for Hollow Earth;;;;;;x
+EVTDESC19000092;There be treasure beneath the crust of the Earth;;;;;;x
+EVTOPTA19000092;WE ARE LEGION;;;;;;;x
+hollowearthp;Hollow Earth Site;;;;;;x
+hyperboreaexodus;The Exodus;;;;;;x
+EVTNAME19000093;The Decision. . . ;;;;;;x
+EVTDESC19000093;Pirates are evil? The Marines are righteous? These terms have always changed throughout the course of history! Kids who have never seen peace and kids who have never seen war have different values! Those who stand at the top determine what's wrong and what's right! This very place is neutral ground! Justice will prevail, you say? But of course it will! Whoever wins this war becomes justice!;;;;;;;x
+EVTOPTA19000093;Saiyans United!;;;;;;;;x
+EVTOPTB19000093;I will rule this world, or see it burnt around me!;;;;;;;x
+integrate_poles_title;Integrate Poland;;;;;;x
+integrate_poles_desc;With the cultural and political centers of Poland dominated, we can declare hegemony over the Poles!;;;;;;x
+integrate_flems_title;Integrate Flanders;;;;;;x
+integrate_flems_desc;With the cultural and political centers of the Flemish dominated, we can declare hegemony over the Flemish!;;;;;;x
+integrate_walloons_title;Integrate Walloonia;;;;;;x
+integrate_walloons_desc;With the cultural and political centers of the Walloons dominated, we can declare hegemony over the Walloons!;;;;;;x
+integrate_dutch_title;Integrate Holland;;;;;;x
+integrate_dutch_desc;With the cultural and political centers of the Dutch dominated, we can declare hegemony over the Dutch!;;;;;;x
+integrate_nitaly_title;Integrate Northern Italy;;;;;;x
+integrate_nitaly_desc;With the cultural and political centers of Northern Italy dominated, we can declare hegemony over the Northern Italians!;;;;;;x
+integrate_shitaly_title;Integrate Southern Italy;;;;;;x
+integrate_shitaly_desc;With the cultural and political centers of Southern Italy dominated, we can declare hegemony over the Southern Italians!;;;;;;x
+integrate_rom_title;Integrate Them;;;;;;x
+integrate_rom_desc;With the cultural and political centers of, Them, dominated, we can declare hegemony over, them!;;;;;;x
+integrate_bul_title;Integrate Bulgaria;;;;;;x
+integrate_bul_desc;With the cultural and political centers of Bulgaria dominated, we can declare hegemony over the Bulgars!;;;;;;x
+integrate_greek_title;Integrate Greece;;;;;;x
+integrate_greek_desc;Greece! Greece! Greece! Greece!;;;;;;x
+CHI_99907;Port Arthur;;;;;;x
+CHI_99906;Qingdao;;;;;;x
+CHI_99905;Shanghai;;;;;;x
+CHI_99904;Ningbo;;;;;;x
+CHI_99903;Fuzhou;;;;;;x
+CHI_99902;Hong Kong;;;;;;x
+CHI_99901;Macau;;;;;;;x
+CHI_99900;Guangdong;;;;;;;x
+SPA_517;The Rock;;;;;;x
+BRZ_2540;Micronesia;;;;;;x
+FRA_1097;Joker Islands;;;;;;x
+reelin_in_the_spuds_title;Reeling in the Spuds;;;;;;x
+reelin_in_the_spuds_desc;Never meet your heroes, cause they usually are bastards from southern Ireland. Spudguns from Scotland though, so he lives for now.;;;;;;x
+southaf_title;Cockwhip the Boers;;;;;;;x
+southaf_desc;We gotta cockwhip em so we can run it down on the lesser folk, you know. like the germans. what? you thought i was talking about them? we already killed them.;;;;;;;x
+trash_title;Better Than Napoleon;;;;;;x
+trash_desc;Nappy couldn't contain the fellows across the sea, but they dont know how to run a state so they still fighting, ripe for taking!;;;;;;;x
+ybarra_title;Crown of Ybarras;;;;;;;x
+ybarra_desc;Claim crown of Ybarra's! Cinco de Mayo but win! SO MUCH WIN!;;;;;;;;x
+low_opium;Low Opium Trade;;;;;;;;x
+low_opium_desc;We are slowly introducing China to Indian opium;;;;;;;;;x
+opium_market_low;Small Opium Market;;;;;;;;x
+opium_market_low_desc;The market has just begun;;;;;;;x
+strict_china_trade;Strict Qing Regulation;;;;;;;;x
+strict_china_trade_desc;The Qing impose many restrictions and tariffs on our goods, especially the tea.;;;;;;;x
+mild_china_trade;Mild Qing Regulation;;;;;;;x
+mild_china_trade_desc;We were able to convince them to lighten the Canton system, although this could be further improved.;;;;;;;;x
+med_opium;Considerable Opium Market;;;;;;;x
+med_opium_desc;The Chinese believe Indian opium is better quality;;;;;;;x
+opium_market_med;Medium Opium Market;;;;;;;x
+opium_market_med_desc;The operation is approaching hundreds of tons of opium;;;;;;;x
+opium_market_lar;Large Opium Consortium;;;;;;;x
+opium_market_lar_desc;Entire segments of Chinese society are influenced by the purchases here;;;;;;;x
+large_opium;Massive Opium Market;;;;;;;x
+large_opium_desc;The trade deficit between Europe and China has not only been nullifiedm but reversed.;;;;;;;;x
+free_china_trade;Free China Trade;;;;;;;x
+free_china_trade_desc;Trade with the Qing is finally free!;;;;;;;x
+political_reformed_nation;REFORMED!;;;;;;;x
+save_the_nation0.5;Goku;;;;;;;;x
+save_the_nation0.5_desc;Hi im Goku!;;;;;;;;x
+save_the_nation1;Vegeta;;;;;;x
+save_the_nation1_desc;Hello, I am Vegeta, Prince of Saiyans;;;;;;x
+save_the_nation1.5;Freiza;;;;;;x
+save_the_nation1.5_desc;KILL ALL MONKEYS;;;;;;x
+save_the_nation2;Imperfect Cell;;;;;;;x
+save_the_nation2_desc;To me, you all are just food;;;;;;x
+save_the_nation2.5;Android 18;;;;;;;x
+save_the_nation2.5_desc;I lost. . .;;;;;;x
+save_the_nation3;Majin Buu;;;;;;x
+save_the_nation3_desc;baby go berzerk;;;;;;x
+save_the_nation3.5;Vegeta Blue;;;;;;;x
+save_the_nation3.5_desc;Why are you, blue?;;;;;;;x
+save_the_nation4;Perfect Cell;;;;;;x
+save_the_nation4_desc;Mayo if he stopped eating;;;;;;x
+save_the_nation4.5;Goku Black;;;;;;x
+save_the_nation4.5_desc;Evil Goku;;;;;;x
+save_the_nation5;Ultra Instinct Goku;;;;;;x
+save_the_nation5_desc;STOP! He's not black. . .;;;;;;x
+craftsmen_fix_cooldown;Craftsmen Cooldown;;;;;;x
+craftsmen_fix_cooldown_desc;wait;;;;;;x
+ukraine_slava_title;UKRAINI SLAVA;;;;;;;x
+ukraine_slava_desc;They are really good at farming, unless you take away their farms and pig pens, they will never be russian;;;;;;x
+bread_basketm;Get to Work;;;;;;x
+bread_basketm;Janitator!;;;;;;x
+vassal_nation;stay on my dick;;;;;;x
+vassal_nation_desc;you were born to stay on it;;;;;;x
+greater_germany;get fucked on;;;;;;;x
+greater_germany_desc;you wont get away with it for free;;;;;;x
+the_british_raj;The Raj;;;;;;x
+the_british_raj_desc;Owning all of India isn't cheap, but you control the scammers;;;;;;x
+money_hoarder_1;fat fuck;;;;;;x
+money_hoarder_1_desc;share a little;;;;;;x
+money_hoarder_2;fut fuck super saiyan;;;;;;x
+money_hoarder_2_desc;share a little more;;;;;;x
+money_hoarder_3;fat fuck golden freiza;;;;;;x
+money_hoarder_3_desc;share a lot more;;;;;;x
+money_hoarder_4;fat fuck goku black;;;;;;x
+money_hoarder_4_desc;share it all;;;;;;x
+money_hoarder_5;fat fuck perfect cell;;;;;;x
+money_hoarder_5_desc;give it away;;;;;;x
+money_hoarder_6;fat fuck vegeta blue;;;;;;x
+money_hoarder_6_desc;throw it away;;;;;;x
+money_hoarder_7;fat fuck BROLY;;;;;;x
+money_hoarder_7_desc;start burning it;;;;;;x
+war_propaganda;Propaganda;;;;;;;;x
+war_propaganda_desc;fight, my legions;;;;;;x
+healthcare_poorly_funded_a;broke alert;;;;;;x
+healthcare_poorly_funded_b;broke!;;;;;;x
+healthcare_poorly_funded_c;brokie;;;;;;x
+healthcare_poorly_funded_d;ur still broke;;;;;;x
+low_schools_fully_funded;der garten;;;;;;x
+acceptable_schools_fully_funded;der kinder garten;;;;;;;x
+good_schools_fully_funded;der highschoolen;;;;;;;x
+education_fully_funded;der universalis;;;;;;x
+neglected_education;broke alarm;;;;;;;x
+EVTNAME19000094;State of Asia;;;;;;;;x
+EVTDESC19000094;With the loss of our New World holdings and consolidation of India, we have large deficits left to fill and yet we were unable to prevent the wealth we had left from spilling into Qing coffers. The growing demand for chinese goods in Europe has far outscaled any efforts to wrestle their monopoly away on tea and silk. However, the climate in India is suitable for poppy production, allowing us to exchange opium for tea at an unprecedented scale. Unfortunately, the Qing have begun to notice this activity and while undoubtedly clamp down on the trade.;;;;;;x
+EVTOPTA19000094;Utilise the Opium;;;;;;x
+EVTOPTB19000094;Administer Copium;;;;;;x
+EVTNAME19000095;Confrontation;;;;;;x
+EVTDESC19000095;After the Qing officials at the Canton port confiscated and destroyed a sizable reserve of opium, many demand compensation.;;;;;;x
+need_trade;Trade Deficit;;;;;;x
+need_trade_desc;Get some China/Africa on your cock;;;;;;;x
+EVTNAME99900009;Der Schleppen Dragun;;;;;;x
+EVTDESC99900009;China has always been one of the most powerful empires the world has ever seen. They are however weak and fragmented and failed to civilize properly.;;;;;;x
+EVTOPTA19000095;A new opportunity. . .;;;;;;;x
+addicts;Opium Addict;;;;;;x
+EVTNAME19000096;Opium Addiction;;;;;;;;x
+EVTDESC19000096;Opium addiction has spread to another tile. . .;;;;;;x
+EVTOPTA19000096;Lethal Doses of Copium;;;;;;x
+EVTNAME19000097;Opium Spreads;;;;;;;;x
+EVTDESC19000097;Opium spread from a neighboring tile;;;;;;;;x
+EVTOPTA19000097;WE NEED NARCAN!;;;;;;x
+EVTNAME19000098;Trade Confrontation;;;;;;x
+EVTDESC19000098;The Barbarian Westerners seek to trick us by shipping the poisonous poppy into the mandate's borders. Our skilled trade minister has confiscated and burnt a large shipment of opium in an attempt to send a message to the British, although they now sit on a small island named Hong Kong until we reimburse them for the expense.;;;;;;x
+zbankers;Shadow Government;;;;;;x
+open_the_mines_title;Open the Mines;;;;;;x
+open_the_mines_desc;We need to buy everything;;;;;;x
+mayan_miner;Mayan Miners;;;;;;x
+mayan_miner_desc;DIGGY DIGGY HOLE;;;;;;x
+pay_government_title;Pay the Shadow Government;;;;;;x
+pay_government_desc;They dont do it for free;;;;;;x
+need_more_trade;Need More;;;;;;;x
+need_more_trade_desc;Get some more colonies on your dick;;;;;;x
+need_even_more_trade;Need Even More;;;;;;x
+need_even_more_desc;Just a little more colonies bro, just one more i promise;;;;;;x
+century_humiliate;Century of Humiliation;;;;;;x
+century_humiliate_desc;It never even began. . .;;;;;;x
+EVTDESC19000086;The barbarian outsiders have laid waste to our mighty armies, and ruined our once rich ports.;;;;;;x
+EVTNAME19000099;Defeat of the Qing;;;;;;;x
+EVTDESC19000099;Despite the efforts of the Canton ministers and the emperor himself, the Qing were unable prevent free trade from spreading to the Heavenly Mandate. The peoples of Britain may now freely buy tea and silk as they wish.;;;;;;x
+EVTOPTA19000099;Talley-ho!;;;;;;;x
+EVTNAME19000100;African Colonies;;;;;;x
+EVTDESC19000100;Chachinga;;;;;;;;;x
+EVTOPTA19000100;SO MUCH WIN!;;;;;;;;x
+EVTNAME19000101;YOU LOST;;;;;;;;;x
+EVTDESC19000101;How;;;;;;;;x
+EVTOPTA19000101;Its so over;;;;;;;;x
+african_colony;African Colony;;;;;;;;;x
+african_colony_desc;you did it!;;;;;;;x
+treaty_port_beijing;Port Arthur;;;;;;;;x
+treaty_port_beijing_desc;We own Port Arthur;;;;;;;x
+treaty_port_shanghai;Shanghai;;;;;;;;x
+treaty_port_shanghai_desc;We own shanghai;;;;;;;x
+treaty_port_ningbo;Ningbo;;;;;;;;x
+treaty_port_ningbo_desc;We own ningbo;;;;;;;;x
+treaty_port_qingdao;Qingdao;;;;;;;;x
+treaty_port_qingdao_desc;We own Qingdao;;;;;;;;x
+treaty_port_fuzhou;Fuzhou;;;;;;;x
+treaty_port_fuzhou_desc;We own fuzhou;;;;;;x
+treaty_port_hongkong;Hongkong;;;;;;x
+treaty_port_hongkong_desc;We own Hong Kong;;;;;;x
+treaty_port_macau;Macau;;;;;;;x
+treaty_port_macau_desc;We own Macau;;;;;;;x
+treaty_port_nanning;Nanning;;;;;;;x
+treaty_port_nanning_desc;We own Nanning;;;;;;;x
+PROV3250;Gaozhu;;;;;;;x
+PROV1495;Zhangjiang;;;;;;;;x
+organize_colonial_armies_title;Organize Colonial Armies;;;;;;x
+organize_colonial_armies_desc;§bThis decisions releases the restriction on colonial soldier promotion§B;;;;;;;x
+indiacountry;Raj Academics;;;;;;x
+EVTNAME19000125;Disaster at Annual;;;;;;x
+EVTDESC19000125;The overstretched Spanish military build-up in the Eastern Spanish Protectorate in Morocco crumbled. After the battle, the Rifians advanced eastward and overran more than 130 Spanish blockhouses. The Spanish garrisons were destroyed without mounting a coordinated response to the attacks. By the end of August, Spain had lost all the territories that it had gained in the area since 1909. General Silvestre disappeared and his remains were never found. According to one report, Spanish sergeant Francisco Basallo Becerra from the Kandussi garrison, an outpost east of Annual, identified the remains of Silvestre by his general's sash. A Moorish courier from Kaddur Namar said that eight days after the battle, he saw the corpse of the general lying face down on the battlefield and still recognizable by his sash and epaulettes.;;;;;;x
+EVTOPTA19000125;Chicken meat is cheap (war will be declared);;;;;;;x
+EVTOPTB19000125;Its jover. . .(let em go);;;;;;x
+EVTNAME19000126;Prepare for War;;;;;;;x
+EVTDESC19000126;Thug on em;;;;;;x
+EVTOPTA19000126;WAAAAAHH;;;;;;x
+EVTNAME19000127;War in Al-Rif;;;;;;;;x
+EVTDESC19000127;In July 1909, Spanish workers constructing a rail-bridge providing access to iron mines near Melilla were attacked by Rifian tribesmen. This incident led to the summoning of reinforcements from Spain itself. A series of skirmishes over the following weeks cost the Spanish over a thousand casualties. By September, the Spanish Army had 40,000 troops in northern Morocco and had occupied the tribal regions to the south and southeast of Melilla. The military operations in Jebala, in the Moroccan west, began in 1911 with the Larache landing. Spain worked to pacify a large part of the most violent areas until 1914, a slow process of consolidation of frontiers that lasted until 1919, due to World War I. The following year, after the signing of the Treaty of Fez, the northern Moroccan area was adjudicated to Spain as a protectorate. The Riffian populations strongly resisted the Spanish, unleashing a conflict that would last for several years.;;;;;;;x
+EVTOPTA19000127;Let them come;;;;;;x
+freedomfighters;Freedom Fighters;;;;;;x
+freedomfighters_desc;SONIC THE HEDGEHOG ANIMATED SHOW;;;;;;;x
+remove_him_title;Remove this Guy;;;;;;;x
+remove_him_desc;Ever since this guys been in charge, he has been totally floundering the game, get this guy outta here! Vivre la Troisieme Republique!§RWe will lose the trust of the South Germans if we do this§W;;;;;;;x
+integrate_north_title;Integrate the North;;;;;;x
+integrate_north_desc;Begin the unification of Germany, with the defeat of the Scandinavians.\n§RThis decision does not require Schleswig or Holstein, but they can be integrated§b;;;;;;x
+integrate_center_title;Integrate the Center;;;;;;x
+integrate_center_desc;The Austrians have been eclipsed and we may continue to form a unified Germany, on our terms.;;;;;;x
+integrate_south_title;Integrate the South;;;;;;x
+integrate_south_desc;The French were incapable of containing us; Germany is within our grasp.;;;;;;x
+integrate_bos_title;Annex Bosnia;;;;;;x
+integrate_bos_desc;Yummy snack;;;;;;x
+lubu_title;Lu Bu;;;;;;x
+lubu_desc;Lu Bu awakened;;;;;;x
+awakenhim_title;Awaken Him;;;;;;x
+awakenhim_desc;Start the Ceremony;;;;;;x
+EVTNAME19000128;Lubu Marches;;;;;;x
+EVTDESC19000128;Resurrected by crackpipe opium users Lu Bu returns to China as a demigod no longer bound by Dong Zhuos patricidal oath of honor. He reigns above all who witness him, those who follow are given weapons to usher in a new age of dominion by the slaying of dissenters that may try to poison his movement. Enraged by western posturing, he sees them as Cao Cao reincarnate put forth to demolish what he was put here to do. He will stop at nothing until the western Cao Cao is utterly decimated;;;;;;x
+EVTOPTA19000128;We March;;;;;;;x
+EVTNAME19000129;Success on the Front;;;;;;x
+EVTDESC19000129;I write this report from the frontline of the ongoing conquest led by the formidable Warlord Lu Bu, whose insatiable hunger for power has plunged the world into a maelstrom of chaos and devastation. The ground beneath our feet trembles as Lu Bu's unstoppable forces advance with an inexorable determination. His army, a formidable and disciplined force, leaves no room for opposition. The clash of steel, the thunderous hooves of cavalry, and the roar of siege engines reverberate across the landscape as cities crumble in the wake of his conquering horde. The conquered territories are subjected to a brutal occupation. Cities once thriving with life now lay in ruins, their streets stained with the blood of both combatants and innocent civilians. The once vibrant landscapes are transformed into grim reminders of the price paid for resisting Lu Bu's dominion.;;;;;;x
+EVTOPTA19000129;Chungus;;;;;;x
+EVTNAME19000130;Lu Bu defeated;;;;;;x
+EVTDESC19000130;In a dramatic and unprecedented turn of events, the seemingly unstoppable march of Warlord Lu Bu's conquest has met a climactic end at the hands of an international coalition determined to halt his reign of terror. Today marks a historic chapter as forces from various nations joined together to face the formidable adversary head-on.The battle reached its climax as the coalition's forces managed to encircle and isolate Lu Bu from his command center. Despite his legendary combat skills, the Warlord found himself overwhelmed by the sheer force of the coordinated assault. The turning tide became apparent as the allied generals strategically exploited weaknesses in Lu Bu's defenses, gradually wearing down his forces. As the dust settled on the battlefield, the once indomitable Lu Bu was forced to concede defeat. The international coalition emerged victorious, marking the end of an era defined by tyranny and unbridled ambition. The conquered territories, long held captive by fear, erupted in a mixture of relief and jubilation as news of the coalition's success spread.;;;;;;x
+EVTOPTA19000130;Owari Da;;;;;;x
+EVTNAME19000131;Surrender or Face Unthinkable Consequences;;;;;;x
+EVTDESC19000131;I pen this missive to you as a last opportunity for reason before the storm that shall soon befall you and your pitiful forces. The winds of war are at our backs, and the drums of impending doom resonate in every footstep of my advancing army. Let it be known that my patience wears thin, and the time for negotiation is swiftly closing its door. I, Lu Bu, Warlord of the, demand your immediate and unconditional surrender. Your defiance has not gone unnoticed, but your feeble attempts at resistance will only prolong the agony that awaits you. Should you choose to ignore this final warning, the consequences shall be severe and unforgiving. My forces are relentless, and I will not hesitate to unleash the full fury of my wrath upon your lands. You will witness the annihilation of all you hold dear ? your armies will crumble, your cities will burn, and your people will be subjected to a fate so gruesome that it will be spoken of in hushed tones for generations to come. Do not delude yourself into thinking that help will come to your aid, for I have cast a shadow so vast that no ally can emerge from it. Resistance is futile, and your only sensible course of action is to submit to my will. Surrender now, and perhaps I will be merciful in victory. Delay, and you shall face a calamity that will haunt the annals of history as a testament to your arrogance and folly. Choose wisely, for the consequences of your decision are upon you.;;;;;;x
+EVTOPTA19000131;Nonsense!;;;;;;x
+EVTNAME19000132;Lu Bu's Warpath;;;;;;x
+EVTDESC19000132;The conquered country is subjected to a harsh and uncompromising rule under Lu Bu's iron fist. Those who resist face brutal reprisals, and dissent is swiftly crushed. The once-thriving economy is plundered for the spoils of war, and the populace is subjected to heavy taxation and forced labor. The devastation wrought by Lu Bu's conquest is not only physical but also psychological. The people are left traumatized, their sense of security shattered. The scars of war run deep, and the conquered country is forever changed by the ruthless ambition of Lu Bu and his insatiable lust for power. The legacy of his conquest serves as a grim reminder of the price paid by those who dared to oppose the might of the Warlord.;;;;;;;x
+EVTOPTA19000132;. . .;;;;;;x
+devastation_title;Devastation;;;;;;x
+devastation_desc;Lu Bu delivered. . . ;;;;;;x
+lm_befriend_peru_title;Puppet Peru;;;;;;x
+lm_befriend_peru_desc;Ay, getting real chummy with these fellas, they seem like thugs.  I bet they could do the thug shaker, the rump shaker even.  Man I wanna see them shake that shit.;;;;;;x
+lm_integrate_peru_title;Integrate Peru;;;;;;x
+lm_integrate_peru_desc;These guys seem soooo chill.  We need to link up!!!!!!;;;;;;x
+lm_form_peru_bolivia_title;Form Bolivia-Peru;;;;;;x
+lm_form_peru_bolivia_desc;Long have we waited for this day to come.  The integrationn of the peruvian lands will lead to great economic possibilities for the Plurinationalist State of Bolivia, or should we say, Bolivia-Peru.;;;;;;x
+lm_atacama_boom_title;The Atacama Boom;;;;;;x
+lm_atacama_boom_desc;The exquisite economic possibilities of the Atacama Desert will enrich the Plurinationalist State of Bolivia-Peru's treasury.  State mandated quickie sex will increase our population growth of the area, and the newly born children will be sent straight to the mines for economic growth.  Jobs will be created from more mining, transportation of goods, and mine collapse rescue operations.  GLORY TO BOLIVIA-PERU!!!!!;;;;;;x
+lm_claim_ecuador_title;Claim Ecuador;;;;;;x
+lm_claim_ecuador_desc;Quito is the city of the worlds desires, and the Ecuadorians have had it too long, we deserve to own such a wonderful city!;;;;;;x
+lm_claim_chile_title;Claim Chile;;;;;;x
+lm_claim_chile_desc;Chile has been a thron in our side since day one.  Coast stealing pieces of shits have had this coming for a long team.  EAT MY DICK YOU COCKSUCKAS;;;;;;x
+lm_claim_natural_borders_title;Claim Natural Bolivian Borders;;;;;;x
+lm_claim_natural_borders_desc;Due to Morales ascending to Lichdom, Bolivia can now spread its influence throughout all of South America to gain what Morales views as its natural borders;;;;;;x
+lm_claim_brazil_title;Claim Brazil;;;;;;x
+lm_claim_brazil_desc;Brazil is a bitch ass motherfucker.  Run by idiots who are against Bolivian domination.  They must be raped and pillaged, its only reasonable.;;;;;;x
+lm_accept_north_andean_title;Accept North Andeans;;;;;;x
+lm_accept_north_andean_desc;Yknow, Simon Bolivar was a chill ass dude.  We LITERALLY named our country after him.  His people are aight with me.;;;;;;x
+lm_accept_platinean_title;Accept Platineans;;;;;;x
+lm_accept_platinean_desc;Lionel Messi is a GOAT.  Gotta give citizenship to his people as a form of respect.;;;;;;x
+lm_accept_brazilian_title;Accept Brazilians;;;;;;x
+lm_accept_brazilian_desc;Look, we may hate these guys, but Pele is a straight up goat. . . SO WE MUST RESPECT HIM!!!!!;;;;;;;x
+lm_buy_british_guyana_title;Offer to Buy British Guyana;;;;;;x
+lm_buy_british_guyana_desc;Just seems like something we should have.;;;;;;x
+lm_buy_dutch_guyana_title;Offer to Buy Dutch Guyana;;;;;;x
+lm_buy_dutch_guyana_desc;They definitely don't need it.;;;;;;x
+lm_buy_french_guyana_title;Offer to Buy French Guyana;;;;;;x
+lm_buy_french_guyana_desc;This will go along nicely with the 10 gigabyte of France nerfs.;;;;;;x
+lm_buy_falkland_islands_title;Offer to Buy the Falkland Islands;;;;;;x
+lm_buy_falkland_islands_desc;STINKY BRITISH PEOPLE, GIVE ISLANDS GIVE ISLAND GIVE ISLANDS GIVE ISLANDS NOOOOOOOOOOW!!!!!;;;;;;x
+lm_bolivian_domination_title;Total Bolivian Domination;;;;;;x
+lm_bolivian_domination_desc;We've done it.  Bolivia has united South America.  Evo Morales has lead his nation to greatness.  His only words to say to his people are this,  "I wouldn't have gotten here if I hadn't prayed to lord Josh."  That shit sent chills down my spine. . . READ THAT AGAIN!;;;;;;;;x
+PBV;Bolivia-Peru;;;;;;x
+PBV_ADJ;Peru-Bolivian;;;;;;;;x
+PBV_conservative;Conservative Party;;;;;;;;x
+PBV_liberal;Liberal Party;;;;;;;;x
+PBV_liberal_2;Free Trade Party;;;;;;;;x
+PBV_reactionary;Reactionary Party;;;;;;x
+PBV_anarcho_liberal;Anarhco Party;;;;;;;x
+PBV_socialist;Socialist Party;;;;;;;;x
+PBV_communist;Communist Party;;;;;;;;x
+PBV_fascist;Fascist Party;;;;;;;x
+EVTDESC780010;The Archmage Elon Musk had challenged Evo Morales fully aware of his intent to ascend to lichdom. The battle lasted 5 long months, until at the end, Elon had been left on the ground broken, beat, and scarred. Morales sat back on his throne of Lithium at Lake Titicaca, and proclaimed himself Lich King.  "Hey Elon, wanna hear a joke?" Said Morales. "Yeah. . . sure" "Lithium" "I. . . don't get it" "Thats right you son of a bitch!" Then everyone clapped (LITERALLY);;;;;;;;x
+EVTTITLE780100;The Bolivians want to buy Guyana;;;;;;;;x
+EVTDESC780100;Do we let them?;;;;;;;;x
+EVTTITLE780200;The Bolivians want to buy Guyana;;;;;;;;x
+EVTDESC780200;Do we let them?;;;;;;;;x
+EVTTITLE780300;The Bolivians want to buy Guyana;;;;;;;x
+EVTDESC780300;Do we let them?;;;;;;;;x
+EVTTITLE780110;They accepted the offer!;;;;;;;x
+EVTDESC780110;Its ours now boys. ZEHAHAHAHA!;;;;;;;x
+EVTTITLE780111;They declined the offer!;;;;;;;x
+EVTDESC780111;THOSE STUPID MOTHERFUCKERS!;;;;;;;;x
+EVTTITLE780400;The Bolivians want to buy the Falklands;;;;;;;x
+EVTDESC780400;Do we let them?;;;;;;;x
+780100.A;Sure give it to em.;;;;;;;x
+780100.B;Nah fuck u kid.;;;;;;;x
+780111.A;GO KILL YOURSELF! GRAAAAAAAGH!!!!!;;;;;;;x
+bolivian_port_of_the_new_world;Port to the New World;;;;;;;;x
+bolivian_port_of_the_new_world_desc;The Bolivian Port to the New World;;;;;;;x
+bolivian_tech_school;Great Bolivian School of Thought;;;;;;;;x
+bolivian_tech_school_desc;Bolivian Tech School;;;;;;;;x
+lm_ten_year_siesta_title;The Ten Year Siesta;;;;;;x
+lm_ten_year_siesta_desc;Sleep is was all true Hispanics thrive for.  The Siesta is a time-honored tradition that shall be kept around. To celebrate our greatness we shall have the greatest siesta ever!  TO KING YBARRA!;;;;;;x
+lm_all_the_kings_men_spa_title;All the Kings Men;;;;;;x
+lm_all_the_kings_men_spa_desc;We must gather all the kings men for the army, so that we can get SO MUCH WIN!  We will call these new conscripts, the chupie division.;;;;;;x
+lm_buy_gibraltar_title;Offer to buy Gibraltar;;;;;;x
+lm_buy_gibraltar_desc;IM ON MY KNEES BRITIAN, PLEASE GIVE ME THAT PORT, I NEED IT SO BAD MMMMMMMMMM PLEASE.;;;;;;x
+lm_core_spain_colonies_title;Integrate the Colonies;;;;;;x
+lm_core_spain_colonies_desc;We must accepted the Darks and the Uluvars of the world to be able to keep up with the rest of the great powers.  Feel that? Thats true.\n§R This will lock you from bringing game impact§b;;;;;;x
+lm_core_morocco_spa_title;Assimilate Morocco;;;;;;x
+lm_core_morocco_spa_desc;These no good Moroccans keep interrupting my siestas!  They must be taught the ways of the slumber, then they can really be accepted into the greater Spanish society.;;;;;;x
+lm_accept_croats_slovenes_ita_title;Accept the Croats and Slovenes;;;;;;x
+lm_accept_croats_slovenes_ita_desc;ON SALE FOR CHEAP, BALKAN FEMBOYS IN YOUR AREA, GET NOW WHILE STILL CHEAP!!!!;;;;;;x
+lm_accept_albanians_ita_title;Accept the Albanians;;;;;;x
+lm_accept_albanians_ita_desc;RED AND BLACK I DRESS, EAGLE ON MY CHEST, IM PROUD TO BE AN ALBANIAN!!!!;;;;;;;;x
+lm_accept_catalonian_ita_title;Integrate Catalonia;;;;;;x
+lm_accept_catalonian_ita_desc;I mean, they don't even wanna be with spain you know what I'm sayin my man, like they should be Italian and shit fr fr.  Link up for real, for my legions and shit, ROME TILL I DIE!!!;;;;;;x
+tanzimat_reforms_army_title;Oh Mein Moltke Pasha;;;;;;x
+tanzimat_reforms_army_desc;Moltke shows us the way of the killing people.  Very interesting. . .;;;;;;;x
+get_stockpile_big_title;Get Large National Stockpile;;;;;;;x
+get_stockpile_big_desc;Get that money big dawg!.;;;;;;;x
+lm_relize_roman_ambitions_title;Realize Roman Ambitions;;;;;;;;x
+lm_relize_roman_ambitions_desc;We wuz Rome and shit!  We gotta get back to the glory days and FUCK on these Frenchies.  ITALY #1!!!!!!!;;;;;;x
+lm_ita_accept_occitan_title;Accept the Occitans;;;;;;x
+lm_ita_accept_occitan_desc;We have conquered Occitan lands, and we must integrate them into Italian society.;;;;;;x
+EVTTITLE790000;Spain Offers to Buy Gibraltar;;;;;;x
+EVTDESC790000;Do we let these silly little guys do it?;;;;;;x
+790000.A;Awww look at the little guy, of course he can have it!;;;;;;x
+790000.B;Eat shit and die kid.;;;;;;x
+EVTTITLE790010;What if Patrick was Spanish?;;;;;;x
+EVTDESC790010;rbut what if?;;;;;;x
+EVTTITLE790020;ME WHEN I SEE THE 10/10 GYATT WALKING BY;;;;;;x
+EVTDESC900020;What about dat prick's face when he saw the gyatt?;;;;;;x
+EVTNAME800000;The Oriental Crisis;;;;;;x
+EVTDESC800000;The Egyptians have ruined our day for far too long, they're map looks ugly and makes us look like frauds.  They are now getting uppity and are all like "Erm I'm gonna go independant", fuck no little bitches.  They keep talking about how we're not ready to face they're 'superior forces', but we'll see about that. . .\n§REurope will place their bets,\n and the war will automatically begin shortly after. . .§b;;;;;;x
+EVTOPTA800000;We'll see how this developes. . .;;;;;;x
+EVTNAME800001;Great Power's Interest in the Crisis;;;;;;x
+EVTDESC800001;The great powers of the world have become interested in the developing crisis in Egypt.  We can only hope they see the obvious answer to this all and send aide to support us, the Ottomans, rightful rulers of Egypt.  Although we won't mind neutrality, we will very much be upset with those who choose too aide the Egyptians.;;;;;;x
+EVTOPTA800001;We can only hope they choose correctly. . .;;;;;;x
+EVTNAME800002;Tension Between the Ottomans and Egypt;;;;;;x
+EVTDESC800002;Things are getting heated between the Ottoman Empire and the Egyptian Sultanate.  We can choose to either help the 'sick man of Europe', stay neutral, or help the up and coming Egyptian state.;;;;;;x
+EVTOPTA800002;Support the Ottoman Empire;;;;;;x
+EVTOPTB800002;Support the Egyptian Sultanate;;;;;;x
+EVTOPTC800002;Stay Neutral;;;;;;x
+EVTNAME800003;$FROMCOUNTRY$ has sent us Aid!;;;;;;;x
+EVTDESC800003;We appreciate them dearly, this will help us lots!;;;;;;x
+EVTOPTA800003;May Allah bless them with many virgins.;;;;;;x
+EVTNAME800004;$FROMCOUNTRY$ gave us Aid!;;;;;;x
+EVTDESC800004;$FROMCOUNTRY$ sees the weakness in the Sultan's grip and blesses our military utopia!;;;;;;x
+EVTOPTA800004;Eh, Eh, Eh, Eh. . .;;;;;;x
+EVTNAME800005;$FROMCOUNTRY$ has sent Aid to Egypt!;;;;;;x
+EVTDESC800005;We depreciate them greatly, we hope they're oncologist appointment goes horribly.;;;;;;x
+EVTOPTA800005;May Allah curse them with many stonings.;;;;;;x
+EVTNAME800006;War on Egypt!;;;;;;x
+EVTDESC800006;Enough waiting, the powers of the world have chosen they're sides, we now will declare war on the Egyptians and reclaim our former glory!\n§REnforce the Puppet wargoal to regain the Levant§b;;;;;;x
+EVTOPTA800006;DEATH WAR!!!!!;;;;;;x
+EVTNAME800007;Victory in Egypt!;;;;;;x
+EVTDESC800007;We've beat em down, now we incorporate our former lands, awww yeah brother, this is goooood.;;;;;;x
+EVTOPTA800007;SCHLURP!;;;;;;x
+kings_men_spain;The Chupie Legions;;;;;;x
+ten_years_siesta;The Ten Year Siesta;;;;;;x
+assimilate_morocco;Moroccan Assimilation;;;;;;x
+reformed_ottoman_administration;Tanzimat Administrative Reform;;;;;;x
+reformed_ottoman_army;Tanzimat Military Reform;;;;;;x
+occitan;Occitan;;;;;;x
+SEP_ADJ;Sepoy;Sepoy;Sepoy;;;;;;;;;;;x;
+SEP;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_proletarian_dictatorship;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_presidential_dictatorship;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_bourgeois_dictatorship;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_fascist_dictatorship;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_absolute_monarchy;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_prussian_constitutionalism;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_hms_government;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_democracy;Sepoy Rebellion;Sepoy Rebellion;Sepoy Rebellion;;;;;;;;;;;x;
+SEP_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SEP_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SEP_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SEP_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SEP_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SEP_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SEP_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SEP_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SEP_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+EVTNAME19000102;Sepoys Protest Cartridges;;;;;;x
+EVTDESC19000102;Discontent among the Indians within the army has been growing ever since we came to dominant the continent, but recently it has skyrocketed due to a rumor that our Enfield cartridges are lubricated with pig or cow fat. Hundreds of soldiers have already executed their british officers in an attempt to fight back against our rule, with our own weaponry.;;;;;;x
+EVTOPTA19000102;Prepare the Grapeshot;;;;;;x
+EVTNAME19000103;Sepoy Mutiny;;;;;;x
+EVTDESC19000103;The revolt has reached a large enough scale that they have overpowered the limited garrisons in northern India;;;;;;x
+EVTOPTA19000103;May God help us all;;;;;;x
+EVTNAME19000104;Legions;;;;;;x
+EVTDESC19000104;Destroy Brits, lacerate em, slash em, stew em, feed them to Vishnu, may Allah judge them righteously;;;;;;x
+EVTOPTA19000104;Praise;;;;;;x
+EVTNAME19000105;Occupation;;;;;;x
+EVTDESC19000105;Rebels have occupied another position;;;;;;x
+EVTOPTA19000105;Rip;;;;;;x
+EVTNAME19000106;Aftermath of the Mutiny;;;;;;x
+EVTDESC19000106;The Indian mutiny has failed, and many princes either stood by or were unable to provide meaningful aid to the crisis. The East India Company also proved its worthlessness with its inability to contain the situation. Perhaps a modernization of administration is required. . .\n§RKeeping India as a vassal will open a decision to gain assimilation and pop growth elsewhere in the Commonwealth.§b;;;;;;x
+EVTOPTA19000106;YOOOOUUUUUURRR, FIRED!;;;;;;x
+theraj;The Raj;;;;;;x
+theraj_desc;The Raj and its consequences have been devestating for Indian society;;;;;;;;x
+SEP_ADJ;Sepoy;;;;;;;;;x
+EVTOPTB19000106;Restructure them into a self-governing body, loyal to the crown;;;;;;x
+EVTNAME19000085;Integration Complete;;;;;;x
+EVTDESC19000085;Due to previous administrations already existing within the colony, little was required to make them a proper subject of the Queen and Parliament directly. Let's hope they may serve us better under strict supervision.;;;;;;;x
+EVTOPTA19000085;God Save the Soge;;;;;;;;x
+EVTNAME19000107;WAAAAGHH;;;;;;;;x
+EVTDESC19000107;WE GONNA RIP DA GITZ TO BITZ AND STICK EM TO DA END OF ME RIDAH!;;;;;;;x
+EVTOPTA19000107;KILL SQUIGZ!;;;;;;x
+imperial;Imperial;;;;;;;x
+shogunate;Honorable Shogunate;;;;;;;x
+directorate;Colonial Directorate;;;;;;;x
+naval_maintenance1;Naval Maintenance 1;;;;;;;;x
+naval_maintenance1;Naval Maintenance 1;;;;;;;;x
+naval_maintenance2;Naval Maintenance 2;;;;;;;x
+naval_maintenance3;Naval Maintenance 3;;;;;;;;x
+grog;Grog;;;;;;;;x
+vitamin_c;Vitamin C;;;;;;;;x
+interwar_warfare2;Interwar Warfare 2;;;;;;x
+interwar_warfare;Interwar Warfare;;;;;;x
+interwar_warfare_0.5;Interwar Warfare 0.5;;;;;;x
+korean_admin_title;Korean Administration;;;;;;x
+korean_admin_desc;Integrate Korea into the honorable Japanese government, so that we may grow mighty in the worlds eyes.;;;;;;x
+form_kwantung_title;Form the Kwantung Army;;;;;;x
+form_kwantung_desc;Despite being the lest populated of China, Manchuria is difficult to manage. We require local support in order to pacify the countryside.;;;;;;x
+appoint_tojo_title;Appoint Tojo;;;;;;x
+appoint_tojo_desc;Hideki Tojo and his supporters from the Kwantung Army have gained a great deal of support, especially among the nationalists within our government.;;;;;;x
+kwantungarmy;Kwantung Army;;;;;;x
+kwantungarmy_desc;We have a special division dedicated to administrating Manchukuo;;;;;;x
+kwantung_occupation;Kwantung Occupation;;;;;;x
+kwantung_occupation_desc;The Kwantung operate here;;;;;;;x
+kwantunghq;Kwantung HQ;;;;;;x
+kwantunghq_desc;The Headquarters of the Kwantung Army;;;;;;x
+yatsen; Sun Yat Sen;;;;;;x
+yatsen_desc;Sun Yat Sens reforms;;;;;;x
+chinese_reform_title;Reform China;;;;;;;x
+chinese_reform_desc;We need to move forward, fr fr;;;;;;x
+swedishliberty;Swedish Liberty;;;;;;x
+swedishliberty_desc;Swedish Liberty buff;;;;;;x
+sweden_buff_title;Sweden Player Buff;;;;;;x
+sweden_buff_desc;Heres a buff for now;;;;;;x
+EVTNAME19000123;Warlord Period;;;;;;x
+EVTDESC19000123;We never even began. . . .;;;;;;x
+EVTOPTA19000123;The Mandate has Fallen;;;;;;x
+integrate_schleswig_title;Integrate Schleswig;;;;;;;x
+integrate_schleswig_desc;maio;;;;;;x
+integrate_holstein_title;Integrate Holstein;;;;;;x
+integrate_holstein_desc;maio the second;;;;;;x
+integrate_pommerania_title;Integrate Pommerania;;;;;;x
+integrate_pommerania_desc;dod scandinavia;;;;;;x
+integrate_baltic_title;Integrate Baltics;;;;;;x
+integrate_baltic_desc;snatch they foams;;;;;;x
+integratedisabled_title;Close the Folder;;;;;;x
+integratedisabled_desc;get this off my desk!;;;;;;;x
+integrateenabled_title;Open the Folder;;;;;;;;x
+integrateenabled_desc;This has general decisions like building canals, demoting unaccepted bureacrats, etc.;;;;;;;x
+EVTNAME19000108;Peking Convention;;;;;;x
+EVTDESC19000108;Russia is getting the slop in China without us!;;;;;;x
+EVTOPTA19000108;We gotta get some too!;;;;;;x
+EVTNAME19000114;Legion;;;;;;;;x
+EVTDESC19000114;Thug on em!;;;;;;x
+EVTOPTA19000114;Shoulda seen the look on that pricks face!;;;;;;x
+EVTNAME19000117;Czar Alexander II Assassinated!;;;;;;x
+EVTDESC19000117;After multiple attempts on his life, the Czar was finally killed by a bomb thrower in the streets of St. Petersburg, the fate of all Russians lie in the hands of Alexander III.;;;;;;x
+EVTOPTA19000117;Perhaps liberalization was a mistake. . .;;;;;;x
+EVTNAME19000118;Czar Alexander II Takes Charge;;;;;;x
+EVTDESC19000118;This guy likes liberal reforms, but also likes his power. He likes his serfs free;;;;;;;x
+EVTOPTA19000118;Yes Chef;;;;;;;x
+alexanderii;Alexander II;;;;;;x
+alexanderii_desc;Let him cook;;;;;;x
+greatgame_title;The Great Game;;;;;;x
+greatgame_desc;Influence in Afghanistan means influence throughout the rest of Central Asia. If we control this center piece, we can expand elsewhere. . . ;;;;;;;;x
+britishpersia_title;Persian Expansion;;;;;;;;;x
+britishpersia_desc;Although the Silk Road has long been defunct by the maritime empires of Europe, Persia still holds great value in natural resources and strategic importance.;;;;;;;;x
+russianpersia_title;Persian Expansion;;;;;;;;;x
+russianpersia_desc;Although the Silk Road has long been defunct by the maritime empires of Europe, Persia still holds great value in natural resources and strategic importance.;;;;;;;;x
+persian_gulf;Persian Gulf;;;;;;;;x
+persian_gulf_desc;We dominate the Persian Gulf;;;;;;;;x
+EVTNAME19000119;We lost the Gulf;;;;;;;;x
+EVTDESC19000119;The Port has fallen;;;;;;;x
+EVTOPTA19000119;owari da;;;;;;;x
+EVTNAME19000120;We control the Persian Gulf;;;;;;;;x
+EVTDESC19000120;We on our oil baron shit, catch be rolling barrels out here dog, catching cases of money for this black gold brother;;;;;;;;x
+EVTOPTA19000120;We are so back;;;;;;;;x
+imperial_ruler;Czar;;;;;;;x
+EVTNAME19000121;We control Hawaii;;;;;;;;x
+EVTDESC19000121;We on our oil baron shit, catch be rolling barrels out here dog, catching cases of money for this black gold brother;;;;;;;x
+EVTOPTA19000121;We just began;;;;;;;x
+EVTNAME19000122;We lost Hawaii;;;;;;;x
+EVTDESC19000122;The East just fell;;;;;;;;x
+EVTOPTA19000122;We never even began;;;;;;;;x
+mimosas;Mimosas;;;;;;;x
+mimosas_desc;we sipping mimosas in the sunny port of Honolulu;;;;;;x
+shogunate_ruler;Shogun;;;;;;;x
+directorate_ruler;Director;;;;;;;x
+levee_en_masse_title;Levee en Masse!;;;;;;;x
+levee_en_masse_desc;"From this moment until such time as its enemies shall have been driven from the soil of the Republic, all Frenchmen are in permanent requisition for the services of the armies. The young men shall fight; the married men shall forge arms and transport provisions; the women shall make tents and clothes and shall serve in the hospitals; the children shall turn old linen into lint; the old men shall betake themselves to the public squares in order to arouse the courage of the warriors and preach hatred of kings and the unity of the Republic.";;;;;;x
+integrate_central_america_title;Integrate the USCA;;;;;;;x
+integrate_central_america_desc;We must stop the donger menace;;;;;;;x
+levee_en_masse;Levee en Masse;;;;;;x
+levee_en_masse_desc;If i had 5 cents each time a Prussia day one war'd a France, I'd have 10 cents, which isn't alot, but its weird its happened twice.;;;;;;;;x
+develop_moscow_title;Develop Moscow;;;;;;;;;x
+develop_moscow_desc;Put some dollars on that city;;;;;;;x
+moscow_big;Moscow Developed;;;;;;x
+moscow_big_desc;Make Money;;;;;;x
+modernize_russia_title;Modernize Russia;;;;;;x
+modernize_russia_desc;When Alexander II ascended the throne in 1855, the largely peasant conscripted army in the Crimean war was a national disgrace, and clearly demonstrated that despite its large size, the Russian army was no longer competitive to smaller industrial powers such as Britain and France. The demand for reform was widespread, but unorganized. There had been little consideration of how the complex economic, social, political, and legal roles of the service would be ended. The Tsar decided to abolish serfdom from above, setting up a new system whereby the state would be able to purchase farmland from the landowners and sell it to the freed serfs. The Tsar told Moscow nobles: „xB"Better that the reform should come from above than wait until serfdom is abolished from below.„y„xW Historians have debated Alexander's role. Soviet era historians downplayed him, as they believed social forces caused history not individuals. Non-Marxist critics say he did not go far enough, especially since he rejected any parliament or duma.;;;;;;;;x
+drain1;Drain 1;;;;;;x
+drain1_desc;First level;;;;;;;;x
+drain2;Drain 2;;;;;;x
+drain2_desc;Second Level;;;;;;x
+drain3;Final Drain;;;;;;;x
+drain3_desc;Unleash the Polders;;;;;;;x
+begin_drain_title;Begin the Drain;;;;;;x
+begin_drain_desc;For centuries, the Dutch have been slowly recovering land from the sea, the final lake, Haaremmermeer, can now be removed with steam power.;;;;;;;;;x
+continue_drain_title;Continue the Drain;;;;;;;x
+continue_drain_desc;Land reclamation is an expensive and time consuming task, the land needs to be made suitable for farming;;;;;;;x
+finish_drain_title;Finish the Drain;;;;;;;x
+finish_drain_desc;With more land, we can become a net exporter of food to Europe while also maintaining our dense population.;;;;;;;;x
+zuiderzee_title;Build the Zuiderzee Works;;;;;;;;x
+zuiderzee_desc;The inlet sea that much of our nation surrounds is the consequence of flooding from centuries ago, with innovations in engineering we can restore the fresh water bay and reclaim more land in the process.;;;;;;;x
+zuiderzee_werkz;Zuiderzee Benefits;;;;;;;;x
+zuiderzee_werkz_desc;The freshwater bay acts as a resevoir for agriculture, fishing, and our urban centers.;;;;;;;x
+relocate_ourselves_title;Relocate the Government;;;;;;;x
+relocate_ourselves_desc;We have been driven from our homeland, but we can still run it back in Asia.;;;;;;;;x
+batavian_education;Batavian Reforms;;;;;;;;x
+batavian_education_desc;Without reforms, we will stand no chance in our return journey to Europe;;;;;;;x
+batavian_reform_title;Batavian Reforms;;;;;;;x
+batavian_reform_desc;this will help us run it back;;;;;;;x
+dnd_burgundy_title;DND Burgundy;;;;;;;x
+dnd_burgundy_desc;How;;;;;;;x
+william_and_mary_title;Personal Union The British;;;;;;;x
+william_and_mary_desc;This will release their colonies that weren't dutch, fair warning.;;;;;;;;x
+EVTNAME19000134;Circassian Unrest;;;;;;;;;;;x
+EVTDESC19000134;And they keep on risin;;;;;;;;;;x
+EVTOPTA19000134;Our response shall be swift and ruthless. . .;;;;;;;;;x
+pacifycircassiam_title;Pacify the Circassians;;;;;;;;;;x
+pacifycircassiam_desc;They dont appreciate our colonists;;;;;;;;;x
+circs;Circassian Revolt;;;;;;;;x
+circs_desc;Circassians are ripping shit up;;;;;;;;x
+circsdead;Circassians Suppressed;;;;;;;;;x
+circsdead_desc;We evicting them;;;;;;;;;x
+welcomegeorgiam_title;Welcome Georgia;;;;;;;;;x
+welcomegeorgiam_desc;We have to welcome our orthodox brethren into our empire;;;;;;;;;;x
+armsdead;Armenian Persuasion;;;;;;;;;x
+armsdead_desc;We are reeducating the populace;;;;;;;x
+thesource_title;Conquer the Source;;;;;;;;x
+thesource_desc;Time to finish them from the source, and then keep going to reunite with our brothers in islam;;;;;;;x
+developdonbass_title;Develop Donbass Region;;;;;;;;x
+developdonbass_desc;As the Industrial Revolution took hold across Europe, the vast coal resources of the region, discovered in 1721, began to be exploited in the mid-late 19th century. A map of the sparsely populated Wild Fields in the 17th century It was at this point that the name Donbas came into use, derived from the term "Donets Coal Basin" referring to the area along the Donets river where most of the coal reserves were found. The rise of the coal industry led to a population boom in the region, largely driven by Russian settlers.;;;;;;;;x
+donbass;Donbass;;;;;;x
+donbass_desc;Donbass has been industrialized;;;;;;x
+octoberrev_title;The October Revolution;;;;;;;x
+octoberrev_desc;Socialism hasn't gone far enough. . . . §R(This will have severe consequences depending on how well you are doing)§W;;;;;;;x
+firstpolitiburo_title;Establish the First Politiburo;;;;;;x
+firstpolitiburo_desc;We should formalize the power of the Soviets with our revolutionary heroes at the head of government!;;;;;;;x
+politiburo;The Politiburo;;;;;;;x
+politiburo_desc;Real Soviet Patriots are in control;;;;;;x
+urban;Urban;;;;;;;;x
+EVTNAME19000135;Ukrainian Unrest;;;;;;;x
+EVTDESC19000135;The Ukrainian peasantry has recently been inspired by the nationalist uprisings in Poland.;;;;;;x
+EVTOPTA19000135;No more grain!;;;;;;;x
+EVTNAME19000136;Poland Revolts;;;;;;;x
+EVTDESC19000136;In the midst of the chaos, polish nationalists have decided to take advantage and declare independence from the USSR!;;;;;;x
+EVTOPTA19000136;We shall see about that;;;;;;;x
+EVTNAME19000137;Baltic Revolts;;;;;;;x
+EVTDESC19000137;In the midst of the chaos, baltic nationalists have decided to take advantage and declare independence from the USSR!;;;;;;x
+EVTOPTA19000137;We shall see about that;;;;;;;x
+EVTNAME19000138;Finnish Revolts;;;;;;;x
+EVTDESC19000138;In the midst of the chaos, finnish nationalists have decided to take advantage and declare independence from the USSR!;;;;;;x
+EVTOPTA19000138;We shall see about that;;;;;;;x
+sovietbaltic_title;Sovietization of the Baltic;;;;;;;;x
+sovietbaltic_desc;The citizens are being reeducated;;;;;;x
+sovietpoland_title;Sovietization of Poland;;;;;;;;x
+sovietpoland_desc;The citizens are being reeducated;;;;;;x
+sovietfinland_title;Sovietization of Finland;;;;;;;;x
+sovietfinland_desc;The citizens are being reeducated;;;;;;x
+sovietization;Sovietization;;;;;;x
+EVTNAME19000139;No;;;;;;;x
+EVTDESC19000139;Polish Revolt;;;;;;x
+EVTOPTA19000139;My guitar gently weeps. . . ;;;;;;;x
+EGY_1755;Suez Canal;;;;;;x
+Lasalle_title;Approach Lasalle;;;;;;x
+Lasalle_desc;Lasalle has an alarming following of socialists who have been spreading throughout the nation in just 2 years. Luckily, his opponents are the liberals, so maybe we can come to an agreement. . . .;;;;;;x
+firsttowelfare_title;Contain Socialism;;;;;;x
+firsttowelfare_desc;While useful for curtailing the liberals, the socialists have continued to enjoy political power as a result of cooperation. Their trademark promises are welfare for the elderly and the unemployed, who says we can't enact these as a part of our "practical Christian" doctrine?;;;;;x
+EVTDESC19000139;Random Polish event has commenced;;;;;;x
+get_stockpile_small_title;Get National Stockpile;;;;;;;x
+get_stockpile_small_desc;Pick yourself up and try again.;;;;;;;x
+get_stockpile_title;Get Scraps;;;;;;;x
+get_stockpile_desc;I guess you get some scraps. . .;;;;;;;x
+EVTNAME443034;Peace-Time Mobilization;;;;;;x
+EVTDESC443034;Stop having fun;;;;;;x
+EVTOPTA443034;Shitty Mod allegations +1;;;;;;;x
+flood_the_lowlands_title;Flood the Lowlands;;;;;;x
+flood_the_lowlands_desc;Invaders are threatening the heartland of our nation, we have one last desperate measure to defend the capital.;;;;;;;x
+devastating_flood;Devastating Flood;;;;;;x
+devastating_flood_desc;Opening the floodgates has destroyed much of our developed land and left thousands homeless;;;;;;x
+dutch_flood_cooldown;Flood Cooldown;;;;;;;x
+dutch_flood_cooldown_desc;Gotta let the water build up again before you can bust;;;;;x
+EVTNAME60168004;Fort Destroyed;;;;;;;;x
+EVTDESC60168004;Combat in §Y$PROVINCE$§B has destroyed the fort!;;;;;;x
+EVT60168004OPTA;Who cares;;;;;;x
+EVTNAME60168005;Railway Destroyed;;;;;;x
+EVTDESC60168005;Combat in §Y$PROVINCE$§B has destroyed the local rail line!;;;;;;x
+EVT60168005OPTA;No shot;;;;;;x
+peacetime_mobilization;Peacetime Mobilization;;;;;;;x
+peacetime_mobilization_desc;womp womp;;;;;;;x
+campsystem_title;Begin Correctional Program;;;;;;x
+campsystem_desc;The many counterrevolutionaries born from our liberation of Russia need to be contained somewhere far, so that their poisonous ideas do not sap our nations newfound strength.;;;;;;;x
+gulag;Gulag Camp;;;;;;x
+gulag_desc;Correctional facility is located here;;;;;x
+ukrainepacify_title;Pacify Ukraine;;;;;;x
+ukrainepacify_desc;The Ukrainian people are upset at recent economic decisions, we must show them the error of their ways.;;;;;;x
+form_german_federation_title;Form German Nation;;;;;;;x
+form_german_federation_desc;You survived to this point, time to be broken;;;;;;x
+PROV963;Lubensk;;;;;;;;x
+PROV3251;Poltava;;;;;;;;x
+BRG;DOD Burgundy;Bourgogne;Burgund;;;;;;;;;;;;;;x
+BRG_ADJ;Burgundian;Bourguinion;Burgundisch;;;;;;;;;;;;;;x
+BRG_absolute_monarchy;The Kingdom of DOD;;;;;;;;;;;;;x
+BRG_prussian_constitutionalism;The Kingdom of DOD;;;;;;;;;;;;;x
+BRG_hms_government;His Majesty's DOD Burgundy;;;;;;;;;;;;;x
+BRG_fascist_dictatorship;L’Empire de DOD Bourgogne;;;;;;;;;;;;;x
+BRG_proletarian_dictatorship;The People's DOD Republic;;;;;;;x
+BRG_reactionary_1;Les Gardiens du Rhin;;;;;;;;;;;x
+BRG_conservative_1;Parti Unioniste;;;;;;;;;;;;;x
+BRG_liberal_1;Parti Réformiste;;;;;;;;;;;;x 
+BRG_liberal_2;Faction Parlementaire Libérale;;;;;;;;;;;;x 
+BRG_liberal_3;Parti Libéral Classique;;;;;;;;;;;;x 
+BRG_anarcho_liberal_1;Parti Réformiste Radical;;;;;;;;;;;;;;x 
+BRG_anarcho_liberal_2;Faction Parlementaire Radical;;;;;;;;;;;;;;x
+BRG_reactionary_2;Parti Jeaniste;;;;;;;;;;;;;;x
+BRG_conservative_2;Parti Royaliste;;;;;;;;;;;;;;;x 
+BRG_socialist_1;Socialisten;;;;;;;;;;;;;x 
+BRG_communist_1;Communistische Partij;;;;;;;;;;;x
+BRG_reactionary_3;Parti Bouillonniste;;;;;;;;;;;x
+BRG_conservative_3;Parti de l'Ordre;;;;;;;;;;;;;x
+BRG_anarcho_liberal_3;Indépendants;;;;;;;;;;;;;x
+BRG_socialist_2;Parti fédéral-socialiste;;;;;;;;;x
+BRG_communist_2;Front uni communiste;;;;;;;;;;x 
+BRG_fascist;Parti du pays réel;;;;;;;;;;;;;x
+newparis;Paris Renovated;;;;;;;x
+newparis_desc;This place is finally habitable;;;;;;x
+EVTNAME19000140;The German Question;;;;;;;x
+EVTDESC19000140;Germany has been without a centralized government, will we seek to fill this role or stomp it out? With revolution over the horizon, the populace will be impatient and quick to change sides. §GHold onto your German holdings/spheres to be rewarded.§b\nPrussia:Follow the new decisions to slowly annex everyone, Germany is your reward!\n§BFrance:Hold on to Alsace-Lorraine and sphere Southern Germany to claim hegemony over the region!\n§RAustria:Maintain the Status Quo over Southern Germany to soldify your own empire, and gain the opportunity to unite it all!§b;;;;;;x
+EVTOPTA19000140;Let the games begin;;;;;;x
+EVTNAME19000141;We Lost;;;;;;;x
+EVTDESC19000141;Our competitor's have managed to outmanuever us in Germany, we no longer have any say in their formation;;;;;;x
+EVTOPTA19000141;Bummer;;;;;;x
+monroena;North America Safe;;;;;;;x
+monroena_desc;North America is safe from outside imperialists. ;;;;;;x
+monroesa;South America Safe;;;;;;;x
+monroesa_desc;South America is safe from outside imperialists;;;;;;x
+max_title;Import Maximilian;;;;;;;x
+max_desc;A member of the House of Habsburg-Lorraine, Maximilian was the younger brother of Emperor Franz Joseph I of Austria. Prior to his becoming Emperor of Mexico, he was commander-in-chief of the small Imperial Austrian Navy and briefly the Austrian viceroy of Lombardy-Venetia, but was removed by the emperor. Two years before his dismissal, he briefly met with French emperor Napoleon III in Paris, where he was approached by conservative Mexican monarchists seeking a European royal to rule Mexico. Initially Maximilian was not interested, but following his dismissal as viceroy, the Mexican monarchists' plan was far more appealing to him.;;;;;;;;x
+EVTNAME19000142;Foreign Policy Pays Dividends;;;;;;;x
+EVTDESC19000142;The southern Germans within our sphere are becoming increasingly cooperative;;;;;;x
+EVTOPTA19000142;Splendid;;;;;;x
+EVTNAME19000143;Foreign Policy Pays Dividends 2;;;;;;;x
+EVTDESC19000143;We have convinced the South Germans that France is a valid protector of the region;;;;;;x
+EVTOPTA19000143;Magnificient;;;;;;x
+legitimacy;Legitimate;;;;;;x
+legitimacy_desc;We have a strong position in the German Confederation;;;;;x
+form_south_german_confederation_real_title;Form Strong South Germany;;;;;;x
+form_south_german_confederation_real_desc;Our position in teh German Confederation allows us to integrate the rest of the south germans without sacrificing our own imperial holdings, and we can avoid direct war with the Prussians;;;;;;x
+EVTNAME19000144;Foreign Policy Pays Dividends;;;;;;;x
+EVTDESC19000144;The southern Germans within our sphere are becoming increasingly cooperative;;;;;;x
+EVTOPTA19000144;Splendid;;;;;;x
+EVTNAME19000145;Foreign Policy Pays Dividends 2;;;;;;;x
+EVTDESC19000145;We have convinced the South Germans that Austria is the one to unify Germany!§RForming South Germany will now be easier and have less downsides§W;;;;;;x
+EVTOPTA19000145;Magnificient;;;;;;x
+monroecanada_title;Free Canada;;;;;;x
+monroecanada_desc;Our brethren in Canada must be freed!;;;;;;x
+monroenorthamerica_title;Monroe Doctrine in North America;;;;;;x
+monroenorthamerica_desc;The only way American ideals can be realised is when the Hemisphere is secured against imperialism §BIf we break our agreement there will be consequences§W;;;;;;;x 
+germancoops;German Cooperation;;;;;x
+germancoops_desc;Germans are cooperating with us;;;;;;;x
+newvienna;Vienna Renovated;;;;;;;x
+newvienna_desc;Almost as good as Paris. . .;;;;;;x
+restore_order_hun_title;Restore Order to Hungary;;;;;;;x
+restore_order_hun_desc;Send them a letter with a heart sticker saying sorry, maybe they forgive and forget?;;;;;;;x
+EVTNAME19000146;Hungarian Chimp Event;;;;;;;x
+EVTDESC19000146;We look weak after throwing in Saxony, they think they can run us down, uhm, can they?;;;;;;x
+EVTOPTA19000146;I want the rebels obl-iter-ated!;;;;;;x
+EVTOPTB19000146;Forgive and Forget;;;;;;x
+EVTNAME19000147;Saxony has Fallen;;;;;;;x
+EVTDESC19000147;We gave up Saxony a little easy, our subordinates will think they can get away just as easy, maybe we wait till 1840 next time;;;;;;x
+EVTOPTA19000147;Shitty Mod Dev +1;;;;;;x
+dominatepersia_title;Dominate Persia;;;;;;;x
+dominatepersia_desc;Imma stop yapping, only kramer diplo getting you this far;;;;;;;x
+force_conflict_title;§RForce a Confrontation§B;;;;;;;;x
+force_conflict_desc;Our operatives smuggling opium to balance our trade with China have yet to be detected it seems, without a full-scale war we cannot justify any further action against the Qing's policies. Perhaps we can change that. . . \n§GThis will progress over the course of roughly 1-2 years§B.;;;;;;;x
+britishrajinfancy;Academic Recovery;;;;;;x
+britishrajinfancy_desc;We are recovering from a long period of academic decline;;;;;;x
+mexicotreaty_title;Treaty of Guadelupe Hidalgo;;;;;;x
+mexicotreaty_desc;Request the Mexican government to rescind their claims north of the Rio Grand.;;;;;;;x
+earlygamerussia;Early Game Russia;;;;;;;x
+earlygamerussia_desc;Bring in the game impact!;;;;;;;x
+midgamerussia;Mid Game Russia;;;;;;x
+midgamerussia_desc;let it simmer. . . ;;;;;;;x
+lategamerussia;Late Game Russia;;;;;;x
+lategamerussia_desc;I'll be seeing you in 1910!;;;;;;;x
+esotericgnosticism;Esoteric Knowledge;;;;;;x
+esotericgnosticism_desc;Wise ass council of men are guiding your hand, they are not very accustomed to modern ammenities however;;;;;;x
+choosethebuild_title;Choose the Build;;;;;;;;;;;x
+choosethebuild_desc;As a backwards but politically powerful nation, we have the tough choice of choosing the strategy that will prevent our downfall.;;;;;;;x
+EVTNAME19000150;Picking the Build;;;;;;;x
+EVTDESC19000150;Our advisors have agreed to three options we have to secure our position as a Great European Power, which do you prefer?;;;;;;x
+EVTOPTA19000150;Early Game Russia (Europe);;;;;;x
+EVTOPTB19000150;Central Asia Focus (Sleeper Build);;;;;;x
+EVTOPTC19000150;Pacific Coast Party! (Colonies);;;;;;x
+thefourthoption_title;The Fourth Option;;;;;;;x
+thefourthoption_desc;Appearantly, a council of wizards has arrived from 'Hyperborea' to give advice to the Tsar, they were late due to poor temporal weather, whatever the hell that means. Since you didn't opt for any of the other advisors offers perhaps its worth hearing them out;;;;;;x
+gameimpact;Game Impact In-Progress;;;;;;x
+gameimpact_desc;Currently bringing on the game impact;;;;;;x
+gameimpactbomb_title;Bring on the Game Impact!;;;;;;x
+gameimpactbomb_desc;Recently there have been calls for more game impact from our more disadvantaged nations such as Spain and Russia, so here is your shot, one opportunity, will you take it? or let it slip. Thats deep and im a 9 year old in a coal mine.\n§RThis will lock away your Philippine option§b;;;;;;;;;x
+EVTNAME19000151;FIRED!;;;;;;;x
+EVTDESC19000151;You broke one of the best deals in American history. Not only are you a traitor to Canada and Mexico, but you've betrayed the American public. This deal was one of the best, truly, and you had to blow it, huh? Shoulda gone and screwed around in South America. Instead, im gonna have to fire you. YOU'RE FIRED!!!!!!;;;;;;;;x
+EVTOPTA19000151;An Unexpected Outcome;;;;;;;x
+kazakhpeople_title;Integrate the Kazakhs;;;;;;x
+kazakhpeople_desc;Gimme accepted pops yessir yessir!;;;;;;x
+napoleonslegacy_title;Napoleon's Legacy Italy;;;;;;x
+napoleonslegacy_desc;We have to run it back in Italy;;;;;;;x
+napoleonslegacy2_title;Napoleon's Legacy Spain;;;;;;;x
+napoleonslegacy2_desc;We have to run it back in Spain;;;;;;;x
+napoleonslegacy3_title;Fruits of our Labor;;;;;;x
+napoleonslegacy3_desc;The Acquisition of 87. . .;;;;;;x
+bananapropaganda_title;Begin Expanding Dong;;;;;;x
+bananapropaganda_desc;Our bountiful banana harvests have attracted attention from a wise clan calling themselves the DK Family. Do we being Expansion?;;;;;;;x
+DKK_presidential_dictatorship;The Banana Republic;;;;;;x
+DKK_republic;Dong Country;;;;;;x
+dkong;Dong Expansion Project;;;;;x
+dkong_desc;Our country will grow stronger;;;;;;x
+bananaeducation_title;Dong Expansion: Social Services Phase;;;;;;x
+bananaeducation_desc;Reform our social services in order to prepare for future banana production;;;;;x
+bananasocialism_title;Dong Socialism;;;;;;x
+bananasocialism_desc;Since we already have a basis for social services in Central America, it will be easy to appease the growing socialist movement;;;;;;x
+expanddong_title;Expand Dong Phase One;;;;;x
+expanddong_desc;It is time for us to claim hegemony in Central America for good by pushing out those who seek to exploit the region. The locals are willing to donate to our cause if we defend them;;;;;;x
+expanddong2_title;Expand Dong Phase Two;;;;;;x
+expanddong2_desc;With Central America under control, we should free those exploited for their bananas elsewhere in the Americas! Certainly they too have something to give to our cause;;;;;;x
+expanddong3_title;Expand Dong: Banana Boat Phase;;;;;x
+expanddong3_desc;do we even know how to swim?;;;;;;;x
+expanddong4_title;Expand Dong: Mexican Bananas;;;;;;x
+expanddong4_desc;Why not grow some bananas with the Mexicans instead of waiting for them to do it themselves.;;;;;;x
+expanddongcsa_title;Expand Dong: Confederate Banana Republic;;;;;;;x
+expanddongcsa_desc;We can exploit the American weakness and co-opt the Confederate government to setup our own Banana Republic!;;;;;x
+expanddongunity_title;Expand Unity;;;;;x
+expanddongunity_desc;The people of Central America are diverse and need to be brought together under our banana cause, perhaps we can convince them in something greater if we controlled everything;;;;;;x
+expanddong9_title;The Final Expansion;;;;;;x
+expanddong9_desc;The Birther of Banana Republics and exploiter of laborers, the USA is finally under heel and can be incorporated into our fruity republic!;;;;;;;x
+atacama_boom;Atacama Boom;;;;;x
+atacama_boom_desc;Great Desert Project saudi oil barons couldnt compete;;;;;;x
+hungryhippos_title;Hungary Hungary Hippos;;;;;;x
+hungryhippos_desc;Go on. Make it. Super Germany. No one's stopped you yet, so might as well finish the map, right? Nothing could go wrong, right? Become the Hungriest of Hippos;;;;;;x
+westerntech_title;Fix Tech;;;;;;x
+westerntech_desc;I have an unclaimed Westernization and I need techs now!;;;;;;x
+PRU_690;Danzig;;;;;;;x
+HEK_567;Hessen;;;;;;x
+HEK_568;Magdeburg;;;;;;;;x
+EVTNAME19000148;UK Guide;;;;;;;x
+EVTNAME19000149;Russia Guide;;;;;;x
+EVTNAME19000152;Austria Guide;;;;;;x
+EVTNAME19000153;Prussia Guide;;;;;;x
+EVTNAME19000154;Ottoman Guide;;;;;;x
+EVTNAME19000155;France Guide;;;;;;;x
+EVTDESC19000148;YOU START THE OPIUM WAR (it gives you cash money and throughput when you win it). Sepoy Rebellion happens sometime after breechloaders so be ready with many gentlemen in India. Great Game starts before the game even unpauses so get invest those dollas!. Southwest England starts with 70k unemployed craftsmen so go Tory and build something for them. If you need tax dolla annex Panjab for easy pops and you should be floating on it after that. You're the UK!!! So, this means that YOU get to setup how this game will turnout pretty much you're very hard scaling AND strong at game start so use this to possbily help a brother in need (example: Ottomans, Spain, Prussia, Japan, these nations all suffer in earlygame but are lategame powerhouses so if you help them they'll never forget it! o7. Start influences Afgan at game 0 for the great game decision. Unless you're planning on fighting Russia on land over India your navy will keep you safe ;;;;;;;x
+EVTDESC19000149;You dumb as hell boy, no literacy researches take 5 years somteimes. You get 3 branches of expansion which are mutually exclusive:Europe simply gives cores if you are prepared for war and costs nothing really.\nCentral Asia offers accepted pops in Asia and annexing Persia/Afghanistan if you win the Great Game.\nThe Pacific Coast Party is exactly what it sounds like, you go ALL IN on Asia and even North America. This will state and assimilate Vladivostok for you but you must build up to get Pacific Dominance and throw the ultimate rager!.\nYou have a year to decide, choose wisely. . ;;;;;;x
+EVTDESC19000152;If you give up Saxony before 1840, those pesky Hungarian plumbers will get ideas. You should consider taking out a neighbour early or being best buddies before they turn you inside out, lowkey of course. Once you get to Nationalism and Imperialism you get a bunch of decisions to unlock your potential. If the Hungarians got to you first, good luck! (on some FNAF shit);;;;;;x
+EVTDESC19000153;Ems Dispatch is not a guaranteed war with France they can say yes or no. An mein Volk only lasts for 2 years so use it up! Beg UK to not let France get Belgium over you, if there is a Netherlands you got to glaze him up sexual style. Free money! A gold mine is in your future young man. You're one of the biggest Industrial powerhouses in the game so act like it and do it early before your capitalists ruin it for you. I would keep army funding up for fear of a France declaration/being able to dec on France. Try to form the secret nation if all else is lost (lose Sigmaringen AND Rhineland or Schlesien ). Study the alsace shape like it's your life, try to call in baden to expand the small front. If you can get a secret mob off then declare on France you're set, Prussia cheese strats are always funny to watch (surprise is key sometimes). Mil maxxing, you don't need to focus education just remember to do philosophy and political thought.;;;;;;x
+EVTDESC19000154;You CANNOT lose Egypt NO MATTER THE COST (game ruining). Learn to beg (you are the poor homeless man on fent in Europe). Whenever you feel down. . . just remember lategame hyperscaler.\n Wait for the Egyptian puppet peace deal to gain cores back.\n There is a decision group to choose which puppet to annex, choose wisely because there is a cooldown.\n When you become the Caliphate, the decisions to annex/accept the puppets §Ris locked!§W.\nFocus Education, you illiterate not even imam can help you;;;;;;x
+EVTDESC19000155;Being Evil as this nation gets you rewarded (History only remembers the Villains, Don't be a Hero). You have no opps you are THE opp (take Tunis asap). Only winners can be Napoleon. . . You make money printers feel free to give grants in exchange for quickie sex. Build military goods from the start and keep a heavy focus on your limited factory space. Prussia is racing to kill you at a minutes notice if you slip up you're done! You get rewarded for being Evil so make sure to kill a player early! (Your paths of expansion are limited). Take Tunis ASAP you need it for La Legion Entrangere. Try for an Asian delicacy or two. EVIL STRAT: Kill players day 1 (Spain, Germany, Italy, anyone) and show no mercy. Tslegit strat: Encourage soldiers day 1 get a goonish amount of pops and roll over Germany. Secret DoD formable if you can find it (take benelux and become #1gp). Don't try to save Levee en Masse just abuse it to buy yourself time.;;;;;;;x
+OPTA19000148;Thank you brother;;;;;;;x
+OPTA19000149;Thank you brother;;;;;;x
+OPTA19000152;Thank you brother;;;;;;x
+OPTA19000153;Thank you brother;;;;;;x
+OPTA19000154;Thank you brother;;;;;;x
+OPTA19000155;Thank you brother;;;;;;;x
+uk_guide_title;UK Guide;;;;;;;x
+rus_guide_title;Russia Guide;;;;;;x
+kuk_guide_title;Austria Guide;;;;;;x
+pru_guide_title;Prussia Guide;;;;;;x
+tur_guide_title;Ottoman Guide;;;;;;x
+fra_guide_title;France Guide;;;;;;;x
+uk_guide_desc;For new players, will disappear in 12 months;;;;;;;x
+rus_guide_desc;For new players, will disappear in 12 months;;;;;;x
+kuk_guide_desc;For new players, will disappear in 12 months;;;;;;x
+pru_guide_desc;For new players, will disappear in 12 months;;;;;;x
+tur_guide_desc;For new players, will disappear in 12 months;;;;;;x
+fra_guide_desc;For new players, will disappear in 12 months;;;;;;;x
+indirect_fire;Indirect Fire;;;;;;x
+minie_ball;Mini Ball;;;;;x
+spray_n_pray;Spray N Pray;;;;;;x
+concrete_pillboxes;Concrete Forts;;;;;x
+EVTNAME19000156;Don't Blink;;;;;;;x
+EVTNAME19000157;Don't Speak;;;;;;x
+EVTNAME19000158;Don't Run;;;;;;;;x
+EVTDESC19000156;A betrayal?;;;;;;;;;x
+EVTDESC19000157;A surprise attack.;;;;;;;;;x
+EVTDESC19000158;It's too late, your downfall is pre-ordained. . .;;;;;;;;x
+OPTA19000156;help;;;;;;;;;;;x
+OPTA19000157;help;;;;;;;;;;x
+OPTA19000158;HELP;;;;;;;;;;x
+nv_order;Order;;;;;;;;;;;;;;;;;;;;;;;;x
+nv_tradition;Tradition;;;;;;;;;;;;;;;;;;;;;;;;x
+nv_productivity;Productivity;;;;;;;;;;;;;;;;;;;;;;;;x
+nv_diplomacy;Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;x
+nv_education;Education;;;;;;;;;;;;;;;;;;;;;;;;x
+change_national_value_off_title;Change National Value Off;;;;;;;;;;;;x
+change_national_value_off_desc;TURN IT OFF!!!!;;;;;;;;;;;;x
+change_national_value_on_title;Change National Value On;;;;;;;;;;;;x
+change_national_value_on_desc;Let me cook!!!!;;;;;;;;;;;;x
+switch_to_diplomacy_title;Embrace the Ideal of Diplomacy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_diplomacy_desc;The channels of power require an eye for detail, a fine touch, and a silver tongue. Let our people focus our energies into refining these qualities so we may be masters over those who are less.. refined.\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic Points Generation: +200%\nBase Influence Points Generation: +50%\nCommerce Tech Research Bonus: +10%\nFaster CB Generation Speed: +25%§W;;;;;;;;;;;;;x
+switch_to_education_title;Embrace the Ideal of Education;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_education_desc;Our people must look forward, ignoring the wanton worries of our rivals. Wield logic and rationality to march forward!\n\n§YThe modifiers for this NV are:§W\n§GEducation Efficiency: +35%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;;x
+switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_order_desc;The foreigners progress and dominate through an orderly and organized society, based on a sense of duty to their country. If we were to embrace this ideal, we might strive as they do.\n\n§YThe modifiers for this NV are:§W\n§GOrganization Regain Rate: +10%\n5% Supply Consumption Reduction\nLeadership Points Gain: +50%\nArmy Tech Research Bonus: +5%\n Core Pop Militancy -0.05§W;;;;;;;;;;;;;x
+switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_production_desc;The foreigners progress through an industrious society based on hard work. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GFactory Input: -5%\nFactory Output: +15%\n§GCommerce Tech Research Bonus: +5%\nIndustry Tech Research Bonus: +10%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_autocracy_title;Embrace the Ideal of Autocracy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_autocracy_desc;The foreigners progress through a society based on strong leadership, obedience and loyalty. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GRuling Party Support: +30%\nLeadership Modifier: +100%\nArmy Tech Research Bonus: +5%§W;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;x
+switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n§YThe assimilation is built-in. The modifiers for this NV are:§W\n§GBonus Assimilation Rate: +50%\nCulture Tech Research Bonus: +5%\nNon-Core Pop Militancy -0.5§W;;;;;;;;;;;;x
+social_reformed_nation; Socially REFORMED! Nation;;;;;;;;;x
+EVTNAME19000159;Ol' Hickory's Last Year;;;;;;;;;;x
+EVTDESC19000159;Following two terms in office, Andrew Jackson has one last year. Whoever follows in his footsteps will have the pleasure of having no national debt, no federal banks, and no paper currency shenanigans!;;;;;;;;;x
+OPTA19000159;Bless up;;;;;;;x
+OPTB19000159;I'm a hater, actually;;;;;;;x
+bubbleburst;Bubble Burst;;;;;;;x
+bubbleburst_desc;The Bubble burst. . .;;;;;;;x
+panic1837;Panic of 1837;;;;;;;x
+panic1837_desc;Lack of physical money and recent speculative bubbles have frozen our economy;;;;;;x
+EVTNAME19000160;Panic of 1837;;;;;;;x
+EVTDESC19000160;We don't have a federal reserve to fix the money shortages. People keep running banks dry of their cash. British lenders have also begun raising interest in response to the bubbles, further worsening the situation. Atleast we are debt free. . .;;;;;;;;x
+OPTA19000160;Broke Fellow Alert;;;;;;;;x
+EVTNAME19000161;Westward Halt;;;;;;x
+EVTDESC19000161;Speculation in westward land developments along with strict regulation on paper money have caused the bubble to burst leaving many penniless.;;;;;;;;x
+OPTA19000161;The West has Fallen;;;;;;;;x
+invested;Railroad Investments;;;;;;x
+invested_desc;Local investments spur growth and encourage settlers;;;;;x
+relief1_title;Lift Currency Regulations;;;;;x
+relief1_desc;The Specie Circular lead to the bubble in the West. We should allow paper money purchases again.;;;;;;;;x
+relief2_title;Make Fun of Mexico;;;;;;x
+relief2_desc;With a new generation of artists rising, we should sponsor them and offer them an inspirational topic. This will surely patch up our national pride;;;;;;;;x
+relief3_title;Begin the Trans-Continental Railroad;;;;;;;x
+relief3_desc;Iowa lore;;;;;;;x
+relief4_title;Finish the Railroad;;;;;;x
+relief4_desc;Santa Maria lore;;;;;;x
+relief5_title;Sponsor Prospectors in the New Territories;;;;;;;x
+relief5_desc;Rumors have spread about the riches that can be found in the far western territories of California and Nevada-Utah. Maybe these riches can alleviate our burdens. . .;;;;;;;x
+calmpanic_title;Calm the Panic;;;;;;x
+calmpanic_desc;After lightening regulations and putting Federal funds in the people's pockets, the Panic that once shook us as finally passed!;;;;;;;x
+deregulation;Deregulation;;;;;;;x
+deregulation_desc;A deregulated economy can correct itself.;;;;;;;;x
+american_pride;American Pride;;;;;;;x
+american_pride_desc;We are simply, the best, ever;;;;;;;;;;;x
+EVT19000162;This is taken by STONE COLD!;;;;;;;;;x
+mex_expand_the_empire_title;Expand The Mexican Empire;;;;;;x
+mex_expand_the_empire_desc;DOD New Granada, in the palm of my hand!;;;;;;;;x
+mex_accept_afro_americans_title;Do What They Cannot;;;;;;;x
+mex_accept_afro_americans_desc;He's black you know.;;;;;;;x
+napoleonslegacy4_title;Begin Integrating Germany;;;;;;x
+napoleonslegacy4_desc;(in evil voice)Because I am fucking evil! "house starts rumbling" wait, wait! I'm still in here! You can't just pick up my house while I'm still monologueing to my PC! STOP!!;;;;;;;x
+interwar_troops;Interwar Troops;;;;;;;x
+EVTNAME800008;Defeat in Egypt!;;;;;;x
+EVTDESC800008;I thought we were trading. . .;;;;;;x
+EVTOPTA800008;"Eh, eh, eh, eh, eh,";;;;;;x
+britishraj;Der Colonies;;;;;;;x
+britishraj_desc;BBL Drizzy;;;;;;;x
+NORMAL_WAR_EYALET_NAME;$ORDER$$FIRST$ War of §R$COUNTRY_ADJ$ Liberation§W;;;;;;;;;;x
+release_eyalet;Liberate Eyalet;;;;;;;x
+release_eyalet_desc;Reduce the Sublime Porte's influence over Europe;;;;;;;x
+release_eyalet_setup;Free $THIRD$ from Turkish management;;;;;;;;x
+release_eyalet_short;Free $THIRD$;;;;;;;;;x
+eyalet_cooldown;Eyalet Cooldown;;;;;;;;x
+eyalet_cooldown_desc;This is just a timer;;;;;;;x
+crocodile_victory_title;Egyptian Victory;;;;;;x
+crocodile_victory_desc;I will be king of this world. Even if it kills me.;;;;;;;;x
+EVTNAME19000162;Eyalet System;;;;;;;;;x
+EVTDESC19000162;After State n Government, choose one puppet to annex.\nIf that culture isn't accepted, another decision will be available to accept them once the cooldown is gone.\nAnnexing and Accepting have a §R5 year§b cooldown.\nThis system disappears once the Caliphate is formed, but Middle Eastern accepted's will not be available until it is formed.\n§GThe nations you may integrate and accept through this system is greater than what you start with§b;;;;;;;x
+EVTOPTA19000162;Thank you, Vizier;;;;;;;;x
+annex_albania_title;Contain Albania;;;;;;x
+annex_albania_desc;§GThey are too dangerous to be left alone!§W;;;;;;;x
+annex_bosnia_title;Integrate the Bosnian Eyalet;;;;;;x
+annex_bosnia_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+annex_bulgaria_title;Integrate the Bulgarian Eyalet;;;;;;x
+annex_bulgaria_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+annex_grecos_title;Integrate the Greek Eyalet;;;;;;x
+annex_grecos_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+annex_hungary_title;Integrate the Hungarian Eyalet;;;;;;x
+annex_hungary_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+accept_hungary_title;Date on the Danube;;;;;;x
+accept_hungary_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+accept_greek_title;Date on the Aegean;;;;;;x
+accept_greek_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+accept_romanian_title;Date on the Dunare;;;;;;x
+accept_romanian_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+accept_sitalian_title;Date in Napoli;;;;;;x
+accept_sitalian_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+accept_ukrainian_title;Date on the Dnieper;;;;;;x
+accept_ukrainian_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+accept_bulgarian_title;Date on the Maritsa;;;;;;x
+accept_bulgarian_desc;Nice place, I think I'll keep it! Because I'm fucking evil!;;;;;;x
+annex_sitalian_title;Integrate the Italian Eyalet;;;;;;x
+annex_sitalian_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+annex_ukrainian_title;Integrate the Ukrainian Eyalet;;;;;;x
+annex_ukrainian_desc;Our cooperation can be better appreciated under one banner, the Ottoman one;;;;;;;x
+integrate_eyalets_title;Eyalet Tab;;;;;;;x
+integrate_eyalets_desc;Click here to either integrate or accept a European puppet state;;;;;;;x
+albanians;Albanians;;;;;;x
+albanians;desc;run;;;;;;;x
+albania_strong_title;Albania Strong;;;;;;x
+albania_strong_desc;Time for us to rise up!;;;;;x
+EVTNAME19000163;Albanian Growth;;;;;;;x
+EVTDESC19000163;Albania has always been a close ally and vassal of the Ottoman Empire, and they have recently seen fast growth in their territory.;;;;;;;x
+EVTOPTA19000163;let's keep an eye on that;;;;;;;;x
+EVTNAME19000164;Albanian Expansion;;;;;;x
+EVTDESC19000164;It would appear this "growth spurt" has alternative explanations, reports have been coming in of blackmarket deals containing great quantities of arms and clothing. Perhaps things aren't as peachy as they seem?;;;;;;;;x
+EVTOPTA19000164;Launch a full investigation!;;;;;;;x
+EVTNAME19000165;Albanian Threat;;;;;;;x
+EVTDESC19000165;We have failed to prevent Albania's ascension, our only option now is to rely on our Janissary corps. Albania has been mobilizing military resources this entire time!;;;;;;x
+EVTOPTA19000165;May Allah guide us. . .;;;;;;;x
+albania_awaken_title;Awaken Albania;;;;;;;x
+albania_awaken_desc;Begin the Utopia Project;;;;;;;;;;x
+albanian_guns_title;Make Weapons Purchase;;;;;;;x
+albanian_guns_desc;Black market sources have become available to supply us with much needed arms at a reasonable price.;;;;;;;;x
+albanian_casino_title;Visit the Casino;;;;;;x
+albanian_casino_desc;A black market casino has recently been opened. Time to win big! 99% of gamblers quit before winning big!;;;;;;;x
+EVTNAME19000166;The Results;;;;;;x
+EVTDESC19000166;Choose if they win or not;;;;;;;;x
+EVTOPTA19000166;They Lose;;;;;;;;x
+EVTOPTB19000166;They Break Even;;;;;;;;x
+EVTOPTC19000166;They Win Big!;;;;;;;;x
+EVTNAME19000167;Loss;;;;;;;x
+EVTDESC19000167;We lost the bet, we could just make it back if we do it again though!;;;;;;;x
+EVTOPTA19000167;TRUE!;;;;;;;;x
+EVTNAME19000168;Win;;;;;;;x
+EVTDESC19000168;We won the bet and got 100,000 smackaroonies! If we keep doing it we easily become billionaires!;;;;;;;;x
+EVTOPTA19000168;TRUKE!;;;;;;;;x
+EVTNAME19000169;MEGA WINS;;;;;;;x
+EVTDESC19000169;Holy shit. . . . We won so hard they banned us for 2 years!;;;;;;;x
+EVTOPTA19000169;The House always losses;;;;;;;;x
+gun_cooldown;Gun Cooldown;;;;;x
+gun_cooldown_desc;just a timer;;;;;;x
+casino_cooldown_desc;just a timer for gamblers;;;;;;x
+casino_cooldown;Casino Cooldown;;;;;;x
+casino_banned;Banned from Gambling;;;;;x
+casino_banned_desc;Get your ass banned!;;;;;;;x
+EVTNAME19000170;Romanian Question;;;;;;x
+EVTDESC19000170;Our consuls in what used-to-be Wallachia and Moldavia have reported back to us claiming that the Sultan has formally integrated the states as a part of the Ottoman Empire. If these rumors are true, it would be a clear breach of our previous agreements regarding the Romanians. How are we to approach the issue, Tsar?;;;;;;;x
+EVTOPTA19000170;West has Fallen, Nothingburger;;;;;;;;x
+EVTOPTB19000170;Ask the meta-allies;;;;;;x
+EVTOPTC19000170;WAAAAAAGGHHHH!;;;;;;;;;x
+EVTNAME19000171;Romanian Crisis;;;;;;;;x
+EVTDESC19000171;Diplomats from Russia have just visited requesting assistance against the Ottoman incursion into Romania. They claim the Sultan has broken previous treaties and violated Romanian sovereignty. The Sultan's formal announcement claimed the act was done in cooperation with the Romanian states, and the states we under no outside pressure to comply. Who are we to believe?;;;;;;x
+EVTOPTA19000171;"Who?" 'Roma-' "-cares?".;;;;;;;;x
+EVTOPTB19000171;Russia is truthing;;;;;;;x
+EVTOPTC19000171;Saber Toothed Falsers!;;;;;;;x
+EVTNAME19000173;$FROMCOUNTRY$ agrees with us!;;;;;;;;x
+EVTDESC19000173;$FROMCOUNTRY$ sees clear facts and logic in our argument against the belligerent Sultan, and they have even pledged military assistance!;;;;;x
+EVTOPTA19000173;ZE-HAHAHA;;;;;;;x
+EVTNAME19000176;$FROMCOUNTRY$ agrees with us!;;;;;;;;x
+EVTDESC19000176;$FROMCOUNTRY$ was not convinced by the dim-witted Tsar and his quest to tear apart the Balkans for his own gain. Hopefully this wisdom shines through their military prowess as well.;;;;;;;x
+EVTOPTA19000176;May Allah guide them;;;;;;;x
+EVTNAME19000175;$FROMCOUNTRY$ disagrees with us!;;;;;;;;x
+EVTDESC19000175;$FROMCOUNTRY$ was sweet talked by the Sultan and his riches in the Sublime Porte! Now we must face $FROMCOUNTRY$ and the Ottomans!;;;;;;;;x
+EVTOPTA19000175;We off-screen them, easy;;;;;;;x
+EVTNAME19000174;$FROMCOUNTRY$ disagrees with us!;;;;;;;;x
+EVTDESC19000174;$FROMCOUNTRY$ did not have the wisdom to see through the Tsar's greed and ignorance when approached by his diplomats. We will have to defend Romania and the Empire from $FROMCOUNTRY$ now!;;;;;;;x
+EVTOPTA19000174;May Allah show them mercy;;;;;;;x
+EVTNAME19000177;The Final Decision;;;;;;;;x
+EVTDESC19000177;With France and the United Kingdom's responses, it is time to finally decide whether to go to war for Romania's independence, or to drop the issue all-together.;;;;;;;;x
+EVTOPTA19000177;First Romania, then the World!;;;;;;;x
+EVTOPTB19000177;Actually, I could use a nap;;;;;;;;x
+begin_expansion_title;Begin Expanding;;;;;;x
+begin_expansion_desc;With customers secured, we can begin setting up branch offices within those countries to further spread the Albanian Project!;;;;;;x
+remove_albanians_title;Remove the Mafia;;;;;;;x
+remove_albanians_desc;Too much trouble has been caused by the mafia, with their benefactor removed, the system can be demolished for good!;;;;;;;;x
+EVTNAME19000178;The Mafia;;;;;;;x
+EVTDESC19000178;It would seem our blackmarket deals have attracted a permanent audience in the capital, they have enough resources to elude the state's grasp as well. . .;;;;;x
+EVTOPTA19000178;They've already infiltrated us. . .;;;;;;;x
+EVTNAME19000179;Albanian Fever;;;;;;x
+EVTDESC19000179;Recent reports have come in from $PROVINCENAME$ that residents have started painting themselves red in whatever substance they could get first, then smearing charcoal dust in the rough shape of an eagle on their chest shouting-\n §R"RED AND BLACK I DRESS,\n EAGLE ON MY CHEST,\n IT'S GOOD TO BE AN ALBANIAN!§b;;;;;;;;x 
+EVTOPTA19000179;Oh good heavens;;;;;;x
+EVTNAME19000180;Albanian Revolt;;;;;;x
+EVTDESC19000180;Enough unrest has spread throughout $PROVINCENAME$ that Albanian agents were able to capture the area wholesale!;;;;;;x
+EVTOPTA19000180;The §RRed Tide§b is upon us;;;;;;;x
+albanian_mafia;The Mafia;;;;;;x
+albanian_mafia_desc;They here;;;;;;x
+albanian_plague;Albanian Fever;;;;;;x
+albanian_plague_desc;it spreads;;;;;;x
+begin_expansion2_title:§RDeclare Greater Albania§b;;;;;;x
+begin_expansion2_desc;Finish the Utopia Project;;;;;;x
+albania_awakened;Albania Awakened;;;;;;x
+albania_awakened_desc:awakened;;;;;;;x
+taiping_reform1_title;Heavenly Reforms;;;;;;x
+taiping_reform1_desc;Flex on the hoes, in a heavenly way of course. Bless up.;;;;;;;x
+taiping_reform2_title;Kingdom of Heaven;;;;;x
+taiping_reform2_desc;Having secured our previous borders, the rest of East Asia deserves the Lord's guidance. May His light guide them into our greater whole so we may walk in the path He set for us.;;;;;;x
+heaven_project1_title;The Heaven Project;;;;;;;x
+heaven_project1_desc;We shall begin guiding the rest of the world to His good word. His will is marching on!;;;;;;;x
+battlecryofmemer;Battle Cry of Memer;;;;;;x
+battlecryofmemer_desc;His weight is marching on!;;;;;;;x
+EVTNAME19000181;Ghost of Albania;;;;;;x
+EVTDESC19000181;Although the state has been vanquished and the Mafia behind the Red Scare has receeded into the background, agents still terrorize the countryside in the hopes of bringing back Greater Albania.;;;;;;x
+EVTOPTA19000181;Poor souls;;;;;;;x
+indonesian;Indonesian;;;;;;x
+men_for_the_colonies_title;Men for the Colonies;;;;;;x
+men_for_the_colonies_desc;Since we don't directly own our Great Green Gem of the Raj anymore, we should send some thugs across the seas to get some late game scaling started.;;;;;;x
+dutchmen_title;Honorary Dutchmen;;;;;;;x
+dutchmen_desc;You're part of my crew now, and our job is to sail around and frighten people. It'll be grueling, mind-numbing, and repetitive. Just like, Gremlin Legion.;;;;;;;;x
+recognize_desert_title;Claim the Desert;;;;;x
+recognize_desert_desc;Before the rest of the world realizes the value hidden beneath the sands of Egypt, we must lay claim and reclaim the rest of the kingdom!;;;;;;x
+EVTNAME19000182;Persian Gulf Matter;;;;;;x
+EVTDESC19000182;$FROMCOUNTRY$ wants to own the Persian Gulf directly, do we fold under zero pressure or go gangster on these thugs?;;;;;;;x
+EVTOPTA19000182;Bend the Knee;;;;;;x
+EVTOPTB19000182;Gangster Rap made me do it;;;;;;;x
+EVTNAME19000183;Persian Response;;;;;;x
+EVTDESC19000183;They didn't fold under zero pressure, time to janny up or tuck in;;;;;;;x
+EVTOPTA19000183;Guess I'll janny. . .;;;;;;;x
+EVTOPTB19000183;Bedtime sounds good;;;;;;;x
+annexegypt_title;Annex Egypt;;;;;;x
+annexegypt_desc;The time has come to reap our rewards for defending Egypt.;;;;;;;x
+treaty_port_buff;Treaty Port;;;;;;x
+treaty_port_buff_desc;Sloppy;;;;;;;x
+PROV3252;Kamyshin;;;;;;;x
+LIC;Host;;;;;;;x
+LIC_ADJ;Ghostly;;;;;;;;x
+GHO_exclusive;Liechtenstein Setting;;;;;;;x
+world_bank_economics;World Bank Economics;;;;;;;x
+world_bank;World Bank Trade;;;;;;;x
+world_bank_factory;World Bank;;;;;;;
+GHO;Ghost Nation;;;;;;;;x
+GHO_ADJ;Ghost;;;;;;;x
+hammurabi_code;Hammurabi's Code;;;;;;;;x
+hammurabi_code_desc;EU-phrates River!;;;;;;;x
+persian_rugs_title;Revive the Silk Industry;;;;;;;x
+persian_rugs_desc;Safavid textiles are praised as the pinnacle of Iranian loom weaving. When the Safavids came to power at the turn of the sixteenth century, the Iranian textile industry was already well developed in the production and sale of woven silk textiles and rugs as well as raw silk for export. The textile industry consisted of urban workshops producing textiles independently, provincial centers focusing on rug weaving, and small farms cultivating silk in the Caspian region. As the Safavids set up their capital cities of Tabriz, Qazvin, and finally Isfahan, the textile industry became centralized and was swiftly incorporated into the national economy, creating an expansive revenue stream. After the death of Shah eAbbas in 1629, the Safavid dynasty began to lose central power, and regional governance relegated the monarch to the position of a figurehead. Textile production in court-sponsored workshops declined, while the private sector of the textile industry regained independence, producing silks for the expanding international demand. From the last quarter of the seventeenth century until the dynastyfs end following the Afghan invasion in 1722, there was a marked change in the textiles produced as Iranian weavers stepped down their aesthetic and working methods to suit the tastes and economy of the declining regime.;;;;;;;;x
+persianrugs;Persian Rugs;;;;;;;;x
+persianrugs_desc;This shit kinda silky!;;;;;;;x
+EVTDESC19000184;Sepoys have completely overrun not only the EIC positions but also the garrisons stationed under direct crown authority. If we do not negotiate, we risk losing everything we have worked for thus far.;;;;;;;x
+EVTOPTA19000184;We cannot risk another 1776. . .§G(Peace)§b;;;;;;;x
+EVTOPTB19000184;The run-back will be legendary!§R(War)§b;;;;;;;x
+spycicle;Spycicle'd;;;;;;;x
+spycicle_desc;You got spycicled, your mob size is frozen!;;;;;;x
+letranger_title;L'Etranger;;;;;;;x
+letranger_desc;That was when everything shook... The sky seemed to be splitting from end to end and raining down sheets of flame. My whole being went tense and I tightened my grip on the gun. The trigger gave, I felt the underside of the polished butt and it was there, in that sharp but deafening noise, that it all started. I realized that I'd destroyed the balance of the day and the perfect silence of this beach where I'd been happy. And I fired four more times at a lifeless body and the bullets sank without leaving a mark. And it was like giving four sharp knocks at the door of unhappiness.;;;;;;x
+backstab_title;Backstab Germany;;;;;;x
+backstab_desc;You know what you must do;;;;;;;x
+headstart_title;Headstart in Africa;;;;;;;x
+headstart_desc;It was as if that great rush of anger had washed me clean, emptied me of hope, and, gazing up at the dark sky spangled with its signs and stars, for the first time, the first, I laid my heart open to the benign indifference of the universe. To feel it so like myself, indeed, so brotherly, made me realize that I'd been happy, and that I was happy still. For all to be accomplished, for me to feel less lonely, all that remained to hope was that on the day of my execution there should be a huge crowd of spectators and that they should greet me with howls of execration.;;;;;;;;x
+headstartchina_title;Mission to China;;;;;;;x
+headstartchina_desc;The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.;;;;;;;;x
+lombard_and_holts_continuous_track;Lombard and Holts Continuous Track;;;;;;;x
+interruptor_gears;Interruptor Gears;;;;;;x
+TRIGMODLOST_HEADER;Our ministers report that,;;;;;;
+TRIGMOD_HEADER;Our ministers report that;;;;;;;
+surrenderalsace_title;Surrender Alsace;;;;;;;x
+surrenderalsace_desc;We are cooked, we will have to befriend Germany or give up entirely on Alsace if we hope to survive as a Great Power.;;;;;;;;x
+bureaucrats_fix_title;Fire Minority Bureaucrats;;;;;;;;;;x
+bureaucrats_fix_desc;YOU'RE FIIIIIRRREEEEDDD!!!!!;;;;;;;
+stop_communism_title;Stop Communism!;;;;;;;;;x
+stop_communism_desc;Now is our chance to prepare against the Red Tide!;;;;;;;x
+stop_the_bolsheviks;Stop the Bolsheviks;;;;;;;x
+stop_the_bolsheviks_desc;Le Buff;;;;;;;;;x
+mass_culture_n_the_avant_garde;Absurdism;;;;;;;x
+mass_culture_n_the_avant_garde_desc;Absurdism;;;;;;;x
+summer;The Eternal Summer;;;;;;;x
+summer_desc;I realized, through it all, that in the midst of winter, I found there was, within me, an invincible summer. And that makes me happy. For it says that no matter how hard the world pushes against me, within me, there's something stronger something better, pushing right back.;;;;;;;x
+nylon;Nylon;;;;;;x
+synthetic_rubber_factory;Rubber Factory;;;;;;;x
+synthetic_rubber;Synthetic Rubber;;;;;;x
+bulgars;Bulgarian Settlers;;;;;;x
+bulgars_desc;underlime slomper;;;;;x
+bulgarian_empire_title;Proclaim the Bulgarian Empire;;;;;;x
+bulgarian_empire_desc;Total Larp Victory.;;;;;;;;;x
+bulgarian_empire2_title;Reclaim Constantinople;;;;;x
+bulgarian_empire2_desc;Rest in Pieces Turkey fans, its a §GBulgarian§b world and you're just living in it!;;;;;;;;x
+gameimpactbomb2_title;Finish the Game Impact;;;;;;;x
+gameimpactbomb2_desc;Formally unify New Granada with the mainland! Then we take a 50 year nap I think that sounds nice;;;;;;;x
+restore_order_hun2_desc;Peace and Love! Heal the world, make it a better place. For you and me and the entire Austrian Race.;;;;;;;x
+restore_order_hun2_title;Restore the Union;;;;;;;x
+rgo_changes_on_title;Change RGO Options (Hidden);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_changes_on_desc;Show Change RGO Options;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_changes_off_title;Change RGO Options (Showing);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_changes_off_desc;Hide Change RGO Options\n\nNote: If you don't see any options, scroll down in your decisions menu to see options that are currently unavailable to you.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_mining_colony_title;§GChange Mining RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_mining_colony_desc;Allows the switching of a single colonial RGO province of the following types: Coal, Iron, or Sulphur into Coal, Iron, or Sulphur. This Decision has a 5 year cooldown.\n\nShares cooldowns with §YChange Mining RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_agriculture_colony_title;§GChange Agriculture RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_agriculture_colony_desc;Allows the switching of a single colonial RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk. This Decision has a 5 year cooldown.\n\nShares cooldowns with §YChange Agriculture RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_mining_title;§YChange Mining RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_mining_desc;Allows the switching of a single non-colonial RGO province of the following types: Coal, Iron, or Sulphur into Coal, Iron, or Sulphur. This Decision has a 5 year cooldown.\n\nShares cooldowns with §GChange Mining RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_agriculture_title;§YChange Agriculture RGO (State);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+rgo_change_agriculture_desc;Allows the switching of a single non-colonial RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Silk. This Decision has a 5 year cooldown.\n\nShares cooldowns with §GChange Agriculture RGO (Colony);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTNAME199936;Mining RGO Change (State);;;;;;;;;;;;;;;;;;;;;;;x
+EVTDESC199936;Select one of the following Goods you would like to replace an existing RGO with!\n[§GNOTE§b]: Cool down is 5 years for every option and 1 year for not choosing.\n\n\n\n§RIMPORTANT\n\n§RMouse over each option to see what province is being targeted.;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTA;Coal;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTB;Iron;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTC;Sulphur;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTD;I'd rather not change anything.;;;;;;;;;;;;;;;;;;;;;;;x
+199937;Argiculture RGO Change;;;;;;;;;;;;;;;;;;;;;;;x
+EVTNAME199937;Agriculture RGO Change (State);;;;;;;;;;;;;;;;;;;;;;;x
+EVTDESC199937;Select one of the following Goods you would like to replace an existing RGO with!\n[§GNOTE§b]: Cool down is 5 years for every option and 1 year for not choosing.\n\n\n\n§RIMPORTANT\n\n§RMouse over each option to see what province is being targeted.;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTA;Wool;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTB;Silk;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTC;Cotton;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTD;Cattle;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTE;Le Fish;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTF;Fruit;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTG;Grain;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTI;Tobacco;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTJ;Tea;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTK;Coffee;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTL;Opium;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199937OPTH;I'd rather not change anything.;;;;;;;;;;;;;;;;;;;;;;;x
+switched_production;Switched Production;;;;;;;x
+rgo_changed_farm;RGO Changed Farm;;;;;;x
+rgo_changed_mine;RGO Changed Mine;;;;;;x
+pareto_efficiency;Pareto Efficiency;;;;;;x
+game_theory;Game Theory;;;;;;x
+chinese_militia;Chinese Militia;;;;;;x
+hans;Han;;;;;;;x
+PROV3253;Zhangjakou;;;;;;x
+CHI_1534;Outer Mongolia;;;;;;x
+indians;Indian;;;;;;x
+encourage_rail;Railroad Reforms;;;;;;x
+rail_focus;Miscellaneous;;;;;;;x
+landes;Landes Forest;;;;;;x
+landes_desc;The Swamp has been drained;;;;;;x
+landes_forest_title;Revitalize Gascogne;;;;;;x
+landes_forest_desc;Most of the region now occupied by the Landes forest was swampy land that was sparsely inhabited until the 19th century, when the 19 June 1857 law ended traditional pastoralism and led to wide scale reforestation, in order to rehabilitate the landscape and provide for regional economic development. Prior to this period, the people of the Landes used stilt-walking to move from place to place in the wet terrain. Since the 1970s, parts of the forest have given way to intensive agriculture.;;;;;;;x
+EVTNAME19000191;Britain Negotiates;;;;;;x
+EVTDESC19000191;After many lives were lost, India's cause has been won through victory on the field and now victory at the negotiating table.;;;;;x
+EVTOPTA19000191;Yummers;;;;;;x
+EVTNAME19000188;Britain Doubles Down!;;;;;;x
+EVTDESC19000188;Oh, he thought colonization was forever! He mad! \n§R(They have a CB to full annex you, love.)§b;;;;;;;x
+EVTOPTA19000188;I need a trusted adult;;;;;;;x
+build_newdelhi_title;Build New Delhi;;;;;;x
+build_newdelhi_desc;The old one just isn't good enough;;;;;;x
+chinesemilitia;Chinese Miltia;;;;;;;x
+EGY_1761;Eastern Sahara;;;;;;;x
+MOR_1773;Western Sahara;;;;;;;x
+release_vassals_title;Release Vassals;;;;;;;x
+release_vassals_desc;This decision will send an event for each vassal to choose which to release if not all of them.;;;;;;;x
+EVTNAME91307;Puppet Slop;;;;;;;;x
+EVTDESC91307;Just put the fries in the bag, puppet;;;;;;;;x
+EVTOPTA91307;Sir Yes sir!;;;;;;;;x
+EVTNAME91308;$FROMCOUNTRY$ Can Have Freedom?;;;;;;;;;x
+EVTDESC91308;Can we go now? (read the tooltip to see which nation this is);;;;;;;;x
+EVTOPTA91308;You may. . .;;;;;;;;;x
+EVTOPTB91308;SIKE!;;;;;;;;x
+russianpersia2_title;Integrate Persia;;;;;;;x
+russianpersia2_desc;Bring the Persians into the fold officially, big wins!!;;;;;;;x
+russianafghan_title;Integrate Afghanistan;;;;;;;x
+russianafghan_desc;Secure our position at the doorstep of India, maybe we could learn a thing or two from the Mughals. . .;;;;;;x
+colonize_sinkiang_title;Colonize Xinjiang;;;;;;;x
+colonize_sinkiang_desc;Our expeditions into Central Asia have drawn us closer to the people currently persecuted by the Qing, perhaps we could convince them in a new mandate.;;;;;;;x
+warplangrey_title;War Plan Grey;;;;;;x
+warplangrey_desc;We will strike into Prussia Proper so we may secure our control over Poland!;;;;;;x
+warplanpink_title;War Plan Pink;;;;;;x
+warplanpink_desc;We will strike into Galicia so we may secure our hold over Ukraine!;;;;;;;x
+warplangreen_title;War Plan Green;;;;;;x
+warplangreen_desc;We will strike into Norway so we may easily bypass the Danish Belts!;;;;;;;
+greyvictory_title;Victory in Prussia;;;;;x
+greyvictory_desc;SO MUCH WIN!! Lets keep it up;;;;;;x
+pinkvictory_desc;SO MUCH WIN!! Lets keep it up;;;;;;x
+greenvictory_desc;SO MUCH WIN!! Lets keep it up;;;;;;x
+siberian_ports_title;Siberian Ports;;;;;;x
+siberian_ports_desc;In order to host the biggest, best party on the Pacific, we need the ports to bring in the tourists and drinks!!!;;;;;;x
+alaskan_ports_title;Alaskan Ports;;;;;;x
+alaskan_ports_desc;We can't forget about our brothers across the Strait! Maybe we can hook them up properly for once and get that colony on its feet! First, a little R&R. . ;;;;;;;x
+far_east_armory_title;Open the Far East Armories;;;;;;x
+far_east_armory_desc;A Pacific Fleet will require many guns and shipbuilders to keep the party going. Vladivostok offers the perfect location to ship-in resources to develop these industries.;;;;;;;x
+oregon_party_title;Contest the Oregon Territories;;;;;;x
+oregon_party_desc;When the Americans and British discussed their borders on the Pacific, there was someone they forgot to ask. We will correct this error!;;;;;;x
+russian_naval_guns_title;Russian Naval Guns;;;;;;x
+russian_naval_guns_desc;Our officers have come to us with the breakthrough that they should just put the recently developed super-howitzers onto our boats in order to claim dominance over the Pacific. They would certainly move quicker on water atleast.;;;;;;x
+pacific_islanders_title;Check Out Some Islands;;;;;x
+pacific_islanders_desc;All the European and even some Asian nations have been dreaming of claiming the islands of the Pacific. We should get their bright and early since we cant seem to be friends.;;;;;;x
+pacific_coast_party_title;Pacific Coast Party;;;;;;x
+pacific_coast_party_desc;We finally made it, all the pieces are together for the world's greatest rager. From Vladivostok and Port Arthur to Oregon and California, the world will be reminded that no one can do it like Russia!.;;;;;;;x
+EVTNAME19000187;The Pacific Coast Party;;;;;;x
+EVTDESC19000187;Get your motor running, California Interstate 1, Pacific Coast Party, If you got to work today, Get yourself a new vocation, Pacific Coast Party, You don't have to mind father time, mother nature, Get yourself in line, take your time, And watch it slip away, Just quit your bitching, bite your tongue, Save it for a rainy day, son, Pacific Coast Party, Get your ticket pack your bags, Come and join the celebration, Pacific Coast Party, If you wanna find peace of mind come and get it, Get yourself in line take your time, And watch it slip away, Pacific Coast Party, Hey, I heard somebody say, Work harder than you play, But I never missed a single day's party, Word, I never heard a word, I turned the other way, Pacific Coast Party.;;;;;;;x
+EVTOPTA19000187;R.I.P. Steve Harwell;;;;;;;x
+pacific_ports;Pacific Ports;;;;;x
+pacific_ports_desc;Start the 'Ports!;;;;;;x
+EVTNAME91306;Release Vassals?;;;;;;;x
+EVTDESC91306;Schlawgga think he going free! is this true?;;;;;;x
+EVTOPTA91306;Have each vassal send us an event to release or not;;;;;;x
+EVTOPTB91306;No;;;;;;;;x
+internal_migration;Internal Migration;;;;;;x
+tier1_focus;Promotion;;;;;;;x
+tier2_focus;Boosts I;;;;;;;x
+tier3_focus;Boosts II;;;;;;x
+tier4_focus;Boosts III;;;;;;x
+assimilation_bonus1;Assimilation Boost;;;;;;;x
+assimilation_bonus2;Assimilation Boost II;;;;;;;x
+assimilation_bonus3;Assimilation Boost III;;;;;;;x
+assimilation_bonus1_desc;Boost Assimilation by 100%;;;;;;;x
+assimilation_bonus2_desc;Boost Assimilation by 200%;;;;;;;x
+assimilation_bonus3_desc;Boost Assimilation by 300%;;;;;;;x
+assimilation_bonus1_header;Assimilation I;;;;;;;x
+assimilation_bonus2_header;Assimilation II;;;;;;;x
+assimilation_bonus3_header;Assimilation III;;;;;;;x
+ship_focus;Ship Repair;;;;;;;x
+militancy_and_reform_focus;Reform Desire;;;;;;;x
+factory_input_bonus;Factory Input Boost;;;;;;;;x
+factory_output_bonus;Factory Output Boost;;;;;;;x
+mining_bonus;Mining Boost;;;;;;x
+farming_bonus;Farming Boost;;;;;;x
+factory_input_output_bonus;Reduce Factory Inputs and Increase Factory Outputs;;;;;;;;;x
+input_output_craftsmen;Promote Craftsmen and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x
+input_output_clerks;Promote Clerks and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x
+input_output_soldiers;Promote Soldiers and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x
+input_output_rgos;Reduce Factory Inputs, Increase Factory Outputs, and Increase Mining/Farming Efficiency;;;;;;;;;x
+soldier_assimilation_bonus;Promote Soldiers and Boost Assimilation Rate;;;;;;;;;x
+craftsmen_assimilation_bonus;Promote Craftsmen and Boost Assimilation Rate;;;;;;;;;x
+bureaucrat_migration_bonus;Promote Bureaucrats and Increase Internal Migrant Priority;;;;;;;;;x
+promote_bureaucrats_4;Encourage Bureaucrats Boost;;;;;;;;;x
+promote_capitalists_4;Encourage Capitalists Boost;;;;;;;;;x
+promote_clergymen_4;Encourage Clergymen Boost;;;;;;;;;x
+promote_clerks_4;Encourage Clerks Boost;;;;;;;;;x
+promote_craftsmen_4;Encourage Craftsmen Boost;;;;;;;;;x
+promote_officers_4;Encourage Officers Boost;;;;;;;;;x
+promote_soldiers_4;Encourage Soldiers Boost;;;;;;;;;x
+tier_2_title;§GBoosts I Unlocked!;;;;;;;;;;;;;;x
+tier_2_desc;With the discovery of Phenomenalism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;;x
+tier_3_title;§GBoosts II!;;;;;;;;;;;;;;x
+tier_3_desc;With the discovery of Experimental Psychology, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;;x
+tier_4_title;§GBoosts III Unlocked!;;;;;;;;;;;;;;x
+tier_4_desc;With the discovery of Psychoanalysis, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;;x
+tier_2;Boosts I Unlock from Phenomenalism;;;;;;;;;x
+tier_3;Boosts II Unlock from Experimental Psychology;;;;;;;;;x
+tier_4;Boosts III Unlock from Psychoanalysis;;;;;;;;;x
+pop_shift_invention_2;§GBoosts I Unlock;;;;;;;;;;;;;;;;;;;;x
+pop_shift_invention_2_desc;Your Boosts I have unlocked!;;;;;;;;;;;;;;;;;;;;x
+pop_shift_invention_3;§GBoosts II Unlock;;;;;;;;;;;;;;;;;;;;x
+pop_shift_invention_3_desc;Your Boosts II have unlocked!;;;;;;;;;;;;;;;;;;;;x
+pop_shift_invention_4;§GBoosts III Unlock;;;;;;;;;;;;;;;;;;;;x
+pop_shift_invention_4_desc;Your Boosts III have unlocked!;;;;;;;;;;;;;;;;;;;;x
+black_hand;The Black Hand;;;;;;x
+black_hand_desc;The Black Hand has arrived!;;;;;;x
+form_black_hand_title;Form the Black Hand;;;;;;;x
+form_black_hand_desc;The Brotherhood has entrusted me. It is time for a harvest. Fields of green. . ..;;;;;;;x
+kane1;Teaching's of Kane;;;;;;;x
+kane1_desc;Peace Through Power;;;;;;x
+kane_title;The Teachings of Kane;;;;;;;x
+kane_desc;Peace Through Power will be the slogan to unite Earth!;;;;;;x
+temple_prime_title;Construct Temple Prime;;;;;;;x
+temple_prime_desc;Serbia has treated us well, but it is time we expand our operation and begin mining Tiberium in earnest. . .;;;;;;;x
+please_redeem_title;Retake India;;;;;;x
+please_redeem_desc;They got away somehow. . . §RThis will instantly declare war on India!§b(release the other one by decision if you only lost one puppet).;;;;;;;x
+ARMY_TECHNOLOGY_LEVELS; ;;;;;;;;;;;x
+NAVY_TECHNOLOGY_LEVELS; ;;;;;;;;;;;x
+increase_healthcare_title;§RImprove Healthcare§B;;;;;;;;x
+increase_healthcare_desc;You need to pay your admin for this to do anything;;;;;;;;;;x
+increase_school_system_title;§GImprove School System§B;;;;;;;;x
+increase_school_system_desc;Hallo;;;;;;;;;;x
+trinket_health_care_funding;Trinket Healthcare;;;;;;;;x
+low_health_care_funding;Low Healthcare;;;;;;;;;x
+acceptable_health_care_funding;Acceptable Healthcare;;;;;;;;x
+good_health_care_funding;Good Healthcare;;;;;;;;x
+medicine_flags_title;medicine flags;;;;;;;;x
+medicine_flags_desc;lalalala;;;;;;;;x
+health_care_change;Healthcare Change;;;;;;;x
+health_care_change_desc;allo;;;;;;;;x
+schooling_change;Schools Out;;;;;x
+schooling_change_desc;for Summer;;;;;;;x
+medicine_invented;Medicine Invented;;;;;;;x
+medicine_invented_desc;good job;;;;;;;;x
+germs_invented;Germs Invented;;;;;;;x
+germs_invented_desc;good job;;;;;;;;x
+gaslights_invented;You Didn't Invent This;;;;;;;x
+gaslights_invented_desc;You literally didnt invent gaslights;;;;;;;;x
+electricity_invented;Electro Wizard Invented;;;;;;;x
+electricity_invented_desc;El-ectr-citity!;;;;;;;;x
+claim_manchuria_title;Claim Manchuria Proper;;;;;;;x
+claim_manchuria_desc;Our preparations around the source of the heavenly Mandate are complete. With one order, we can begin marching into Manchuria to setup our first of many outposts.;;;;;;;x
+mughals_title;Son of Timur;;;;;;;x
+mughals_desc;Its the Green its the green its the green you need!!! Who needs Samarkand when you have India Super Power 1920!;;;;;x
+build_newdelhi;Build New Delhi;;;;;;x
+build_newdelhi;We are building the mother of all call centers, Jack! You're gonna have to crack a few whips. . .;;;;;;x
+timurlane_home_title;Timurlane's Home;;;;;;;x
+timurlane_home_desc;ITS COMING HOME! SHES COMIN HOME TO SAMARKAND!;;;;;;;x
+germ_theory;Germ Theory;;;;;;x
+germ_theory_desc;2 weeks;;;;;;;x
+player_unciv_mobilization;Unciv Player Buff;;;;;;;;x
+neutrality;Neutrality;;;;;;;x
+generic_neutrality;Generic Neutrality;;;;;;x
+day_one_setup_title;Day One Setup;;;;;;;;;x
+day_one_setup_desc;Set me up!;;;;;;;x
+EVTNAME19000190;Switch Schools;;;;;;x
+EVTDESC19000190;Switch it up!\n§BArmy School - §G10% Army and 5% Industry\n§BNavy School - §G10% Navy and 5% Industry\n§BIndustry School - §G10% Industry and 5% Commerce \n§BCulture School - §G10% Culture and 5% Industry \n§BCommerce School - §G10% Commerce and 5% Army§b;;;;;;;;x
+EVTOPTA19000190;§RArmy;;;;;;;x
+EVTOPTB19000190;§bNavy;;;;;;;x
+EVTOPTC19000190;§RIndustry;;;;;;;x
+EVTOPTD19000190;§bCulture;;;;;;;x
+EVTOPTE19000190;§RCommerce;;;;;;;x
+EVTOPTF19000190;Nevermind. . .;;;;;;;x
+national_confusion;National Confusion;;;;;;;x
+national_confusion_desc;10 Year Cooldown;;;;;;;x
+millionsmustdie;Millions Must Die!;;;;;;;x
+millionsmustdie_desc;how many?;;;;;;;;;x
+militiaraised;Militia Raised;;;;;;x
+militiaraised_desc;Militia have been raised here already;;;;;;x
+EVTNAME91102;EUREKA!;;;;;;;
+EVTDESC91102;I just scienced all over the place. . . ;;;;;;;x
+EVTOPTA91102;Unbelievable;;;;;;;x
+expand_naval_base_title;Expand Naval Bases;;;;;;x
+expand_naval_base_desc;This instantly builds naval bases up to their level researched. IMPORTANT! It cannot place them down for you at level 1. It also won't bankrupt you, it will only take whats available. Naval bases that are already built up will still count towards the cost so its all or nothing SORRY!! The prices increase as usual although not according to material costs.;;;;;;;;x
+built_naval_base;Naval Base Built;;;;;x
+built_naval_base_desc;Research the next tech;;;;;;x
+assimilation_buff;Assimilation Buff;;;;;;x
+assimilation_buff_desc;Green cards;;;;;;x
+start_fake_war_title;Start Fake War;;;;;;x
+start_fake_war_desc;Use this to take control of puppet units;;;;;x
+end_fake_war_title;End Fake War;;;;;;x
+end_fake_war_desc;Return units and such;;;;;;x
+hungary_puppet;Hungary Mobs;;;;;x
+hungary_puppet_desc;Removes Hungarian Mobs until KuK is formed;;;;;x
+JAP_1666;Shikoku;;;;;;x
+JAP_1640;Chigoku;;;;;;x
+JAP_1660;Northern Kyushu;;;;;x
+JAP_1662;Southern Kyushu;;;;;x
+newgranada_title;Revive the Old Viceroyalty;;;;;;x
+newgranada_desc;Mexico is old news, what we have will shine brighter than anything in North America!;;;;;;x
+MOZ;Mozambique;;;;;;x
+ANG;Angola;;;;;;;x
+MOZ_ADJ;Mozambique;;;;;;;x
+ANG_ADJ;Angolan;;;;;;;x
+light_artillery;Light Artillery;;;;;;x
+medium_artillery;Medium Artillery;;;;;;x
+heavy_artillery;Heavy Artillery;;;;;;;x
+anti_aircraft_artillery;Anti Aircraft Guns;;;;;;x
+improved_anti_aircraft_artillery;Flak Anti-Air;;;;;;x
+puppet_war_event;Puppet War Cooldown;;;;;;;x
+puppet_war_event_desc;cooldown so event doesnt spam you;;;;;;;x
+EVTNAME19000192;Puppet Truce Blocked;;;;;;x
+EVTDESC19000192;This event makes it so you are at war with everyone's puppets regardless of truces.\n§BO.K. Garmin!\n§RCall in my vassals!§b;;;;;;;;x
+EVTOPTA19000192;§RSomehow this works§b;;;;;;;x
+EVTNAME19000193;Infamy Tech;;;;;;;x
+EVTDESC19000193;Hide yo kids. Hide yo wife. And hide yo husband. Cause they be rapin er'body up here!;;;;;;;x
+EVTOPTA19000193;We gon' find you...;;;;;;;x
+infamy_tech1;infamy tech 1;;;;;;x
+infamy_tech1_desc;Hi;;;;;;x
+infamy_tech2;infamy tech 2;;;;;;x
+infamy_tech2_desc;Hello-;;;;;;x
+infamy_tech3;infamy tech 3;;;;;;x
+infamy_tech3_desc;:>;;;;;;x
+infamy_tech4;infamy tech 4;;;;;;x
+infamy_tech4_desc;0-o;;;;;;x
+infamy_tech1;infamy tech 5;;;;;;x
+infamy_tech5_desc;Burn and Plunder, until nothing remains.;;;;;;x
+market_structure;Market Structure (Infamy);;;;;;;x
+business_regulations;Business Regulations (Infamy);;;;;;;x
+market_regulations;Market Regulations (Infamy);;;;;;;x
+economic_responsibility;Economic Responsibility (Infamy);;;;;;x
+government_interventionism;Government Interventionism (Infamy);;;;;;x
+please_redeem2_title;India Freedom;;;;;;;;x
+please_redeem2_desc;Click this for India gaming;;;;;;;x
+EVTNAME19000194;Halt!;;;;;;;x
+EVTDESC19000194;Stop trying to ally the Space Marines in the mountains, they are neutral.;;;;;;;x
+EVTOPTA19000194;You've Violated the Law. . ..;;;;;;;x
+subdue_the_south_title;Subdue the South;;;;;;x
+subdue_the_south_desc;Its time to prove who runs this peninsula;;;;;;x
+accept_the_south_title;Accept the South;;;;;;x
+accept_the_south_desc;We arent gonna give them anything we just gonna let them vote dont worry;;;;;x
+pardo;Pardo;;;;;;x
+regency;Regency;;;;;;;x
+regency_desc;The King/Queen is not in Town;;;;;;;x
+pedro2;Dom Pedro II "The Magnanimous";;;;;;;x
+pedro2_desc;Pedro de Alcântara João Carlos Leopoldo Salvador Bibiano Francisco Xavier de Paula Leocádio Miguel Gabriel Rafael Gonzaga;;;;;;;x
+BRZ_hms_government;Empire of Brazil;;;;;;x
+BRZ_absolute_monarchy;Empire of Brazil;;;;;;x
+BRZ_pedro;Pedro Supporters;;;;;;;x
+EVTNAME19000195;Brazilian Regency;;;;;;;x
+EVTDESC19000195;During the early 19th Century, Brazil experienced a period of extreme unrest before Dom Pedro II was of age.;;;;;;;x
+EVTOPTA19000195;Nah, I'd Win.;;;;;;x
+cooldown;Cooldown;;;;;;x
+cooldown_desc;Generic Cooldown;;;;;;x
+EVTNAME19000196;Slave Traders;;;;;;;x
+EVTDESC19000196;Despite earlier efforts and legislation, the slave trade still exists due to a lack of enforcement. Eventhough Great Britain threatens us with punitive action over it, economic incentives are a difficult force to overcome. . .;;;;;;;x
+EVTOPTA19000196;I'm actually just too lazy.;;;;;;x
+EVTNAME19000197;Manumission;;;;;;;x
+EVTDESC19000197;Institutional reform has failed many, so those who wish to see change act on their own to bring about a new future. There are slave owners who free their slaves in their wills.;;;;;;;x
+EVTOPTA19000197;Hopium Administered;;;;;;x
+dompedro2_title;Pedro II's Coronation;;;;;;x
+dompedro2_desc;The regency is plaguing the country with instability and corruption, but we need kid Pedro to be an adult to be declared King. We could just say he is old enough I guess. . .\n§G This will lock you out of the oligarch path and lead you down a path of internal reform and freeing the slaves!§b;;;;;;;x
+pedroeducation_title;Pedro's Basics in Education;;;;;;x
+pedroeducation_desc;Pedro II was an avid enthusiast of education, claiming that teaching was the most noble profession. He is responsible for Brazil's oldest universities and research campuses, promoting the democratization of the academic world.;;;;;;;x
+overthrowmonarchy_title;Replace the Monarchy;;;;;;x
+overthrowmonarchy_desc;The monarchy is an old institution that needs to be fully removed in order to protect the interests of the nation. Currently, it prevents us from effectively leading the nation as the heir is not of age yet.\n§R This will lock you out of Pedro II's decisions and lead you down a path of expansion and enslavement.§b;;;;;;x
+braziloligarchy;The Oligarchy;;;;;;x
+braziloligarchy_desc;evil fellas;;;;;;x
+form_sau_title;Form the South American Union;;;;;x
+form_sau_desc;next, The World. . .. ;;;;;;x
+form_bpa_title;Form the Empire of Brazil, Portugal, and the Algarves;;;;;;;x
+BPA;Empire of Brazil, Portugal, and the Algarves;;;;;;x
+BPA_ADJ;Brazilian;;;;;;x
+endslavery_title;End Slavery;;;;;;x
+endslavery_desc;Although previous efforts have reduced slavery greatly, it is still technically present within our great nation. With the Lei Áurea, we will end this institution nationwide!;;;;;;;x
+encourage_slavery_title;Openly Trade in Slaves;;;;;;x
+encourage_slavery_desc;Yeah we are straight evil. Time to start enslaving natives n such for profit.\n(This will stop the random events and give a decision instead);;;;;;x
+blood_diamonds_title;Blood Diamond Mine;;;;;;x
+blood_diamonds_desc;Minas Gerais has a wealth of gems, minerals, and metals. With our newly acquired labor force, we could exploit this resource. . . .;;;;;x
+buy_slaves_title;Buy Slaves;;;;;;x
+buy_slaves_desc;Exactly what the title says. Of course if no one is selling, we cant buy.;;;;;x
+blooddiamonds;Blood Diamonds;;;;;;x
+blooddiamonds_desc;The cruelest place on Earth...;;;;;;x
+cisplatina_title;Reclaim Cisplatina;;;;;x
+cisplatina_desc;Due to our failure to crush our enemies in the Cisplatine War, we ended up being forced to grant Uruguay independence. It's time that we strike them back and bring Cisplatina into our fold again!;;;;;;x
+minas_gerais_mines_title;Subsidize Industry in Minas Gerais;;;;;x
+minas_gerais_mines_desc;Theres a wealth of minerals and metals that pickaxes and wheelbarrows cannot excavate. We should purchase modern equipment from Europe to transform the state into the world's source of coal and iron.;;;;;;x
+PROV3254;Meleiha;;;;;;;x
+PROV3255;Al Dhaba;;;;;;x
+PROV3256;Moghara;;;;;;x
+PROV3257;El Alamein;;;;;;x
+PROV3258;Ras Sedr;;;;;;;x
+PROV3259;Abu Durba;;;;;;x
+PROV3260;Saint Catherine;;;;;;x
+PROV3261;Abu Zemina;;;;;;x
+PROV3262;Bir El Malhi;;;;;;x
+PROV3263;Al Qusaymah;;;;;;;x
+EGY_1753;Mersa Matruh;;;;;;x
+EGY_1771;Central Egypt;;;;;;;x
+EGY_1767;Upper Egypt;;;;;;;;x
+EGY_1758;Desert of Egypt;;;;;;x
+SYR_ADJ;Syrian;Syrian;Syrian;;;;;;;;;;;x;
+SYR;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_proletarian_dictatorship;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_presidential_dictatorship;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_bourgeois_dictatorship;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_fascist_dictatorship;Asad Regime;Asad Regime;Asad Regime;;;;;;;;;;;x;
+SYR_absolute_monarchy;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_prussian_constitutionalism;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_hms_government;Syria;Syria;Syria;;;;;;;;;;;x;
+SYR_democracy;Syrian Republic;Syrian Republic;Syrian Republic;;;;;;;;;;;x;
+SYR_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+SYR_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+SYR_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+SYR_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+SYR_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+SYR_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+SYR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+SYR_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+SYR_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+EGY_1838;West Sudan;;;;;;;;x
+EGY_1835;Dongola;;;;;;;;x
+ZIN_ADJ;Zionist;Zionist;Zionist;;;;;;;;;;;x;
+ZIN;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_proletarian_dictatorship;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_presidential_dictatorship;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_bourgeois_dictatorship;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_fascist_dictatorship;Israel;Israel;Israel;;;;;;;;;;;x;
+ZIN_absolute_monarchy;Kingdom of David;Kingdom of David;Kingdom of David;;;;;;;;;;;x;
+ZIN_prussian_constitutionalism;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_hms_government;Zion;Zion;Zion;;;;;;;;;;;x;
+ZIN_democracy;Republic of Zion;Republic of Zion;Republic of Zion;;;;;;;;;;;x;
+ZIN_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ZIN_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ZIN_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ZIN_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ZIN_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ZIN_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ZIN_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ZIN_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ZIN_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+crocodile_start_title;Start Scheming;;;;;;x
+crocodile_start_desc;Now that the Great Egyptian Civil War has started, we must act quickly to reunite the region under Mr. 1's rule. We may hope to find ancient treasures along the way...;;;;;;x
+tacitus_retrieval_title;Retrieve the Tacitus;;;;;;;x
+tacitus_retrieval_desc;An ancient artefact buried deep within Alexandria holds the secrets to our success. We must retreive this artefact!;;;;;;x
+EVTNAME19000211;Jumpscare Fin;;;;;;;x
+EVTDESC19000211;Scary;;;;;;;x
+OPTA19000211;Its over;;;;;;;x
+ROC_ADJ;Pirate;Pirate;Pirate;;;;;;;;;;;x;
+ROC;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_proletarian_dictatorship;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_presidential_dictatorship;Rocks Pirates;Rocks Pirates;Rocks Pirates;;;;;;;;;;;x;
+ROC_bourgeois_dictatorship;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_fascist_dictatorship;Shiki Pirates;Shiki Pirates;Shiki Pirates;;;;;;;;;;;x;
+ROC_absolute_monarchy;Rocks Pirates;Rocks Pirates;Rocks Pirates;;;;;;;;;;;x;
+ROC_prussian_constitutionalism;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_hms_government;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_democracy;Barbary Pirates;Barbary Pirates;Barbary Pirates;;;;;;;;;;;x;
+ROC_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+ROC_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+ROC_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+ROC_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+ROC_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+ROC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+ROC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+ROC_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+ROC_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+KNG_ADJ;Pharoah's;Pharoah's;Pharoah's;;;;;;;;;;;x;
+KNG;Pharoah's Realm;Pharoah's Realm;Pharoah's Realm;;;;;;;;;;;x;
+KNG_proletarian_dictatorship;Skeleton's Republic of the Pharoah;Skeleton's Republic of the Pharoah;Skeleton's Republic of the Pharoah;;;;;;;;;;;x;
+KNG_presidential_dictatorship;Pharoah's Realm;Pharoah's Realm;Pharoah's Realm;;;;;;;;;;;x;
+KNG_bourgeois_dictatorship;Pharoah's Realm;Pharoah's Realm;Pharoah's Realm;;;;;;;;;;;x;
+KNG_fascist_dictatorship;Neo-Pharoah Empire;Neo-Pharoah Empire;Neo-Pharoah Empire;;;;;;;;;;;x;
+KNG_absolute_monarchy;Pharoah's Realm;Pharoah's Realm;Pharoah's Realm;;;;;;;;;;;x;
+KNG_prussian_constitutionalism;Pharoah's Realm;Pharoah's Realm;Pharoah's Realm;;;;;;;;;;;x;
+KNG_hms_government;His Pharoah's Government;His Pharoah's Government;His Pharoah's Government;;;;;;;;;;;x;
+KNG_democracy;Republic of Pharoahs;Republic of Pharoahs;Republic of Pharoahs;;;;;;;;;;;x;
+KNG_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;;;;;x;
+KNG_liberal_79;Liberals;Liberals;Liberals;;;;;;;;;;;x;
+KNG_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;;;;;x;
+KNG_socialist_85;Socialists;Socialists;Socialists;;;;;;;;;;;x;
+KNG_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;;;;;x;
+KNG_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;;;;;x;
+KNG_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x;
+KNG_communist_86;Communists;Communists;Communists;;;;;;;;;;;x;
+KNG_fascist_72;Fascists;Fascists;Fascists;;;;;;;;;;;x;
+pharoahreawakened;Pharoah's March;;;;;;;x
+pharoahreawakened_desc;The Pharoah shall rule Egypt once more!;;;;;;x
+pirateking;Pirate King;;;;;;x
+pirateking_desc;Vohahaha!;;;;;;x
+awakenlubu_title;Awaken Lu Bu;;;;;;x
+awakenlubu_desc;Let the battle begin!;;;;;;x
+active_war;Active Egypt War;;;;;;x
+active_war_desc;End your current campaign to start another;;;;;x
+EVTNAME19000213;Jewish Emmigration;;;;;;x
+EVTDESC19000213;The promise of a Jewish homeland, despite regional conflicts, has drawn them away from our nation and towards the Middle East.;;;;;;x
+EVTOPTA19000213;Bye bye!;;;;;;x
+charlesdarwin_title;Speak with Mr. Darwin;;;;;;x
+charlesdarwin_desc;Charles has been around South America researching the next big thing, im sure he would stop by to entertain the Emperor for a bit on the subject.;;;;;;x
+christtheredeemer_title;Build Christ the Redeemer;;;;;;x
+christtheredeemer_desc;In a collaboration between Paul Landowski, Heitor da Silva Costa, Gheorghe Leonida, and Albert Caquot, a statue of Jesus Christ was created overlooking Rio de Janeiro. It stands 30m high on a 700m peak with its arms stretched out towards the world.;;;;;x
+theredeemer;Christ the Redeemer;;;;;;x
+theredeemer_desc;The Brazilian Statue;;;;;;x
+theworld_title;§RTHE WORLD§b;;;;;;;x
+theworld_desc;§bThis is it, what everything has culminated towards, the enslavement of THE WORLD itself. . .;;;;;;;x
+poseidon_title;§BPoseidon§b;;;;;;;;;x
+poseidon_desc;There are records in Alexandria of an Ancient Weapon buried deep under Malta, we must find it!;;;;;;x
+pluton_title;§GPluton§b;;;;;;;;;x
+pluton_desc;There are records in Alexandria of an Ancient Weapon buried deep under Baghdad, we must find it!;;;;;;x
+uranus_title;§RUranus§b;;;;;;;;;x
+uranus_desc;There are records in Alexandria of an Ancient Weapon buried deep under Khartoum, we must find it!;;;;;;x
+form_iberia_title; Form the Iberian Union;;;;;;;;;;;;;;x
+form_iberia_desc;From 1580 to 1640 existed a dynastic union of the Kingdom of Spain and the Kingdom of Portugal under the Spanish Crown, also known as the Union Iberica. It was the most powerful and respected country in the world and streched from China to Mexico, it was the first empire, where the sun never set. To reignite the glory of the old empire, we shall unite again!;;;;;;;;;;;;;;x
+form_caliphate_title;Form the Caliphate;;;;;;;;;;;;;;x
+form_caliphate_desc;We must unite the Islamic World under our banner, like the prophet wanted it. Allahu Akbar!;;;;;;;;;;;;;;x
+annex_romania_title;Centralize the Danubian Principalities;;;;;;;;;;;;;;x
+annex_romania_desc;§RThis will antagonize Russia.§b The Treaty of Kucuk Kaynarca authorised the Russian ambassador in Istanbul to defend the autonomy of Moldavia and Wallachia in 1774. After the Russo-Turkish War of 1828/1829, the Treaty of Adrianople strengthened the autonomy of the Danubian Principalities even further. We will not make the same mistake twice, we will unite the empire fully under the leadership of the Sublime Porte!;;;;;;;;;;;;;;x
+form_italy_peacefully_title;Form Italy peacefully;;;;;;;;;;;;;;x
+form_italy_peacefully_desc;For too long the national ambition of the Italian people have been ignored. If we cannot unite all Italians by force, we must unite all that we can.;;;;;;;;;;;;;;x
+unite_the_south_of_south_america_title;Unite the South;;;;;;;;;;;;;;x
+unite_the_south_of_south_america_desc;We have united the south and have incorporated their cultures into our own.;;;;;;;;;;;;;;x
+unite_the_north_of_south_america_title;Unite the North;;;;;;;;;;;;;;x
+unite_the_north_of_south_america_desc;We have united the north and have incorporated their cultures into our own.;;;;;;;;;;;;;;x
+unite_south_america_title;Unite all of South America;;;;;;;;;;;;;;x
+unite_south_america_desc;We have united all of South America and are ready to take our rightful place among the other Great Powers.;;;;;;;;;;;;;;x
+claim_central_america_title;Claim Central America;;;;;;;;;;;;;;x
+claim_central_america_desc;Central America is weak and without a leader. We must take charge and restore order.;;;;;;;;;;;;;;x
+integrate_egypt_title;Integrate Egypt;;;;;;;;;;;;;;x
+integrate_egypt_desc;Once we have total control of the Egyptian lands, we can bring them back to the loving and embracing arms of Allah.;;;;;;;;;;;;;;
+form_benelux_title;Unite the Netherlands;;;;;;;;;;;;;;x
+form_benelux_desc;The United Netherlands was created in the aftermath of the Napoleonic Wars through the fusion of territories that had belonged to the former Dutch Republic and Austrian Netherlands in order to form a buffer state between the major European powers. The polity collapsed in 1830 with the outbreak of the Belgian Revolution. With the de facto secession of Belgium, the Netherlands was left as a rump state and refused to recognise Belgian independence. Now it is time to reunite our people into the United Kingdom of the Netherlands!;;;;;;;;;;;;;;x
+annex_luxemburg_title;Annex Luxemburg;;;;;;;;;;;;;;x
+annex_luxemburg_desc;After the defeat of Napoleon in 1815, the Duchy of Luxemburg was restored. At the Congress of Vienna the great powers decided that Luxemburg would become a member state of the newly formed German Confederation, but at the same time William I of the Netherlands, the King of the Netherlands, would become, in personal union, the head of state. Now we shall make it a integral part of the Netherlands.;;;;;;;;;;;;;;x
+switch_to_dutch_tech_school_title;Switch to Dutch Merchant Fleet Tech School;;;;;;;;;;;;;;x
+switch_to_dutch_tech_school_desc;Our long naval and commercial tradition will give us an edge in these fields;;;;;;;;;;;;;;x
+dutch_tech_school;Dutch Merchant Fleet;;;;;;;;;;;;;x
+chinese_reform_2_title;Chinese Reform Two;;;;;;;;x
+chinese_reform_2_edsc;yada yada;;;;;;;;;x

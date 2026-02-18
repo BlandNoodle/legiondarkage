@@ -1,0 +1,250 @@
+country_event = {
+
+	id = 9990004
+
+	is_triggered_only = yes
+	
+
+	title = "Our homeland wants to set us free"
+	desc = "we free"
+	picture = "cityfire"
+
+	option = {
+		name = "We will go onwards alone"	
+		release_vassal = THIS
+		prestige = 10
+		ai_chance = {
+			factor = 100
+		}			
+	}
+
+	option = {
+		name = "We want to stay by our beloved homeland"
+		prestige = -10	
+	}
+}
+
+country_event = {
+	title = EVTNAME91102
+	desc = EVTDESC91102
+	id = 91102
+	picture = eureka
+
+	trigger = {
+		OR = {
+			AND = {
+				battleship_column_doctrine = 1
+				NOT = { has_country_flag = battleship_column_doctrine_invented }
+			}
+			AND = {
+				raider_group_doctrine = 1
+				NOT = { has_country_flag = raider_group_doctrine_invented }
+			}
+			AND = {
+				blue_and_brown_water_schools = 1
+				NOT = { has_country_flag = blue_and_brown_water_schools_invented }
+			}
+			AND = {
+				high_sea_battle_fleet = 1
+				NOT = { has_country_flag = high_sea_battle_fleet_invented }
+			}
+			AND = {
+				modern_naval_doctrine = 1
+				NOT = { has_country_flag = modern_naval_doctrine_invented }
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA91102"
+		random_owned = {
+			limit = {
+				owner = {
+					battleship_column_doctrine = 1
+					NOT = { has_country_flag = battleship_column_doctrine_invented }
+				}
+			}
+			owner = {
+				set_country_flag = battleship_column_doctrine_invented
+				any_owned = {
+					remove_province_modifier = built_naval_base
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					raider_group_doctrine = 1
+					NOT = { has_country_flag = raider_group_doctrine_invented }
+				}
+			}
+			owner = {
+				set_country_flag = raider_group_doctrine_invented
+				any_owned = {
+					remove_province_modifier = built_naval_base
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					blue_and_brown_water_schools = 1
+					NOT = { has_country_flag = blue_and_brown_water_schools_invented }
+				}
+			}
+			owner = {
+				set_country_flag = blue_and_brown_water_schools_invented
+				any_owned = {
+					remove_province_modifier = built_naval_base
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					high_sea_battle_fleet = 1
+					NOT = { has_country_flag = high_sea_battle_fleet_invented }
+				}
+			}
+			owner = {
+				set_country_flag = high_sea_battle_fleet_invented
+				any_owned = {
+					remove_province_modifier = built_naval_base
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					modern_naval_doctrine = 1
+					NOT = { has_country_flag = modern_naval_doctrine_invented }
+				}
+			}
+			owner = {
+				set_country_flag = modern_naval_doctrine_invented
+				any_owned = {
+					remove_province_modifier = built_naval_base
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	title = EVTNAME19000193
+	desc = EVTDESC19000193
+	id = 19000193
+	picture = hide
+
+	trigger = {
+		OR = {
+			AND = {
+				market_structure = 1
+				NOT = { has_country_flag = market_structure_invented }
+			}
+			AND = {
+				business_regulations = 1
+				NOT = { has_country_flag = business_regulations_invented }
+			}
+			AND = {
+				market_regulations = 1
+				NOT = { has_country_flag = market_regulations_invented }
+			}
+			AND = {
+				economic_responsibility = 1
+				NOT = { has_country_flag = economic_responsibility_invented }
+			}
+			AND = {
+				government_interventionism = 1
+				NOT = { has_country_flag = government_interventionism_invented }
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	option = {
+		name = "EVTOPTA19000193"
+		random_owned = {
+			limit = {
+				owner = {
+					market_structure = 1
+					NOT = { has_country_flag = market_structure_invented }
+				}
+			}
+			owner = {
+				set_country_flag = market_structure_invented
+				add_country_modifier = {
+					name = infamy_tech1
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					business_regulations = 1
+					NOT = { has_country_flag = business_regulations_invented }
+				}
+			}
+			owner = {
+				set_country_flag = business_regulations_invented
+				add_country_modifier = {
+					name = infamy_tech2
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					market_regulations = 1
+					NOT = { has_country_flag = market_regulations_invented }
+				}
+			}
+			owner = {
+				set_country_flag = market_regulations_invented
+				add_country_modifier = {
+					name = infamy_tech3
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					economic_responsibility = 1
+					NOT = { has_country_flag = economic_responsibility_invented }
+				}
+			}
+			owner = {
+				set_country_flag = economic_responsibility_invented
+				add_country_modifier = {
+					name = infamy_tech4
+					duration = -1
+				}
+			}
+		}
+		random_owned = {
+			limit = {
+				owner = {
+					government_interventionism = 1
+					NOT = { has_country_flag = government_interventionism_invented }
+				}
+			}
+			owner = {
+				set_country_flag = government_interventionism_invented
+				add_country_modifier = {
+					name = infamy_tech5
+					duration = -1
+				}
+			}
+		}
+	}
+}

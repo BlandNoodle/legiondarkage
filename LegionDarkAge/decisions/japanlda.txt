@@ -1,0 +1,127 @@
+political_decisions = {
+
+unify_nihongo = {
+
+potential = {
+OR = {
+tag = JAP
+}
+NOT = { has_country_flag = japan_form } 
+}
+
+
+allow = {NOT = {war = yes}
+
+
+
+
+ANU = {
+	all_core = {
+	OR = {
+	owned_by = THIS
+	owner = {
+	in_sphere = THIS}}}}
+JAP = {
+all_core = {
+OR = {
+owned_by = THIS
+owner = {
+in_sphere = THIS
+}}}}}
+
+effect = {
+prestige = 30
+ANU = {civilized = yes}
+inherit = ANU
+set_country_flag = japan_form
+any_owned = {
+
+limit = { is_core = ANU}
+add_core = THIS
+add_province_modifier = {
+	name = japan_assim
+	duration = 40125
+}
+}
+
+any_owned = {
+limit = { is_core = JAP}
+
+add_core = THIS
+}
+
+
+JAP = { all_core = { add_core = THIS } }
+ANU = { all_core = { add_core = THIS } }
+
+
+
+}}
+
+	new_capital_in_the_east = {
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = modern_capital_in_the_east }
+			owns = 1649
+		}
+		allow = {
+			war = no
+			civilized = yes
+			state_n_government = 1	
+		}
+		
+		effect = {
+			set_country_flag = modern_capital_in_the_east
+			prestige = 5
+			capital = 1649
+			1649 = { life_rating = 15}
+			1649 = {
+				add_province_modifier = {
+					name = gateway_to_harbor
+					duration = -1
+				}
+				change_province_name = "Tokyo"
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	fukoku_kyohei = {
+		potential = {
+			tag = JAP
+			NOT = { has_country_modifier = uncivilized_isolationism }
+			NOT = { has_country_flag = fukoku_kyohei_enacted }
+		}
+		allow = {
+			has_country_flag = sent_iwakura_mission
+			civilized = yes
+			empiricism = 1
+		}		
+		effect = {
+			set_country_flag = fukoku_kyohei_enacted
+			tech_school = japanese_tech_school
+			years_of_research = 2
+			prestige = 10
+			any_pop = {
+				limit = { is_primary_culture = yes }
+				ideology = {
+					value = liberal
+					factor = 0.05
+				}
+				ideology = {
+					value = reactionary
+					factor = -0.10
+				}
+				scaled_consciousness = {
+					ideology = liberal
+					factor = 4
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
