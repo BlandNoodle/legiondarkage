@@ -124,7 +124,7 @@ badboy = 5
 gaulic_domination_goths={
 
 potential = {
-has_country_flag = gauldom
+NOT ={has_country_flag = gauldom}
 tag = SPA
 has_core = FRA_435
 has_core = FRA_438
