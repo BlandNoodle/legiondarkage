@@ -395,28 +395,72 @@ country_event = {
 }
 
 country_event = {
-	id = 7770960
-	title = "Franco-Visigothic Wars"
-	desc = "EVTDESC7770960"
+	id = 19000214
+	title = "EVTNAME19000214"
+	desc = "EVTDESC19000214"
 	picture = "clovis1"
 	
-	is_triggered_only = yes
+	trigger = {
+		tag = FRA
+		NOT = {year = 502}
+		NOT = {has_country_flag = cloviscored}
+	}
+	
+	mean_time_to_happen = {
+			days = 1
+	}
+	
+	immediate = {
+		set_country_flag = cloviscored
+	}
 	
 	option = {
-		name = "To War!"
-		
-		THIS = {
-			war = {
-				target = SPA
-				attacker_goal = { 
-					casus_belli = { 
-						casus_belli = frankia_atk
-						}
-					}
-				defender_goal = { casus_belli = humiliate }
+		name = "EVTOPTA19000214"
+		add_country_modifier = {
+			name = cloviscores
+			duration = 5475
+		}
+	}
+}
+
+country_event = {
+	id = 19000215
+	title = "EVTNAME19000215"
+	desc = "EVTDESC19000215"
+	picture = "clovis2"
+	
+	trigger = {
+		tag = FRA
+		NOT = {year = 516}
+		has_country_flag = cloviscored
+		NOT = {has_country_flag = clovisuncored}
+		NOT = {has_country_modifier = cloviscores}
+	}
+	
+	mean_time_to_happen = {
+			days = 1
+	}
+	
+	immediate = {
+		set_country_flag = clovisuncored
+	}
+	
+	option = {
+		name = "EVTOPTA19000215"
+		all_core = {
+			limit = {
+				owned_by = SPA
 			}
-			badboy = 10
-		set_country_flag = clovistime
+			remove_core = FRA
+		}
+		any_owned = {
+			limit = {
+				AND = {
+					is_core = SPA
+					is_core = FRA
+				}
+			}
+			remove_core = SPA
 		}
 	}
 }

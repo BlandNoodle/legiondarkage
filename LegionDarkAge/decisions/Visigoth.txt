@@ -57,7 +57,6 @@ political_decisions = {
 		effect = {
 			prestige = 30
 			add_accepted_culture = roman
-			add_accepted_culture = romano_hispanic
 			any_country = {
 				limit = {
 					OR = {
@@ -147,27 +146,8 @@ owns = 455
 }
 
 effect = { 
-		FRA_435 = { 
-					remove_core  = FRA
-			}
-		FRA_438 = { 
-					remove_core  = FRA
-			}
-		FRA_442 = { 
-					remove_core  = FRA
-			}
-		FRA_445 = { 
-					remove_core  = FRA
-			}
-		FRA_448 = { 
-					remove_core  = FRA
-			}
-		FRA_458 = { 
-					remove_core  = FRA
-			}
-		FRA_455 = { 
-					remove_core  = FRA
-			}
+	add_accepted_culture = romano_gallic
+	prestige = 20
 set_country_flag = gauldom
 }
 }

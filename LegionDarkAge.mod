@@ -1,4 +1,4 @@
-name = "Legion Dark Age 0.2"
+name = "Legion Dark Age 0.3"
 path =  "mod/LegionDarkAge"
 user_dir = "LegionDarkAge 0.1"
 replace_path = "decisions"

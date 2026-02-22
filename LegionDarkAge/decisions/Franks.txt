@@ -60,36 +60,5 @@ effect = { add_accepted_culture = dutch
 }
 }
 
-frankish_invasion = { 
-picture = clovis3
-potential = { 
-	AND = { 
-	NOT = { year = 514 } 
-	NOT = { has_country_flag = gaulforme } 
-	tag = FRA
-	}
-	}
-	
-allow = {
-}
 
-effect = { 
-set_country_flag = gaulforme
-badboy = 5
-country_event = { 
-	id = 7770960
-	days = 0 
-}
-country_event = { 
-	id = 7770962
-	days = 14 
-}
-SPA = {
-	country_event = { 
-	id = 7770963
-	days = 1 
-}
-}
-}
-}
 }
