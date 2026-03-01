@@ -6,6 +6,7 @@ province_event = {
 	id = 1100
 
 	trigger = {
+		tag = LIC
 		year = 500
 		or = {
 			province_id = 1				# Sitka
@@ -61,6 +62,7 @@ province_event = {
 	id = 1101
 
 	trigger = {
+		tag = LIC
 		year = 512
 		or = {
 			province_id = 88			# Mariposa
@@ -91,6 +93,7 @@ province_event = {
 	id = 1102
 
 	trigger = {
+		tag = LIC
 		year = 514
 		province_id = 1084				# Utchan
 		not = { trade_goods = precious_metal }
@@ -116,6 +119,7 @@ province_event = {
 	id = 1103
 
 	trigger = {
+		tag = LIC
 		year = 525
 		province_id = 93			# Pocatello
 		not = { trade_goods = precious_metal }
@@ -141,6 +145,7 @@ province_event = {
 	id = 1139
 	
 	trigger = {
+		tag = LIC
 		year = 550
 		province_id = 2106
 		NOT = {
@@ -186,6 +191,7 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
+		tag = LIC
 		year = 538
 		has_country_flag = custers_expedition_sent
 	}
@@ -211,6 +217,7 @@ province_event = {
 	id = 1141
 
 	trigger = {
+		tag = LIC
 		year = 528
 		province_id = 2514			# Hokitika
 		not = { trade_goods = precious_metal }
@@ -235,6 +242,7 @@ province_event = {
 	id = 1104
 
 	trigger = {
+		tag = LIC
 		year = 560
 		or = {
 			province_id = 6			# Whitehorse
@@ -266,6 +274,7 @@ province_event = {
 	id = 1000002
 
 	trigger = {
+		tag = LIC
 		year = 514
 		province_id = 2478			# Ballarat
 		not = { trade_goods = precious_metal }
@@ -295,6 +304,7 @@ province_event = {
 	id = 1000003
 
 	trigger = {
+		tag = LIC
 		year = 514
 		province_id = 2476			# Melbourne
 		not = { trade_goods = precious_metal }
@@ -324,6 +334,7 @@ province_event = {
 	id = 1000004
 
 	trigger = {
+		tag = LIC
 		year = 554
 		or = {
 			province_id = 2500			# Kalgoorlie
@@ -359,6 +370,7 @@ province_event = {
 	id = 1105
 
 	trigger = {
+		tag = LIC
 		year = 500
 		or = {
 			province_id = 2084			# Angra Pequeña
@@ -393,6 +405,7 @@ province_event = {
 	id = 1106
 
 	trigger = {
+		tag = LIC
 		year = 531
 		or = {
 			province_id = 2097			# Graaf Reinet
@@ -421,6 +434,7 @@ province_event = {
 	id = 1000001
 
 	trigger = {
+		tag = LIC
 		year = 535
 		province_id = 2094			# Kimberley
 		not = { trade_goods = precious_metal }

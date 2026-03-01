@@ -44,3 +44,40 @@ country_event = {
 		}
 	}
 }
+
+#Notify from event 13200
+country_event = {
+	id = 13201
+	title = "EVTNAME13201"
+	desc = "EVTDESC13201"
+	picture = "Outside_influences"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA13201"
+		diplomatic_influence = {
+			who = FROM
+			value = -200
+		}
+		
+	}
+
+	option = {
+		name = "DIPLO_CALL_ALLIES"
+		diplomatic_influence = {
+			who = FROM
+			value = -100
+		}
+		
+	}
+
+	option = {
+		name = "EVTOPTB13201"
+		diplomatic_influence = {
+			who = FROM
+			value = -100
+		}
+		prestige = -20
+	}
+}

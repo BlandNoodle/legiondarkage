@@ -1775,3 +1775,29 @@ the_talkies = {
 	core_pop_consciousness_modifier = 0.04
 	core_pop_militancy_modifier = -0.01
 }
+
+## RENO Focus Inventions
+
+pop_shift_invention_2 = {
+	limit = { phenomenalism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_shift_invention_3 = {
+	limit = { psychological_intelligence = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_shift_invention_4 = {
+	limit = { psychoanalysis = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
